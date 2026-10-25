@@ -1,0 +1,7 @@
+name = "PollisReferences"
+uuid = "16fe3122-f013-44bd-a8ad-a8555e1fbab1"
+authors = ["Antonio Saragga Seabra"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
