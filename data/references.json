@@ -5419,6 +5419,41 @@
 			"open_access": true
 		},
 		{
+			"key": "EJAS2024a",
+			"type": "inproceedings",
+			"title": "RAGAs: Automated Evaluation of Retrieval Augmented Generation",
+			"authors": [
+				"Es, Shahul",
+				"James, Jithin",
+				"Espinosa Anke, Luis",
+				"Schockaert, Steven"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"booktitle": "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations",
+			"publisher": "Association for Computational Linguistics",
+			"address": "St. Julians, Malta",
+			"pages": "150-158",
+			"doi": "10.18653/v1/2024.eacl-demo.16",
+			"arxiv": "2309.15217",
+			"openalex": "W4411630045",
+			"url": "https://aclanthology.org/2024.eacl-demo.16/",
+			"abstract": "We introduce Ragas (Retrieval Augmented Generation Assessment), a framework for reference-free evaluation of Retrieval Augmented Generation (RAG) pipelines. RAG systems are composed of a retrieval and an LLM based generation module, and provide LLMs with knowledge from a reference textual database, which enables them to act as a natural language layer between a user and textual databases, reducing the risk of hallucinations. Evaluating RAG architectures is, however, challenging because there are several dimensions to consider: the ability of the retrieval system to identify relevant and focused context passages, the ability of the LLM to exploit such passages in a faithful way, or the quality of the generation itself. With Ragas, we put forward a suite of metrics which can be used to evaluate these different dimensions \\textit{without having to rely on ground truth human annotations}. We posit that such a framework can crucially contribute to faster evaluation cycles of RAG architectures, which is especially important given the fast adoption of LLMs.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"retrieval-augmented generation",
+				"RAG evaluation",
+				"automated assessment",
+				"large language models"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "EK2018a",
 			"type": "article",
 			"title": "Data-Driven Distributionally Robust Optimization Using the Wasserstein Metric",
@@ -12337,6 +12372,45 @@
 			"open_access": false
 		},
 		{
+			"key": "MTMR2023a",
+			"type": "inproceedings",
+			"title": "MTEB: Massive Text Embedding Benchmark",
+			"authors": [
+				"Muennighoff, Niklas",
+				"Tazi, Nouamane",
+				"Magne, Loïc",
+				"Reimers, Nils"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"booktitle": "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
+			"publisher": "Association for Computational Linguistics",
+			"address": "Dubrovnik, Croatia",
+			"pages": "2014-2037",
+			"doi": "10.18653/v1/2023.eacl-main.148",
+			"openalex": "W4386576685",
+			"url": "https://aclanthology.org/2023.eacl-main.148/",
+			"abstract": "Text embeddings are commonly evaluated on a small set of datasets from a single task not covering their possible applications to other tasks.It is unclear whether state-of-the-art embeddings on semantic textual similarity (STS) can be equally well applied to other tasks like clustering or reranking.This makes progress in the field difficult to track, as various models are constantly being proposed without proper evaluation.To solve this problem, we introduce the Massive Text Embedding Benchmark (MTEB).MTEB spans 8 embedding tasks covering a total of 58 datasets and 112 languages.Through the benchmarking of 33 models on MTEB, we establish the most comprehensive benchmark of text embeddings to date.We find that no particular text embedding method dominates across all tasks.This suggests that the field has yet to converge on a universal text embedding method and scale it up sufficiently to provide state-of-the-art results on all embedding tasks.MTEB comes with open-source code and a public leaderboard at https://github.com/ embeddings-benchmark/mteb.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"text embeddings",
+				"benchmark",
+				"semantic textual similarity",
+				"multilingual embeddings",
+				"embedding evaluation",
+				"clustering",
+				"re-ranking",
+				"cross-task generalization",
+				"open-source benchmark"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "MWTLM2011a",
 			"type": "inproceedings",
 			"title": "Optimizing Semantic Coherence in Topic Models",
@@ -18024,6 +18098,37 @@
 			"open_access": true
 		},
 		{
+			"key": "Voo1999a",
+			"type": "inproceedings",
+			"title": "The TREC-8 Question Answering Track Report",
+			"authors": [
+				"Voorhees, Ellen M."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1999,
+			"booktitle": "Proceedings of the Eighth Text REtrieval Conference (TREC-8)",
+			"publisher": "National Institute of Standards and Technology",
+			"report_number": "NIST Special Publication 500-246",
+			"openalex": "W2086511124",
+			"url": "https://trec.nist.gov/pubs/trec8/papers/qa_report.pdf",
+			"abstract": "The TREC-8 Question Answering track was the first large-scale evaluation of domain-independent question answering systems. This paper summarizes the results of the track by giving a brief overview of the different approaches taken to solve the problem. The most accurate systems found a correct response for more than 2/3 of the questions. Relatively simple bag-of-words approaches were adequate for finding answers when responses could be as long as a paragraph (250 bytes), but more sophisticated processing was necessary for more direct responses (50 bytes). The TREC-8 Question Answering track was an initial effort to bring the benefits of large-scale evaluation to bear on a question answering (QA) task. The goal in the QA task is to retrieve small snippets of text that contain the actual answer to a question rather than the document lists traditionally returned by text retrieval systems. The assumption is that users would usually prefer to be given the answer rather than find the a...",
+			"abstract_source": "openalex",
+			"keywords": [
+				"question answering",
+				"TREC-8",
+				"large-scale assessment",
+				"answer retrieval",
+				"text retrieval",
+				"answer length"
+			],
+			"keywords_source": "openalex",
+			"source": "manual",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "WB2006a",
 			"type": "article",
 			"title": "On the Implementation of an Interior-Point Filter Line-Search Algorithm for Large-Scale Nonlinear Programming",
@@ -18698,6 +18803,51 @@
 			"source": "crossref",
 			"retrieved": "2026-10-23",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "ZCSZW...2023a",
+			"type": "inproceedings",
+			"title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+			"authors": [
+				"Zheng, Lianmin",
+				"Chiang, Wei-Lin",
+				"Sheng, Ying",
+				"Zhuang, Siyuan",
+				"Wu, Zhanghao",
+				"Zhuang, Yonghao",
+				"Lin, Zi",
+				"Li, Zhuohan",
+				"Li, Dacheng",
+				"Xing, Eric P.",
+				"Zhang, Hao",
+				"Gonzalez, Joseph E.",
+				"Stoica, Ion"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"booktitle": "Advances in Neural Information Processing Systems 36",
+			"pages": "46595-46623",
+			"doi": "10.52202/075280-2020",
+			"arxiv": "2306.05685",
+			"openalex": "W7133239970",
+			"url": "https://papers.nips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html",
+			"abstract": "Evaluating large language model (LLM) based chat assistants is challenging due to their broad capabilities and the inadequacy of existing benchmarks in measuring human preferences. To address this, we explore using strong LLMs as judges to evaluate these models on more open-ended questions. We examine the usage and limitations of LLM-as-a-judge, including position, verbosity, and self-enhancement biases, as well as limited reasoning ability, and propose solutions to mitigate some of them. We then verify the agreement between LLM judges and human preferences by introducing two benchmarks: MT-bench, a multi-turn question set; and Chatbot Arena, a crowdsourced battle platform. Our results reveal that strong LLM judges like GPT-4 can match both controlled and crowdsourced human preferences well, achieving over 80% agreement, the same level of agreement between humans. Hence, LLM-as-a-judge is a scalable and explainable way to approximate human preferences, which are otherwise very expensive to obtain. Additionally, we show our benchmark and traditional benchmarks complement each other by evaluating several variants of LLaMA and Vicuna. The MT-bench questions, 3K expert votes, and 30K conversations with human preferences are publicly available at https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"large language models",
+				"LLM-as-a-judge",
+				"automated assessment",
+				"MT-Bench",
+				"Chatbot Arena",
+				"benchmarking",
+				"chatbots"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -20459,6 +20609,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "EJAS2024a",
+			"count": 662,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "EJAS2024a",
+			"count": 651,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "EK2018a",
 			"count": 1640,
 			"source": "crossref",
@@ -22157,6 +22319,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "MTMR2023a",
+			"count": 449,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MTMR2023a",
+			"count": 547,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "MY2020a",
 			"count": 1618,
 			"source": "crossref",
@@ -23549,6 +23723,12 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "Voo1999a",
+			"count": 823,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "WB2006a",
 			"count": 8464,
 			"source": "crossref",
@@ -23733,6 +23913,18 @@
 			"count": 450,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "ZCSZW...2023a",
+			"count": 1437,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "ZCSZW...2023a",
+			"count": 1860,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "ZIRIN...2024a",
