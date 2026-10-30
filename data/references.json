@@ -900,6 +900,41 @@
 			"open_access": true
 		},
 		{
+			"key": "BD1995a",
+			"type": "incollection",
+			"title": "WaveLab and Reproducible Research",
+			"authors": [
+				"Buckheit, Jonathan B.",
+				"Donoho, David L."
+			],
+			"editors": [
+				"Antoniadis, Anestis",
+				"Oppenheim, Georges"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1995,
+			"booktitle": "Wavelets and Statistics",
+			"publisher": "Springer",
+			"address": "New York, NY",
+			"pages": "55-81",
+			"isbn": "9780387945644",
+			"doi": "10.1007/978-1-4612-2544-7_5",
+			"openalex": "W1595114968",
+			"keywords": [
+				"wavelet packet analysis",
+				"matching pursuit",
+				"reproducible research",
+				"open source software",
+				"wavelet methods"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "BEKS2017a",
 			"type": "article",
 			"title": "Julia: A Fresh Approach to Numerical Computing",
@@ -3155,6 +3190,37 @@
 			"open_access": true
 		},
 		{
+			"key": "CL2022a",
+			"type": "article",
+			"title": "Is Economics Research Replicable? Sixty Published Papers From Thirteen Journals Say “Often Not”",
+			"authors": [
+				"Chang, Andrew C.",
+				"Li, Phillip"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2022,
+			"journal": "Critical Finance Review",
+			"volume": "11",
+			"number": "1",
+			"pages": "185-206",
+			"issn": "2164-5744",
+			"doi": "10.1561/104.00000053",
+			"openalex": "W3049474127",
+			"abstract": "We attempt to replicate 67 papers published in 13 well-regarded economics journals using author-provided replication files that include both data and code. Some journals in our sample require data and code replication files, and other journals do not require such files. Aside from 6 papers that use confidential data, we obtain data and code replication files for 29 of 35 papers (83%) that are required to provide such files as a condition of publication, compared to 11 of 26 papers (42%) that are not required to provide data and code replication files. We successfully replicate the key qualitative result of 22 of 67 papers (33%) without contacting the authors. Excluding the 6 papers that use confidential data and the 2 papers that use software we do not possess, we replicate 29 of 59 papers (49%) with assistance from the authors. Because we are able to replicate less than half of the papers in our sample even with help from the authors, we assert that economics research is usually not replicable. We conclude with recommendations on improving replication of economics research. JEL Codes: B41; C80; C82; C87; C88; E01",
+			"abstract_source": "openalex",
+			"keywords": [
+				"research reproducibility",
+				"open data policy",
+				"economics journals"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "CLRS2022a",
 			"type": "book",
 			"title": "Introduction to Algorithms",
@@ -4814,6 +4880,29 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "DTA1986a",
+			"type": "article",
+			"title": "Replication in Empirical Economics: The Journal of Money, Credit and Banking Project",
+			"authors": [
+				"Dewald, William G.",
+				"Thursby, Jerry G.",
+				"Anderson, Richard G."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1986,
+			"journal": "American Economic Review",
+			"volume": "76",
+			"number": "4",
+			"pages": "587-603",
+			"openalex": "W1481610574",
+			"url": "https://ideas.repec.org/a/aea/aecrev/v76y1986i4p587-603.html",
+			"source": "manual",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
 		},
 		{
 			"key": "DV2003a",
@@ -6644,6 +6733,39 @@
 			"open_access": false
 		},
 		{
+			"key": "GFI2016a",
+			"type": "article",
+			"title": "What does research reproducibility mean?",
+			"authors": [
+				"Goodman, Steven N.",
+				"Fanelli, Daniele",
+				"Ioannidis, John P. A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Science Translational Medicine",
+			"volume": "8",
+			"number": "341",
+			"pages": "341ps12",
+			"issn": "1946-6234",
+			"doi": "10.1126/scitranslmed.aaf5027",
+			"openalex": "W2414283705",
+			"abstract": "The language and conceptual framework of \"research reproducibility\" are nonstandard and unsettled across the sciences. In this Perspective, we review an array of explicit and implicit definitions of reproducibility and related terminology, and discuss how to avoid potential misunderstandings when these terms are used as a surrogate for \"truth.\"",
+			"abstract_source": "openalex",
+			"keywords": [
+				"research reproducibility",
+				"terminology",
+				"conceptual framework",
+				"truth in science"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "GHB2014a",
 			"type": "inproceedings",
 			"title": "Scalable Recommendation with Hierarchical Poisson Factorization",
@@ -7573,6 +7695,40 @@
 			"source": "crossref",
 			"retrieved": "2026-10-23",
 			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "HAP2014a",
+			"type": "article",
+			"title": "Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff",
+			"authors": [
+				"Herndon, Thomas",
+				"Ash, Michael",
+				"Pollin, Robert"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2014,
+			"journal": "Cambridge Journal of Economics",
+			"volume": "38",
+			"number": "2",
+			"pages": "257-279",
+			"issn": "0309-166X",
+			"doi": "10.1093/cje/bet075",
+			"openalex": "W2053814546",
+			"abstract": "We replicate Reinhart and Rogoff (2010A and 2010B) and find that selective exclusion of available data, coding errors and inappropriate weighting of summary statistics lead to serious miscalculations that inaccurately represent the relationship between public debt and GDP growth among 20 advanced economies. Over 1946–2009, countries with public debt/GDP ratios above 90% averaged 2.2% real annual GDP growth, not −0.1% as published. The published results for (i) median GDP growth rates for the 1946–2009 period and (ii) mean and median GDP growth figures over 1790–2009 are all distorted by similar methodological errors, although the magnitudes of the distortions are somewhat smaller than with the mean figures for 1946–2009. Contrary to Reinhart and Rogoff’s broader contentions, both mean and median GDP growth when public debt levels exceed 90% of GDP are not dramatically different from when the public debt/GDP ratios are lower. The relationship between public debt and GDP growth varies significantly by period and country. Our overall evidence refutes RR’s claim that public debt/GDP ratios above 90% consistently reduce a country’s GDP growth.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"public debt",
+				"GDP growth",
+				"replication critique",
+				"data exclusion",
+				"coding errors"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
 			"open_access": false
 		},
 		{
@@ -11471,6 +11627,38 @@
 			"open_access": true
 		},
 		{
+			"key": "Lon1967a",
+			"type": "article",
+			"title": "An Appraisal of Least Squares Programs for the Electronic Computer from the Point of View of the User",
+			"authors": [
+				"Longley, James W."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1967,
+			"journal": "Journal of the American Statistical Association",
+			"volume": "62",
+			"number": "319",
+			"pages": "819-841",
+			"issn": "0162-1459",
+			"doi": "10.1080/01621459.1967.10500896",
+			"openalex": "W2020589258",
+			"abstract": "Although there are many linear least squares programs available for use on the electronic computer, the algorithms specified in many of these programs are numerically more appropriate for the desk calculator than for the electronic computer. Routines which may be efficient for desk calculators may not be efficient for electronic computers. Since most computers carry about eight digits in the calculations, routines which do not take the problem of round-off errors and truncation into account may produce inaccurate numerical results.1 The difficulty is that the user will not know whether the results are accurate. Experiments with routine test problems using economic data indicated that either the data must be modified to fit the program or that the program must be altered to fit the data before numerical accuracy could be obtained on most programs tested. If the full potential of the electronic computer is to be achieved, an understanding of the basic arithmetic operations and their effect on the accuracy of the results is essential.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"linear least squares",
+				"numerical accuracy",
+				"rounding errors",
+				"truncation error",
+				"economic statistics"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "Lon1990a",
 			"type": "article",
 			"title": "The Origins of Sex Differences in Science",
@@ -12063,6 +12251,39 @@
 			"open_access": true
 		},
 		{
+			"key": "MMH2006a",
+			"type": "article",
+			"title": "Lessons from the JMCB Archive",
+			"authors": [
+				"McCullough, B. D.",
+				"McGeary, Kerry Anne",
+				"Harrison, Teresa D."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2006,
+			"journal": "Journal of Money, Credit, and Banking",
+			"volume": "38",
+			"number": "4",
+			"pages": "1093-1107",
+			"issn": "1538-4616",
+			"doi": "10.1353/mcb.2006.0061",
+			"openalex": "W2119051696",
+			"abstract": "We examine the online archive of the Journal of Money, Credit, and Banking, in which an author is required to deposit the data and code that replicate the results of his paper. We find that most authors do not fulfill this requirement. Of more than 150 empirical articles, fewer than 15 could be replicated. Despite all this, there is no doubt that a data/code archive is more conducive to replicable research than the alternatives. We make recommendations to improve the functioning of the archive.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"research reproducibility",
+				"replication",
+				"open data",
+				"empirical economics"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "MMYS2019a",
 			"type": "book",
 			"title": "Robust Statistics: Theory and Methods (with R)",
@@ -12409,6 +12630,72 @@
 			"retrieved": "2026-10-30",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "MV1999a",
+			"type": "article",
+			"title": "The Numerical Reliability of Econometric Software",
+			"authors": [
+				"McCullough, B. D.",
+				"Vinod, H. D."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1999,
+			"journal": "Journal of Economic Literature",
+			"volume": "37",
+			"number": "2",
+			"pages": "633-665",
+			"issn": "0022-0515",
+			"doi": "10.1257/jel.37.2.633",
+			"openalex": "W2121764011",
+			"abstract": "Numerous examples show that some econometric software packages contain serious flaws, and that users cannot safely assume that their software is accurate. A brief survey of the fundamentals of computer arithmetic discusses the sources of numerical error and emphasizes that computer arithmetic is not at all like pencil-and-paper arithmetic. Both users and developers of econometrics software should first pay attention to accuracy, and only later consider user-friendliness. Details are provided for assessing the accuracy of basic estimation routines, statistical distributions, and random number generators. More accuracy benchmarks are needed, especially for specialized econometric procedures.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"numerical reliability",
+				"econometric software",
+				"computer arithmetic",
+				"numerical error",
+				"software accuracy"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "MV2003a",
+			"type": "article",
+			"title": "Verifying the Solution from a Nonlinear Solver: A Case Study",
+			"authors": [
+				"McCullough, B. D.",
+				"Vinod, H. D."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2003,
+			"journal": "American Economic Review",
+			"volume": "93",
+			"number": "3",
+			"pages": "873-892",
+			"issn": "0002-8282",
+			"doi": "10.1257/000282803322157133",
+			"openalex": "W2081962207",
+			"abstract": "The probit is generally considered to be one of the easiest nonlinear maximum likelihood problems. Nonetheless, in the course of at-tempting to replicate G. S. Maddala’s (1992, pp. 335–38) probit example, Houston Stokes (2003) encountered great difficulty. Of the six coeffi-cients, five coefficients/standard errors he could duplicate, but the sixth was off by more than rounding error. So he tried another package. And another. And another.... Finally, five dif-ferent packages had declared convergence to five solutions that differed only in the sixth coefficient. Estimates of the sixth coefficient ranged from 4.4 to 8.1, and estimates on its standard error ranged from 46 to 114,550.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"probit model",
+				"solution verification",
+				"standard errors",
+				"coefficient estimation",
+				"replication"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
 		},
 		{
 			"key": "MWTLM2011a",
@@ -12873,6 +13160,37 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "NASEM2019a",
+			"type": "book",
+			"title": "Reproducibility and Replicability in Science",
+			"authors": [
+				"National Academies of Sciences, Engineering, and Medicine"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2019,
+			"publisher": "National Academies Press",
+			"address": "Washington, DC",
+			"isbn": "9780309486163",
+			"doi": "10.17226/25303",
+			"openalex": "W2944196828",
+			"url": "https://www.nationalacademies.org/read/25303/page/1",
+			"abstract": "One of the pathways by which the scientific community confirms the validity of a new scientific discovery is by repeating the research that produced it. When a scientific effort fails to independently confirm the computations or results of a previous study, some fear that it may be a symptom of a lack of rigor in science, while others argue that such an observed inconsistency can be an important precursor to new discovery. Concerns about reproducibility and replicability have been expressed in both scientific and popular media. As these concerns came to light, Congress requested that the National Academies of Sciences, Engineering, and Medicine conduct a study to assess the extent of issues related to reproducibility and replicability and to offer recommendations for improving rigor and transparency in scientific research. Reproducibility and Replicability in Science defines reproducibility and replicability and examines the factors that may lead to non-reproducibility and non-replicability in research. Unlike the typical expectation of reproducibility between two computations, expectations about replicability are more nuanced, and in some cases a lack of replicability can aid the process of scientific discovery. This report provides recommendations to researchers, academic institutions, journals, and funders on steps they can take to improve reproducibility and replicability in science.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"reproducibility",
+				"replicability",
+				"research rigor",
+				"scientific discovery",
+				"research transparency"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
 		},
 		{
 			"key": "NC2019a",
@@ -13970,6 +14288,39 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Pen2011a",
+			"type": "article",
+			"title": "Reproducible Research in Computational Science",
+			"authors": [
+				"Peng, Roger D."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2011,
+			"journal": "Science",
+			"volume": "334",
+			"number": "6060",
+			"pages": "1226-1227",
+			"issn": "0036-8075",
+			"doi": "10.1126/science.1213847",
+			"openalex": "W2008985174",
+			"oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3383002",
+			"abstract": "Computational science has led to exciting new developments, but the nature of the work has exposed limitations in our ability to evaluate published findings. Reproducibility has the potential to serve as a minimum standard for judging scientific claims when full independent replication of a study is not possible.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"reproducible research",
+				"scientific computing",
+				"reproducibility",
+				"scientific claims",
+				"replication"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
 		},
 		{
 			"key": "Pet2009a",
@@ -16379,6 +16730,42 @@
 			"open_access": true
 		},
 		{
+			"key": "SNTH2013a",
+			"type": "article",
+			"title": "Ten Simple Rules for Reproducible Computational Research",
+			"authors": [
+				"Sandve, Geir Kjetil",
+				"Nekrutenko, Anton",
+				"Taylor, James",
+				"Hovig, Eivind"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "PLoS Computational Biology",
+			"volume": "9",
+			"number": "10",
+			"pages": "e1003285",
+			"issn": "1553-7358",
+			"doi": "10.1371/journal.pcbi.1003285",
+			"openalex": "W2036318837",
+			"oa_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003285&type=printable",
+			"abstract": "Replication is the cornerstone of a cumulative science [1]. However, new tools and technologies, massive amounts of data, interdisciplinary approaches, and the complexity of the questions being asked are complicating replication efforts, as are increased pressures on scientists to advance their research [2]. As full replication of studies on independently collected data is often not feasible, there has recently been a call for reproducible research as an attainable minimum standard for assessing the value of scientific claims [3]. This requires that papers in experimental science describe the results and provide a sufficiently clear protocol to allow successful repetition and extension of analyses based on original data [4].\r\n\r\nThe importance of replication and reproducibility has recently been exemplified through studies showing that scientific papers commonly leave out experimental details essential for reproduction [5], studies showing difficulties with replicating published experimental results [6], an increase in retracted papers [7], and through a high number of failing clinical trials [8], [9]. This has led to discussions on how individual researchers, institutions, funding bodies, and journals can establish routines that increase transparency and reproducibility. In order to foster such aspects, it has been suggested that the scientific community needs to develop a “culture of reproducibility” for computational science, and to require it for published claims [3].\r\n\r\nWe want to emphasize that reproducibility is not only a moral responsibility with respect to the scientific field, but that a lack of reproducibility can also be a burden for you as an individual researcher. As an example, a good practice of reproducibility is necessary in order to allow previously developed methodology to be effectively applied on new data, or to allow reuse of code and results for new projects. In other words, good habits of reproducibility may actually turn out to be a time-saver in the longer run.\r\n\r\nWe further note that reproducibility is just as much about the habits that ensure reproducible research as the technologies that can make these processes efficient and realistic. Each of the following ten rules captures a specific aspect of reproducibility, and discusses what is needed in terms of information handling and tracking of procedures. If you are taking a bare-bones approach to bioinformatics analysis, i.e., running various custom scripts from the command line, you will probably need to handle each rule explicitly. If you are instead performing your analyses through an integrated framework (such as GenePattern [10], Galaxy [11], LONI pipeline [12], or Taverna [13]), the system may already provide full or partial support for most of the rules. What is needed on your part is then merely the knowledge of how to exploit these existing possibilities.\r\n\r\nIn a pragmatic setting, with publication pressure and deadlines, one may face the need to make a trade-off between the ideals of reproducibility and the need to get the research out while it is still relevant. This trade-off becomes more important when considering that a large part of the analyses being tried out never end up yielding any results. However, frequently one will, with the wisdom of hindsight, contemplate the missed opportunity to ensure reproducibility, as it may already be too late to take the necessary notes from memory (or at least much more difficult than to do it while underway). We believe that the rewards of reproducibility will compensate for the risk of having spent valuable time developing an annotated catalog of analyses that turned out as blind alleys.\r\n\r\nAs a minimal requirement, you should at least be able to reproduce the results yourself. This would satisfy the most basic requirements of sound research, allowing any substantial future questioning of the research to be met with a precise explanation. Although it may sound like a very weak requirement, even this level of reproducibility will often require a certain level of care in order to be met. There will for a given analysis be an exponential number of possible combinations of software versions, parameter values, pre-processing steps, and so on, meaning that a failure to take notes may make exact reproduction essentially impossible.\r\n\r\nWith this basic level of reproducibility in place, there is much more that can be wished for. An obvious extension is to go from a level where you can reproduce results in case of a critical situation to a level where you can practically and routinely reuse your previous work and increase your productivity. A second extension is to ensure that peers have a practical possibility of reproducing your results, which can lead to increased trust in, interest for, and citations of your work [6], [14].\r\n\r\nWe here present ten simple rules for reproducibility of computational research. These rules can be at your disposal for whenever you want to make your research more accessible—be it for peers or for your future self.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"reproducible research",
+				"computational reproducibility",
+				"research practices",
+				"bioinformatics analysis",
+				"research transparency"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "SP1994a",
 			"type": "article",
 			"title": "Performance Measurement in a Downside Risk Framework",
@@ -16695,6 +17082,41 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "SSM2018a",
+			"type": "article",
+			"title": "An empirical analysis of journal policy effectiveness for computational reproducibility",
+			"authors": [
+				"Stodden, Victoria",
+				"Seiler, Jennifer",
+				"Ma, Zhaokun"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"journal": "Proceedings of the National Academy of Sciences",
+			"volume": "115",
+			"number": "11",
+			"pages": "2584-2589",
+			"issn": "0027-8424",
+			"doi": "10.1073/pnas.1708290115",
+			"openalex": "W2793993424",
+			"oa_url": "https://www.pnas.org/content/pnas/115/11/2584.full.pdf",
+			"abstract": "A key component of scientific communication is sufficient information for other researchers in the field to reproduce published findings. For computational and data-enabled research, this has often been interpreted to mean making available the raw data from which results were generated, the computer code that generated the findings, and any additional information needed such as workflows and input parameters. Many journals are revising author guidelines to include data and code availability. This work evaluates the effectiveness of journal policy that requires the data and code necessary for reproducibility be made available postpublication by the authors upon request. We assess the effectiveness of such a policy by ( i ) requesting data and code from authors and ( ii ) attempting replication of the published findings. We chose a random sample of 204 scientific papers published in the journal Science after the implementation of their policy in February 2011. We found that we were able to obtain artifacts from 44% of our sample and were able to reproduce the findings for 26%. We find this policy—author remission of data and code postpublication upon request—an improvement over no policy, but currently insufficient for reproducibility.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"computational reproducibility",
+				"editorial policy",
+				"data availability",
+				"code availability",
+				"replication"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
 		},
 		{
 			"key": "SSSAH...2017a",
@@ -18098,6 +18520,38 @@
 			"open_access": true
 		},
 		{
+			"key": "Vil2020a",
+			"type": "article",
+			"title": "Reproducibility and Replicability in Economics",
+			"authors": [
+				"Vilhuber, Lars"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "Harvard Data Science Review",
+			"volume": "2",
+			"number": "4",
+			"issn": "2688-8513",
+			"doi": "10.1162/99608f92.4f6b9e67",
+			"openalex": "W3111444287",
+			"oa_url": "https://hdsr.mitpress.mit.edu/pub/fgpmpj1l/download/pdf",
+			"abstract": "I provide a summary description of the history and state of reproducibility and replicability in the academic field of economics. I include a discussion of more general replicability and transparency, including the tradition of sharing of research findings and code outside of peer-reviewed publications. I describe the historical context for journals and grey literature in economics, the role of precollected public and nonpublic data, and touch on the role of proprietary software in economics. The increasing importance of restricted-access data environments in economics and the interaction with reproducibility is highlighted. The article concludes with an outlook on current developments, including the role of big data and increased verification of reproducibility in economics.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"reproducibility",
+				"replicability",
+				"transparency",
+				"economic research",
+				"grey literature"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "Voo1999a",
 			"type": "inproceedings",
 			"title": "The TREC-8 Question Answering Track Report",
@@ -18227,6 +18681,44 @@
 			"legacy_key": "bank2026",
 			"source": "manual",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "WBCKN...2017a",
+			"type": "article",
+			"title": "Good enough practices in scientific computing",
+			"authors": [
+				"Wilson, Greg",
+				"Bryan, Jennifer",
+				"Cranston, Karen",
+				"Kitzes, Justin",
+				"Nederbragt, Lex",
+				"Teal, Tracy K."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "PLOS Computational Biology",
+			"volume": "13",
+			"number": "6",
+			"pages": "e1005510",
+			"issn": "1553-7358",
+			"doi": "10.1371/journal.pcbi.1005510",
+			"openalex": "W2507622755",
+			"oa_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005510&type=printable",
+			"abstract": "Computers are now essential in all branches of science, but most researchers are never taught the equivalent of basic lab skills for research computing.As a result, data can get lost, analyses can take much longer than necessary, and researchers are limited in how effectively they can work with software and data.Computing workflows need to follow the same practices as lab projects and notebooks, with organized data, documented steps, and the project structured for reproducibility, but researchers new to computing often don't know where to start.This paper presents a set of good computing practices that every researcher can adopt, regardless of their current level of computational skill.These practices, which encompass data management, programming, collaborating with colleagues, organizing projects, tracking work, and writing manuscripts, are drawn from a wide variety of published sources from our daily lives and from our work with volunteer organizations that have delivered workshops to over 11,000 people since 2010. OverviewWe present a set of computing tools and techniques that every researcher can and should consider adopting.These recommendations synthesize inspiration from our own work, from the experiences of the thousands of people who have taken part in Software Carpentry and Data Carpentry workshops over the past 6 years, and from a variety of other guides.Our recommendations are aimed specifically at people who are new to research computing.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"research computing",
+				"reproducibility",
+				"data management",
+				"programming practice",
+				"computational workflows"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -19397,6 +19889,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "BD1995a",
+			"count": 262,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "BD1995a",
+			"count": 544,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "BEKS2017a",
 			"count": 5393,
 			"source": "crossref",
@@ -20039,6 +20543,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "CL2022a",
+			"count": 39,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "CL2022a",
+			"count": 59,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "CLV2020a",
 			"count": 39,
 			"source": "crossref",
@@ -20463,6 +20979,12 @@
 			"count": 688,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "DTA1986a",
+			"count": 477,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "DVD2022a",
@@ -20939,6 +21461,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "GFI2016a",
+			"count": 1012,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "GFI2016a",
+			"count": 1293,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "GK2001a",
 			"count": 289,
 			"source": "crossref",
@@ -21159,6 +21693,18 @@
 			"count": 66,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "HAP2014a",
+			"count": 608,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "HAP2014a",
+			"count": 1204,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "HG2014a",
@@ -22109,6 +22655,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "Lon1967a",
+			"count": 285,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "Lon1967a",
+			"count": 373,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "Lon1990a",
 			"count": 254,
 			"source": "crossref",
@@ -22247,6 +22805,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "MMH2006a",
+			"count": 120,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MMH2006a",
+			"count": 173,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "MR2018a",
 			"count": 465,
 			"source": "crossref",
@@ -22327,6 +22897,30 @@
 		{
 			"key": "MTMR2023a",
 			"count": 547,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MV1999a",
+			"count": 111,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MV1999a",
+			"count": 169,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MV2003a",
+			"count": 147,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MV2003a",
+			"count": 219,
 			"source": "openalex",
 			"date": "2026-10-30"
 		},
@@ -22413,6 +23007,18 @@
 			"count": 1003,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "NASEM2019a",
+			"count": 295,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "NASEM2019a",
+			"count": 924,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "NC2019a",
@@ -22707,6 +23313,18 @@
 			"count": 1527,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "Pen2011a",
+			"count": 1197,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "Pen2011a",
+			"count": 1449,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "Pet2009a",
@@ -23279,6 +23897,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "SNTH2013a",
+			"count": 784,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "SNTH2013a",
+			"count": 880,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "SP1994a",
 			"count": 660,
 			"source": "crossref",
@@ -23361,6 +23991,18 @@
 			"count": 96,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "SSM2018a",
+			"count": 303,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "SSM2018a",
+			"count": 369,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "SSSAH...2017a",
@@ -23723,6 +24365,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "Vil2020a",
+			"count": 29,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "Vil2020a",
+			"count": 43,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "Voo1999a",
 			"count": 823,
 			"source": "openalex",
@@ -23751,6 +24405,18 @@
 			"count": 1550,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "WBCKN...2017a",
+			"count": 372,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "WBCKN...2017a",
+			"count": 8,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "WD1992a",
