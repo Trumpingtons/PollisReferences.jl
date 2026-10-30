@@ -2873,6 +2873,36 @@
 			"open_access": false
 		},
 		{
+			"key": "CCB2009a",
+			"type": "inproceedings",
+			"title": "Reciprocal Rank Fusion Outperforms Condorcet and Individual Rank Learning Methods",
+			"authors": [
+				"Cormack, Gordon V.",
+				"Clarke, Charles L. A.",
+				"Büttcher, Stefan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2009,
+			"booktitle": "Proceedings of the 32nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+			"address": "New York, NY, USA",
+			"pages": "758-759",
+			"doi": "10.1145/1571941.1572114",
+			"openalex": "W2148972377",
+			"abstract": "Reciprocal Rank Fusion (RRF), a simple method for combining the document rankings from multiple IR systems, consistently yields better results than any individual system, and better results than the standard method Condorcet Fuse. This result is demonstrated by using RRF to combine the results of several TREC experiments, and to build a meta-learner that ranks the LETOR 3 dataset better than any previously reported method",
+			"abstract_source": "openalex",
+			"keywords": [
+				"reciprocal rank fusion",
+				"meta-learner",
+				"information retrieval evaluation"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "CFHT2021a",
 			"type": "misc",
 			"title": "ControlSystems.jl: A Control Toolbox for Julia",
@@ -12328,6 +12358,42 @@
 			"open_access": true
 		},
 		{
+			"key": "MY2020a",
+			"type": "article",
+			"title": "Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs",
+			"authors": [
+				"Malkov, Yu A.",
+				"Yashunin, D. A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+			"volume": "42",
+			"number": "4",
+			"pages": "824-836",
+			"issn": "0162-8828",
+			"doi": "10.1109/TPAMI.2018.2889473",
+			"arxiv": "1603.09320",
+			"openalex": "W2963469388",
+			"oa_url": "https://arxiv.org/pdf/1603.09320",
+			"abstract": "We present a new approach for the approximate K-nearest neighbor search based on navigable small world graphs with controllable hierarchy (Hierarchical NSW, HNSW). The proposed solution is fully graph-based, without any need for additional search structures (typically used at the coarse search stage of the most proximity graph techniques). Hierarchical NSW incrementally builds a multi-layer structure consisting of a hierarchical set of proximity graphs (layers) for nested subsets of the stored elements. The maximum layer in which an element is present is selected randomly with an exponentially decaying probability distribution. This allows producing graphs similar to the previously studied Navigable Small World (NSW) structures while additionally having the links separated by their characteristic distance scales. Starting the search from the upper layer together with utilizing the scale separation boosts the performance compared to NSW and allows a logarithmic complexity scaling. Additional employment of a heuristic for selecting proximity graph neighbors significantly increases performance at high recall and in case of highly clustered data. Performance evaluation has demonstrated that the proposed general metric space search index is able to strongly outperform previous opensource state-of-the-art vector-only approaches. Similarity of the algorithm to the skip list structure allows straightforward balanced distributed implementation.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"approximate nearest neighbor search",
+				"proximity graphs",
+				"skip lists",
+				"distributed search",
+				"high-dimensional similarity search",
+				"logarithmic time complexity"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "MZ1998a",
 			"type": "article",
 			"title": "An Adaptive Approach to Stochastic Global Optimization",
@@ -12733,6 +12799,38 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "NC2019a",
+			"type": "misc",
+			"title": "Passage Re-ranking with BERT",
+			"authors": [
+				"Nogueira, Rodrigo",
+				"Cho, Kyunghyun"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"doi": "10.48550/arXiv.1901.04085",
+			"arxiv": "1901.04085",
+			"openalex": "W2909544278",
+			"oa_url": "https://arxiv.org/pdf/1901.04085",
+			"abstract": "Recently, neural models pretrained on a language modeling task, such as ELMo (Peters et al., 2017), OpenAI GPT (Radford et al., 2018), and BERT (Devlin et al., 2018), have achieved impressive results on various natural language processing tasks such as question-answering and natural language inference. In this paper, we describe a simple re-implementation of BERT for query-based passage re-ranking. Our system is the state of the art on the TREC-CAR dataset and the top entry in the leaderboard of the MS MARCO passage retrieval task, outperforming the previous state of the art by 27% (relative) in MRR@10. The code to reproduce our results is available at https://github.com/nyu-dl/dl4marco-bert",
+			"abstract_source": "openalex",
+			"keywords": [
+				"BERT",
+				"query-based retrieval",
+				"passage retrieval",
+				"MS MARCO",
+				"natural language inference",
+				"question answering",
+				"pre-trained language models"
+			],
+			"keywords_source": "openalex",
+			"source": "datacite",
+			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
 		},
 		{
 			"key": "NM1965a",
@@ -19719,6 +19817,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "CCB2009a",
+			"count": 695,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "CCB2009a",
+			"count": 795,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "CGT2000a",
 			"count": 2291,
 			"source": "crossref",
@@ -22047,6 +22157,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "MY2020a",
+			"count": 1618,
+			"source": "crossref",
+			"date": "2026-10-30"
+		},
+		{
+			"key": "MY2020a",
+			"count": 1904,
+			"source": "openalex",
+			"date": "2026-10-30"
+		},
+		{
 			"key": "Mar1952a",
 			"count": 4291,
 			"source": "crossref",
@@ -22117,6 +22239,12 @@
 			"count": 1003,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "NC2019a",
+			"count": 573,
+			"source": "openalex",
+			"date": "2026-10-30"
 		},
 		{
 			"key": "NM1965a",
