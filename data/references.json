@@ -5923,6 +5923,34 @@
 			"open_access": true
 		},
 		{
+			"key": "FAHA2023a",
+			"type": "inproceedings",
+			"title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+			"authors": [
+				"Frantar, Elias",
+				"Ashkboos, Saleh",
+				"Hoefler, Torsten",
+				"Alistarh, Dan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"booktitle": "International Conference on Learning Representations",
+			"url": "https://arxiv.org/abs/2210.17323",
+			"arxiv": "2210.17323",
+			"oa_url": "https://arxiv.org/pdf/2210.17323",
+			"abstract": "Generative Pre-trained Transformer models, known as GPT or OPT, set themselves apart through breakthrough performance across complex language modelling tasks, but also by their extremely high computational and storage costs. Specifically, due to their massive size, even inference for large, highly-accurate GPT models may require multiple performant GPUs, which limits the usability of such models. While there is emerging work on relieving this pressure via model compression, the applicability and performance of existing compression techniques is limited by the scale and complexity of GPT models. In this paper, we address this challenge, and propose GPTQ, a new one-shot weight quantization method based on approximate second-order information, that is both highly-accurate and highly-efficient. Specifically, GPTQ can quantize GPT models with 175 billion parameters in approximately four GPU hours, reducing the bitwidth down to 3 or 4 bits per weight, with negligible accuracy degradation relative to the uncompressed baseline. Our method more than doubles the compression gains relative to previously-proposed one-shot quantization methods, preserving accuracy, allowing us for the first time to execute an 175 billion-parameter model inside a single GPU for generative inference. Moreover, we also show that our method can still provide reasonable accuracy in the extreme quantization regime, in which weights are quantized to 2-bit or even ternary quantization levels. We show experimentally that these improvements can be leveraged for end-to-end inference speedups over FP16, of around 3.25x when using high-end GPUs (NVIDIA A100) and 4.5x when using more cost-effective ones (NVIDIA A6000). The implementation is available at https://github.com/IST-DASLab/gptq.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG"
+			],
+			"keywords_source": "arxiv",
+			"source": "manual",
+			"retrieved": "2026-10-31",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "FBSHE...2021a",
 			"type": "misc",
 			"title": "JuliaGraphs/Graphs.jl: an optimized graphs package for the Julia programming language",
@@ -7351,6 +7379,28 @@
 			"legacy_key": "gehring2023b",
 			"source": "manual",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Ger2023a",
+			"type": "misc",
+			"title": "llama.cpp: LLM Inference in C/C++",
+			"authors": [
+				"Gerganov, Georgi"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"url": "https://github.com/ggml-org/llama.cpp",
+			"abstract": "LLM inference in C/C++",
+			"abstract_source": "github",
+			"keywords": [
+				"ggml"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"retrieved": "2026-10-31",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -8949,6 +8999,40 @@
 			"source": "crossref",
 			"retrieved": "2026-10-23",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "JKCZT...2018a",
+			"type": "inproceedings",
+			"title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+			"authors": [
+				"Jacob, Benoit",
+				"Kligys, Skirmantas",
+				"Chen, Bo",
+				"Zhu, Menglong",
+				"Tang, Matthew",
+				"Howard, Andrew",
+				"Adam, Hartwig",
+				"Kalenichenko, Dmitry"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"booktitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+			"pages": "2704-2713",
+			"doi": "10.1109/CVPR.2018.00286",
+			"arxiv": "1712.05877",
+			"oa_url": "https://arxiv.org/pdf/1712.05877",
+			"abstract": "The rising popularity of intelligent mobile devices and the daunting computational cost of deep learning-based models call for efficient and accurate on-device inference schemes. We propose a quantization scheme that allows inference to be carried out using integer-only arithmetic, which can be implemented more efficiently than floating point inference on commonly available integer-only hardware. We also co-design a training procedure to preserve end-to-end model accuracy post quantization. As a result, the proposed quantization scheme improves the tradeoff between accuracy and on-device latency. The improvements are significant even on MobileNets, a model family known for run-time efficiency, and are demonstrated in ImageNet classification and COCO detection on popular CPUs.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG",
+				"stat.ML"
+			],
+			"keywords_source": "arxiv",
+			"source": "crossref",
+			"retrieved": "2026-10-31",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -10666,6 +10750,37 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "LLWL2023a",
+			"type": "inproceedings",
+			"title": "Visual Instruction Tuning",
+			"authors": [
+				"Liu, Haotian",
+				"Li, Chunyuan",
+				"Wu, Qingyang",
+				"Lee, Yong Jae"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"booktitle": "Advances in Neural Information Processing Systems 36",
+			"url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract.html",
+			"arxiv": "2304.08485",
+			"oa_url": "https://arxiv.org/pdf/2304.08485",
+			"abstract": "Instruction tuning large language models (LLMs) using machine-generated instruction-following data has improved zero-shot capabilities on new tasks, but the idea is less explored in the multimodal field. In this paper, we present the first attempt to use language-only GPT-4 to generate multimodal language-image instruction-following data. By instruction tuning on such generated data, we introduce LLaVA: Large Language and Vision Assistant, an end-to-end trained large multimodal model that connects a vision encoder and LLM for general-purpose visual and language understanding.Our early experiments show that LLaVA demonstrates impressive multimodel chat abilities, sometimes exhibiting the behaviors of multimodal GPT-4 on unseen images/instructions, and yields a 85.1% relative score compared with GPT-4 on a synthetic multimodal instruction-following dataset. When fine-tuned on Science QA, the synergy of LLaVA and GPT-4 achieves a new state-of-the-art accuracy of 92.53%. We make GPT-4 generated visual instruction tuning data, our model and code base publicly available.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.CV",
+				"cs.AI",
+				"cs.CL",
+				"cs.LG"
+			],
+			"keywords_source": "arxiv",
+			"source": "manual",
+			"retrieved": "2026-10-31",
+			"checked": true,
+			"open_access": true
 		},
 		{
 			"key": "LM1979a",
