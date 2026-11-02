@@ -1357,6 +1357,28 @@
 			"open_access": false
 		},
 		{
+			"key": "BCB2014a",
+			"type": "misc",
+			"title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+			"authors": [
+				"Bahdanau, Dzmitry",
+				"Cho, Kyunghyun",
+				"Bengio, Yoshua"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2014,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1409.0473",
+			"url": "https://arxiv.org/abs/1409.0473",
+			"openalex": "W2133564696",
+			"oa_url": "https://arxiv.org/pdf/1409.0473",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "BCP2022a",
 			"type": "article",
 			"title": "FrankWolfe.jl: A High-Performance and Flexible Toolbox for Frank-Wolfe Algorithms and Conditional Gradients",
@@ -2164,6 +2186,28 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "BKK2018a",
+			"type": "misc",
+			"title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+			"authors": [
+				"Bai, Shaojie",
+				"Kolter, J. Zico",
+				"Koltun, Vladlen"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1803.01271",
+			"url": "https://arxiv.org/abs/1803.01271",
+			"openalex": "W2792764867",
+			"oa_url": "https://arxiv.org/pdf/1803.01271",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
 		},
 		{
 			"key": "BKLSA...2020a",
@@ -3082,6 +3126,30 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "BSF1994a",
+			"type": "article",
+			"title": "Learning long-term dependencies with gradient descent is difficult",
+			"authors": [
+				"Bengio, Yoshua",
+				"Simard, Patrice",
+				"Frasconi, Paolo"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1994,
+			"journal": "IEEE Transactions on Neural Networks",
+			"volume": "5",
+			"number": "2",
+			"pages": "157-166",
+			"issn": "1045-9227",
+			"doi": "10.1109/72.279181",
+			"openalex": "W2107878631",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": false
 		},
 		{
 			"key": "BSJ2001a",
@@ -4580,6 +4648,29 @@
 			"legacy_key": "chen2016",
 			"source": "manual",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "CGCB2014a",
+			"type": "misc",
+			"title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+			"authors": [
+				"Chung, Junyoung",
+				"Gulcehre, Caglar",
+				"Cho, KyungHyun",
+				"Bengio, Yoshua"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2014,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1412.3555",
+			"url": "https://arxiv.org/abs/1412.3555",
+			"openalex": "W1924770834",
+			"oa_url": "https://arxiv.org/pdf/1412.3555",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -12082,6 +12173,27 @@
 			"open_access": true
 		},
 		{
+			"key": "HJM2019a",
+			"type": "inproceedings",
+			"title": "ALTRO: A Fast Solver for Constrained Trajectory Optimization",
+			"authors": [
+				"Howell, Taylor A.",
+				"Jackson, Brian E.",
+				"Manchester, Zachary"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"booktitle": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+			"pages": "7674-7679",
+			"doi": "10.1109/IROS40897.2019.8967788",
+			"openalex": "W3004162504",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "HJS1992a",
 			"type": "article",
 			"title": "New Branch-and-Bound Rules for Linear Bilevel Programming",
@@ -13120,6 +13232,28 @@
 			"openalex": "W1992120986",
 			"oa_url": "https://doi.org/10.1016/0885-064x(87)90024-0",
 			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "HYL2017a",
+			"type": "misc",
+			"title": "Inductive Representation Learning on Large Graphs",
+			"authors": [
+				"Hamilton, William L.",
+				"Ying, Rex",
+				"Leskovec, Jure"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1706.02216",
+			"url": "https://arxiv.org/abs/1706.02216",
+			"openalex": "W2624431344",
+			"oa_url": "https://arxiv.org/pdf/1706.02216",
+			"source": "datacite",
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
@@ -14307,6 +14441,29 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "JH2004a",
+			"type": "article",
+			"title": "Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication",
+			"authors": [
+				"Jaeger, Herbert",
+				"Haas, Harald"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2004,
+			"journal": "Science",
+			"volume": "304",
+			"number": "5667",
+			"pages": "78-80",
+			"issn": "0036-8075",
+			"doi": "10.1126/science.1091277",
+			"openalex": "W2118706537",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": false
 		},
 		{
 			"key": "JK2002a",
@@ -15865,6 +16022,27 @@
 			"open_access": true
 		},
 		{
+			"key": "KW2017a",
+			"type": "misc",
+			"title": "Semi-Supervised Classification with Graph Convolutional Networks",
+			"authors": [
+				"Kipf, Thomas N.",
+				"Welling, Max"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1609.02907",
+			"url": "https://arxiv.org/abs/1609.02907",
+			"openalex": "W2519887557",
+			"oa_url": "https://arxiv.org/pdf/1609.02907",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "KY1979a",
 			"type": "incollection",
 			"title": "Chaotic behavior of multidimensional difference equations",
@@ -16731,6 +16909,32 @@
 			"open_access": true
 		},
 		{
+			"key": "LBBH1998a",
+			"type": "article",
+			"title": "Gradient-based learning applied to document recognition",
+			"authors": [
+				"LeCun, Yann",
+				"Bottou, Léon",
+				"Bengio, Yoshua",
+				"Haffner, Patrick"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1998,
+			"journal": "Proceedings of the IEEE",
+			"volume": "86",
+			"number": "11",
+			"pages": "2278-2324",
+			"issn": "0018-9219",
+			"doi": "10.1109/5.726791",
+			"openalex": "W2112796928",
+			"oa_url": "https://hal.science/hal-03926082/document",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "LBCC2021a",
 			"type": "article",
 			"title": "Working Memory Connections for LSTM",
@@ -17062,6 +17266,30 @@
 			"openalex": "W2173248099",
 			"oa_url": "https://arxiv.org/pdf/1509.02971",
 			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "LHW2018a",
+			"type": "article",
+			"title": "Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning",
+			"authors": [
+				"Li, Qimai",
+				"Han, Zhichao",
+				"Wu, Xiao-ming"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+			"volume": "32",
+			"number": "1",
+			"issn": "2374-3468",
+			"doi": "10.1609/aaai.v32i1.11604",
+			"openalex": "W2964051675",
+			"oa_url": "https://doi.org/10.1609/aaai.v32i1.11604",
+			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
@@ -17798,6 +18026,25 @@
 			"isbn": "9781108571401",
 			"doi": "10.1017/9781108571401",
 			"openalex": "W4206530644",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "LT2004a",
+			"type": "inproceedings",
+			"title": "Iterative Linear Quadratic Regulator Design for Nonlinear Biological Movement Systems",
+			"authors": [
+				"Li, Weiwei",
+				"Todorov, Emanuel"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2004,
+			"booktitle": "Proceedings of the First International Conference on Informatics in Control, Automation and Robotics",
+			"pages": "222-229",
+			"doi": "10.5220/0001143902220229",
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
@@ -20276,6 +20523,28 @@
 			"open_access": false
 		},
 		{
+			"key": "May1966a",
+			"type": "article",
+			"title": "A Second-order Gradient Method for Determining Optimal Trajectories of Non-linear Discrete-time Systems",
+			"authors": [
+				"Mayne, David"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1966,
+			"journal": "International Journal of Control",
+			"volume": "3",
+			"number": "1",
+			"pages": "85-95",
+			"issn": "0020-7179",
+			"doi": "10.1080/00207176608921369",
+			"openalex": "W2158370675",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": false
+		},
+		{
 			"key": "May1976a",
 			"type": "article",
 			"title": "Simple mathematical models with very complicated dynamics",
@@ -20855,6 +21124,29 @@
 			"open_access": false
 		},
 		{
+			"key": "NNSK2022a",
+			"type": "misc",
+			"title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+			"authors": [
+				"Nie, Yuqi",
+				"Nguyen, Nam H.",
+				"Sinthong, Phanwadee",
+				"Kalagnanam, Jayant"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2022,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.2211.14730",
+			"url": "https://arxiv.org/abs/2211.14730",
+			"openalex": "W4310416691",
+			"oa_url": "https://arxiv.org/pdf/2211.14730",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "NS2006a",
 			"type": "article",
 			"title": "Convex Approximations of Chance Constrained Programs",
@@ -21361,6 +21653,34 @@
 			"open_access": true
 		},
 		{
+			"key": "ODZSV...2016a",
+			"type": "misc",
+			"title": "WaveNet: A Generative Model for Raw Audio",
+			"authors": [
+				"van den Oord, Aäron",
+				"Dieleman, Sander",
+				"Zen, Heiga",
+				"Simonyan, Karen",
+				"Vinyals, Oriol",
+				"Graves, Alex",
+				"Kalchbrenner, Nal",
+				"Senior, Andrew",
+				"Kavukcuoglu, Koray"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1609.03499",
+			"url": "https://arxiv.org/abs/1609.03499",
+			"openalex": "W2519091744",
+			"oa_url": "https://arxiv.org/pdf/1609.03499",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "OK1974a",
 			"type": "article",
 			"title": "A General Procedure for Obtaining Maximum Likelihood Estimates in Generalized Regression Models",
@@ -21726,6 +22046,37 @@
 			"doi": "10.1609/aaai.v29i1.9602",
 			"openalex": "W2254249950",
 			"oa_url": "https://doi.org/10.1609/aaai.v29i1.9602",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "PDCMS...2020a",
+			"type": "article",
+			"title": "EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs",
+			"authors": [
+				"Pareja, Aldo",
+				"Domeniconi, Giacomo",
+				"Chen, Jie",
+				"Ma, Tengfei",
+				"Suzumura, Toyotaro",
+				"Kanezashi, Hiroki",
+				"Kaler, Tim",
+				"Schardl, Tao",
+				"Leiserson, Charles"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+			"volume": "34",
+			"number": "04",
+			"pages": "5363-5370",
+			"issn": "2374-3468",
+			"doi": "10.1609/aaai.v34i04.5984",
+			"openalex": "W2925436546",
+			"oa_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5984/5840",
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
@@ -25950,6 +26301,31 @@
 			"open_access": true
 		},
 		{
+			"key": "SKBBT...2018a",
+			"type": "incollection",
+			"title": "Modeling Relational Data with Graph Convolutional Networks",
+			"authors": [
+				"Schlichtkrull, Michael",
+				"Kipf, Thomas N.",
+				"Bloem, Peter",
+				"van den Berg, Rianne",
+				"Titov, Ivan",
+				"Welling, Max"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"booktitle": "Lecture Notes in Computer Science",
+			"pages": "593-607",
+			"doi": "10.1007/978-3-319-93417-4_38",
+			"openalex": "W2604314403",
+			"oa_url": "https://research.vu.nl/en/publications/d5f42463-5cc0-477b-ade9-d24490fc3e1c",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "SKKS2010a",
 			"type": "inproceedings",
 			"title": "Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design",
@@ -27442,17 +27818,6 @@
 			"doi": "10.1073/pnas.39.10.1095",
 			"openalex": "W2575731723",
 			"oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1063912/pdf/pnas01595-0107.pdf",
-			"abstract": "Understanding the biological basis of social anxiety disorder (SAD), one of the most disabling of the anxiety disorders, will allow for novel treatment strategies to be developed. Here, we show that gut microbiota may be such a target. Mice ...Social anxiety disorder (SAD) is a crippling psychiatric disorder characterized by intense fear or anxiety in social situations and their avoidance. However, the underlying biology of SAD is unclear and better treatments are needed. Recently, the gut ...",
-			"abstract_source": "openalex",
-			"keywords": [
-				"social anxiety disorder",
-				"gut microbiota",
-				"anxiety disorders",
-				"mental illness",
-				"mouse model",
-				"treatment options"
-			],
-			"keywords_source": "openalex",
 			"legacy_key": "shapley1953",
 			"source": "crossref",
 			"retrieved": "2026-10-23",
@@ -28167,6 +28532,27 @@
 			"issn": "0167-2789",
 			"doi": "10.1016/0167-2789(92)90102-S",
 			"openalex": "W2098746383",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "TET2012a",
+			"type": "inproceedings",
+			"title": "Synthesis and stabilization of complex behaviors through online trajectory optimization",
+			"authors": [
+				"Tassa, Yuval",
+				"Erez, Tom",
+				"Todorov, Emanuel"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"booktitle": "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+			"pages": "4906-4913",
+			"doi": "10.1109/IROS.2012.6386025",
+			"openalex": "W2087617385",
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
@@ -28940,6 +29326,31 @@
 			"source": "crossref",
 			"retrieved": "2026-10-23",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "VCCRL...2018a",
+			"type": "misc",
+			"title": "Graph Attention Networks",
+			"authors": [
+				"Veličković, Petar",
+				"Cucurull, Guillem",
+				"Casanova, Arantxa",
+				"Romero, Adriana",
+				"Liò, Pietro",
+				"Bengio, Yoshua"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1710.10903",
+			"url": "https://arxiv.org/abs/1710.10903",
+			"openalex": "W2766453196",
+			"oa_url": "https://arxiv.org/pdf/1710.10903",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -30644,6 +31055,27 @@
 			"open_access": true
 		},
 		{
+			"key": "YK2015a",
+			"type": "misc",
+			"title": "Multi-Scale Context Aggregation by Dilated Convolutions",
+			"authors": [
+				"Yu, Fisher",
+				"Koltun, Vladlen"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1511.07122",
+			"url": "https://arxiv.org/abs/1511.07122",
+			"openalex": "W2286929393",
+			"oa_url": "https://arxiv.org/pdf/1511.07122",
+			"source": "datacite",
+			"retrieved": "2026-11-02",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "YLL1999a",
 			"type": "article",
 			"title": "Evolutionary programming made faster",
@@ -30846,6 +31278,32 @@
 			"keywords_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-10-30",
+			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "ZCZX2023a",
+			"type": "article",
+			"title": "Are Transformers Effective for Time Series Forecasting?",
+			"authors": [
+				"Zeng, Ailing",
+				"Chen, Muxi",
+				"Zhang, Lei",
+				"Xu, Qiang"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+			"volume": "37",
+			"number": "9",
+			"pages": "11121-11128",
+			"issn": "2374-3468",
+			"doi": "10.1609/aaai.v37i9.26317",
+			"openalex": "W4382203079",
+			"oa_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26317/26089",
+			"source": "crossref",
+			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
 		},
@@ -31757,6 +32215,12 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "BCB2014a",
+			"count": 16214,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "BCP2022a",
 			"count": 14,
 			"source": "crossref",
@@ -32031,6 +32495,12 @@
 			"count": 2384,
 			"source": "openalex",
 			"date": "2026-10-31"
+		},
+		{
+			"key": "BKK2018a",
+			"count": 4553,
+			"source": "openalex",
+			"date": "2026-11-02"
 		},
 		{
 			"key": "BKLSA...2020a",
@@ -32325,6 +32795,18 @@
 			"count": 287,
 			"source": "openalex",
 			"date": "2026-10-31"
+		},
+		{
+			"key": "BSF1994a",
+			"count": 7170,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "BSF1994a",
+			"count": 8543,
+			"source": "openalex",
+			"date": "2026-11-02"
 		},
 		{
 			"key": "BSJ2001a",
@@ -32827,6 +33309,12 @@
 		{
 			"key": "CG1999a",
 			"count": 2100,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "CGCB2014a",
+			"count": 10994,
 			"source": "openalex",
 			"date": "2026-11-02"
 		},
@@ -35183,6 +35671,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "HJM2019a",
+			"count": 170,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "HJM2019a",
+			"count": 189,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "HJS1992a",
 			"count": 609,
 			"source": "crossref",
@@ -35585,6 +36085,12 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "HYL2017a",
+			"count": 10636,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "HZ2005a",
 			"count": 939,
 			"source": "crossref",
@@ -35967,6 +36473,18 @@
 			"count": 8,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "JH2004a",
+			"count": 3404,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "JH2004a",
+			"count": 3798,
+			"source": "openalex",
+			"date": "2026-11-02"
 		},
 		{
 			"key": "JK2002a",
@@ -36395,6 +36913,12 @@
 			"date": "2026-10-31"
 		},
 		{
+			"key": "KW2017a",
+			"count": 23981,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "KY1979a",
 			"count": 426,
 			"source": "crossref",
@@ -36695,6 +37219,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "LBBH1998a",
+			"count": 48777,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "LBBH1998a",
+			"count": 58786,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "LBCC2021a",
 			"count": 289,
 			"source": "crossref",
@@ -36805,6 +37341,18 @@
 		{
 			"key": "LHPHE2015a",
 			"count": 10767,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "LHW2018a",
+			"count": 1857,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "LHW2018a",
+			"count": 2873,
 			"source": "openalex",
 			"date": "2026-11-02"
 		},
@@ -37721,6 +38269,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "May1966a",
+			"count": 321,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "May1966a",
+			"count": 363,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "May1976a",
 			"count": 5657,
 			"source": "crossref",
@@ -37895,6 +38455,12 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "NNSK2022a",
+			"count": 549,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "NS2006a",
 			"count": 991,
 			"source": "crossref",
@@ -38057,6 +38623,12 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "ODZSV...2016a",
+			"count": 4901,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "OK1974a",
 			"count": 177,
 			"source": "crossref",
@@ -38173,6 +38745,18 @@
 		{
 			"key": "PCH2015a",
 			"count": 993,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "PDCMS...2020a",
+			"count": 1054,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "PDCMS...2020a",
+			"count": 99,
 			"source": "openalex",
 			"date": "2026-11-02"
 		},
@@ -39437,6 +40021,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "SKBBT...2018a",
+			"count": 3740,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "SKBBT...2018a",
+			"count": 5677,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "SKNF2016a",
 			"count": 289,
 			"source": "openalex",
@@ -40133,6 +40729,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "TET2012a",
+			"count": 558,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "TET2012a",
+			"count": 762,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "TF2013a",
 			"count": 1104,
 			"source": "crossref",
@@ -40437,6 +41045,12 @@
 			"count": 7390,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "VCCRL...2018a",
+			"count": 12099,
+			"source": "openalex",
+			"date": "2026-11-02"
 		},
 		{
 			"key": "VED2021a",
@@ -40973,6 +41587,12 @@
 			"date": "2026-10-31"
 		},
 		{
+			"key": "YK2015a",
+			"count": 7730,
+			"source": "openalex",
+			"date": "2026-11-02"
+		},
+		{
 			"key": "YLL1999a",
 			"count": 3342,
 			"source": "crossref",
@@ -41043,6 +41663,18 @@
 			"count": 1860,
 			"source": "openalex",
 			"date": "2026-10-30"
+		},
+		{
+			"key": "ZCZX2023a",
+			"count": 3082,
+			"source": "crossref",
+			"date": "2026-11-02"
+		},
+		{
+			"key": "ZCZX2023a",
+			"count": 3557,
+			"source": "openalex",
+			"date": "2026-11-02"
 		},
 		{
 			"key": "ZE2002a",
