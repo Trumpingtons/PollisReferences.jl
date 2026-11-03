@@ -12469,6 +12469,28 @@
 			"open_access": true
 		},
 		{
+			"key": "GTDC2024a",
+			"type": "misc",
+			"title": "ModelPredictiveControl.jl: Advanced Process Control Made Easy in Julia",
+			"authors": [
+				"Gagnon, Francis",
+				"Thivierge, Alex",
+				"Desbiens, André",
+				"Bagge Carlson, Fredrik"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"doi": "10.48550/arXiv.2411.09764",
+			"arxiv": "2411.09764",
+			"url": "https://arxiv.org/abs/2411.09764",
+			"oa_url": "https://arxiv.org/pdf/2411.09764",
+			"source": "arxiv",
+			"retrieved": "2026-11-03",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "GW1995a",
 			"type": "article",
 			"title": "Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming",
