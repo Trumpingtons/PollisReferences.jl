@@ -15477,6 +15477,37 @@
 			"open_access": false
 		},
 		{
+			"key": "HXZ2015a",
+			"type": "article",
+			"title": "Digesting Anomalies: An Investment Approach",
+			"authors": [
+				"Hou, Kewei",
+				"Xue, Chen",
+				"Zhang, Lu"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Review of Financial Studies",
+			"volume": "28",
+			"number": "3",
+			"pages": "650-705",
+			"issn": "0893-9454",
+			"doi": "10.1093/rfs/hhu068",
+			"openalex": "W2889831213",
+			"keywords": [
+				"anomalies",
+				"investment strategy",
+				"stock returns",
+				"asset pricing"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-06",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "HY2005a",
 			"type": "article",
 			"title": "On covariance estimation of non-synchronously observed diffusion processes",
@@ -42471,6 +42502,18 @@
 			"count": 251,
 			"source": "openalex",
 			"date": "2026-11-02"
+		},
+		{
+			"key": "HXZ2015a",
+			"count": 2294,
+			"source": "crossref",
+			"date": "2026-11-06"
+		},
+		{
+			"key": "HXZ2015a",
+			"count": 2447,
+			"source": "openalex",
+			"date": "2026-11-06"
 		},
 		{
 			"key": "HY2005a",
