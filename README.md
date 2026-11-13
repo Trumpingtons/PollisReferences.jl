@@ -23,6 +23,7 @@ One object per work, sorted by key; a field that is not known is left out.
 | `journal`, `booktitle`, `publisher`, `address`, `edition`, `volume`, `number`, `pages`, `institution`, `report_number` | |
 | `isbn`, `issn`, `doi`, `arxiv`, `openalex`, `url`, `oa_url` | `oa_url`, an open-access copy |
 | `abstract`, `abstract_source`, `keywords`, `keywords_source` | |
+| `classifications`, `classifications_source` | each classification system with its codes, the primary first, e.g. `MSC: 68N15, 65Y05, 97P40` |
 | `legacy_key` | the key the work had before the Pollis keys |
 | `source`, `retrieved`, `checked` | where the record came from (crossref, datacite or manual), and when |
 | `open_access` | whether the work can be read free |
