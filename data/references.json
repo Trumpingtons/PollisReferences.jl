@@ -4660,6 +4660,42 @@
 			"open_access": false
 		},
 		{
+			"key": "BZN2005a",
+			"type": "inproceedings",
+			"title": "MonetDB/X100: Hyper-Pipelining Query Execution",
+			"authors": [
+				"Boncz, Peter A.",
+				"Żukowski, Marcin",
+				"Nes, Niels J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2005,
+			"booktitle": "Proceedings of the Second Biennial Conference on Innovative Data Systems Research (CIDR)",
+			"address": "Asilomar, CA, USA",
+			"pages": "225-237",
+			"openalex": "W2124851765",
+			"oa_url": "https://ir.cwi.nl/pub/16497",
+			"abstract": "Database systems tend to achieve only low IPC (instructions-per-cycle) efficiency on modern CPUs in compute-intensive application areas like decision support, OLAP and multimedia retrieval. This paper starts with an in-depth investigation to the reason why this happens, focusing on the TPC-H benchmark. Our analysis of various relational systems and MonetDB leads us to a new set of guidelines for designing a query processor. The second part of the paper describes the architecture of our new X100 query engine for the MonetDB system that follows these guidelines. On the surface, it resembles a classical Volcano-style engine, but the crucial difference to base all execution on the concept of vector processing makes it highly CPU efficient. We evaluate the power of MonetDB/X100 on the 100GB version of TPC-H, showing its raw execution power to be between one and two orders of magnitude higher than previous technology.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"MonetDB",
+				"query execution",
+				"vector processing",
+				"CPU efficiency",
+				"instruction per cycle",
+				"TPC-H",
+				"OLAP",
+				"decision support",
+				"multimedia retrieval"
+			],
+			"keywords_source": "openalex",
+			"source": "manual",
+			"retrieved": "2026-11-14",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Bal2005a",
 			"type": "book",
 			"title": "Econometric Analysis of Panel Data",
@@ -8284,6 +8320,24 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "DDBL2026a",
+			"type": "misc",
+			"title": "duckdb-neo: Ergonomic wrapper for DuckDB's v2 C API (beta)",
+			"authors": [
+				"DuckDB Labs and contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/duckdb/duckdb-rs",
+			"abstract": "Ergonomic wrapper for DuckDB's v2 C API (beta)",
+			"abstract_source": "crates.io",
+			"source": "manual",
+			"retrieved": "2026-11-14",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "DDC1988a",
@@ -53482,6 +53536,12 @@
 			"count": 325,
 			"source": "openalex",
 			"date": "2026-10-24"
+		},
+		{
+			"key": "BZN2005a",
+			"count": 477,
+			"source": "openalex",
+			"date": "2026-11-14"
 		}
 	]
 }
