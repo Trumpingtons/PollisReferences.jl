@@ -37066,6 +37066,24 @@
 			"open_access": true
 		},
 		{
+			"key": "Sho2026b",
+			"type": "misc",
+			"title": "WebAssemblyCompiler.jl: Create WebAssembly with Julia",
+			"authors": [
+				"Short, Tom"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/tshort/WebAssemblyCompiler.jl",
+			"abstract": "Create WebAssembly with Julia",
+			"abstract_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-14",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Shr2004a",
 			"type": "book",
 			"title": "Stochastic Calculus for Finance II: Continuous-Time Models",
