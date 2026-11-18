@@ -1348,6 +1348,32 @@
 			"open_access": true
 		},
 		{
+			"key": "ASPRS2025a",
+			"type": "misc",
+			"title": "LAS Specification 1.4, Revision 16",
+			"authors": [
+				"American Society for Photogrammetry and Remote Sensing"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2025,
+			"url": "https://github.com/ASPRSorg/LAS/releases/tag/1.4.R16",
+			"abstract": "The LASer (LAS) file is intended to contain point cloud data records, including those derived from lidar or other sources. The data will commonly be put into this format from software (e.g., provided by hardware vendors), which combines GPS, IMU, and laser pulse range data to produce points with X, Y, and Z coordinates. The purpose of LAS is to provide an open format that allows different hardware and software tools to exchange point cloud data in a common format.",
+			"abstract_source": "manual",
+			"keywords": [
+				"LAS",
+				"lidar",
+				"point clouds",
+				"ASPRS",
+				"file format"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
+		},
+		{
 			"key": "ASY1996a",
 			"type": "book",
 			"title": "Chaos: An Introduction to Dynamical Systems",
@@ -22757,6 +22783,36 @@
 			"open_access": false
 		},
 		{
+			"key": "Ise2013a",
+			"type": "article",
+			"title": "LASzip",
+			"authors": [
+				"Isenburg, Martin"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "Photogrammetric Engineering and Remote Sensing",
+			"volume": "79",
+			"number": "2",
+			"pages": "209-217",
+			"issn": "0099-1112",
+			"doi": "10.14358/PERS.79.2.209",
+			"openalex": "W4236898369",
+			"keywords": [
+				"LASzip",
+				"LAZ",
+				"lidar",
+				"lossless compression",
+				"point clouds"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Ito1944a",
 			"type": "article",
 			"title": "Stochastic integral",
@@ -24825,6 +24881,36 @@
 			"source": "crossref",
 			"retrieved": "2026-11-07",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "KP1998a",
+			"type": "article",
+			"title": "Determination of terrain models in wooded areas with airborne laser scanner data",
+			"authors": [
+				"Kraus, K.",
+				"Pfeifer, N."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1998,
+			"journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+			"volume": "53",
+			"number": "4",
+			"pages": "193-203",
+			"issn": "0924-2716",
+			"doi": "10.1016/S0924-2716(98)00009-4",
+			"openalex": "W2009214675",
+			"keywords": [
+				"airborne laser scanning",
+				"digital terrain models",
+				"wooded areas",
+				"lidar"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": false
 		},
 		{
@@ -34386,6 +34472,32 @@
 			"open_access": false
 		},
 		{
+			"key": "Ng2026a",
+			"type": "misc",
+			"title": "ArchGDAL.jl: A high level API for GDAL, the Geospatial Data Abstraction Library",
+			"authors": [
+				"Ng, Yeesian"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/yeesian/ArchGDAL.jl",
+			"abstract": "A high level API for GDAL - Geospatial Data Abstraction Library",
+			"abstract_source": "github",
+			"keywords": [
+				"gdal",
+				"geospatial",
+				"ogr",
+				"raster",
+				"vector"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
+		},
+		{
 			"key": "OA2016a",
 			"type": "book",
 			"title": "A Concise Introduction to Decentralized POMDPs",
@@ -34606,6 +34718,60 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "OGC2019a",
+			"type": "misc",
+			"title": "OGC GeoTIFF Standard, Version 1.1",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2019,
+			"number": "OGC 19-008r4",
+			"url": "https://docs.ogc.org/is/19-008r4/19-008r4.html",
+			"abstract": "This OGC Standard defines the Geographic Tagged Image File Format (GeoTIFF) by specifying requirements and encoding rules for using the Tagged Image File Format (TIFF) for the exchange of georeferenced or geocoded imagery. The OGC GeoTIFF 1.1 standard formalizes the existing community GeoTIFF specification version 1.0 and aligns it with the continuing addition of data to the EPSG Geodetic Parameter Dataset.",
+			"abstract_source": "manual",
+			"keywords": [
+				"GeoTIFF",
+				"TIFF",
+				"georeferencing",
+				"raster",
+				"OGC standard"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
+		},
+		{
+			"key": "OGC2023a",
+			"type": "misc",
+			"title": "OGC Cloud Optimized GeoTIFF Standard, Version 1.0",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2023,
+			"number": "OGC 21-026",
+			"url": "https://docs.ogc.org/is/21-026/21-026.html",
+			"abstract": "The Cloud Optimized GeoTIFF (COG) relies on two characteristics of the TIFF v6 format (tiles and reduced resolution subfiles), GeoTIFF keys for georeference, and the HTTP range, which allows for efficient downloading of parts of imagery and grid coverage data on the web and to make fast data visualization of TIFF or BigTIFF files and fast geospatial processing workflows possible. COG-aware applications can download only the information they need to visualize or process the data on the web. Numerous remote sensing datasets are available in cloud storage facilities that can benefit from optimized visualization and processing. This standard formalizes the requirements for a TIFF file to become a COG file and for the HTTP server to make COG files available in a fast fashion on the web.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Cloud Optimized GeoTIFF",
+				"COG",
+				"GeoTIFF",
+				"HTTP range requests",
+				"OGC standard"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "OGC2026a",
@@ -38492,6 +38658,38 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "RR1997a",
+			"type": "article",
+			"title": "The GeoTiff data interchange standard for raster geographic images",
+			"authors": [
+				"Ritter, N.",
+				"Ruth, M."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1997,
+			"journal": "International Journal of Remote Sensing",
+			"volume": "18",
+			"number": "7",
+			"pages": "1637-1647",
+			"issn": "0143-1161",
+			"doi": "10.1080/014311697218340",
+			"openalex": "W1971959507",
+			"abstract": "The GeoTIFF interchange standard is an extension of the popular TIFF format, to support a geodetically sound raster data georeferencing capability. The geographic content supported in the GeoTIFF tag structure includes its cartographic projection, datum, ground pixel dimension, and other geographic variables, based upon the non-profit Petrotechnical Open Software Company (POSC)'s Epicentre 2.0 geodetic model. This paper is a review of the progress and status of the GeoTIFF initiative, as well as an overview of the main technical characteristics and principles of the GeoTIFF format.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"GeoTIFF",
+				"raster data",
+				"georeferencing",
+				"data interchange standard"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "RR2016a",
@@ -42570,6 +42768,37 @@
 			"open_access": true
 		},
 		{
+			"key": "SV2004a",
+			"type": "article",
+			"title": "Experimental comparison of filter algorithms for bare-Earth extraction from airborne laser scanning point clouds",
+			"authors": [
+				"Sithole, George",
+				"Vosselman, George"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2004,
+			"journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+			"volume": "59",
+			"number": "1-2",
+			"pages": "85-101",
+			"issn": "0924-2716",
+			"doi": "10.1016/j.isprsjprs.2004.05.004",
+			"openalex": "W2056769281",
+			"keywords": [
+				"airborne laser scanning",
+				"filtering",
+				"bare-Earth extraction",
+				"ground classification",
+				"point clouds"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "SV2010a",
 			"type": "inproceedings",
 			"title": "Monte-Carlo Planning in Large POMDPs",
@@ -43074,6 +43303,56 @@
 			"retrieved": "2026-11-03",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "Sch2026a",
+			"type": "misc",
+			"title": "Rasters.jl: Raster manipulation for the Julia language",
+			"authors": [
+				"Schouten, Rafael"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/rafaqz/Rasters.jl",
+			"abstract": "Raster manipulation for the Julia language",
+			"abstract_source": "github",
+			"keywords": [
+				"gdal",
+				"geospatial",
+				"netcdf",
+				"raster",
+				"rasterization"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
+		},
+		{
+			"key": "Sch2026b",
+			"type": "misc",
+			"title": "PointClouds.jl: Fast and flexible processing of lidar point-cloud data",
+			"authors": [
+				"Schmid, Manuel F."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/efpl-columbia/PointClouds.jl",
+			"abstract": "Fast & flexible processing of lidar point-cloud data",
+			"abstract_source": "github",
+			"keywords": [
+				"julia",
+				"lidar",
+				"point-cloud"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "Seg1997a",
@@ -63863,6 +64142,54 @@
 		{
 			"key": "CD2012a",
 			"count": 1302,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "RR1997a",
+			"count": 67,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "RR1997a",
+			"count": 96,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Ise2013a",
+			"count": 115,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Ise2013a",
+			"count": 153,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "KP1998a",
+			"count": 851,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "KP1998a",
+			"count": 1414,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "SV2004a",
+			"count": 721,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "SV2004a",
+			"count": 1106,
 			"source": "openalex",
 			"date": "2026-11-18"
 		}
