@@ -12692,6 +12692,40 @@
 			"open_access": true
 		},
 		{
+			"key": "DPV2019a",
+			"type": "techreport",
+			"title": "The EU-OECD definition of a functional urban area",
+			"authors": [
+				"Dijkstra, Lewis",
+				"Poelman, Hugo",
+				"Veneri, Paolo"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"institution": "Organisation for Economic Co-operation and Development",
+			"note": "OECD Regional Development Working Papers",
+			"address": "Paris",
+			"doi": "10.1787/d58cb34d-en",
+			"url": "https://doi.org/10.1787/d58cb34d-en",
+			"openalex": "W2996691396",
+			"abstract": "This paper describes the EU-OECD method to define functional urban areas (FUAs). Being composed of a city and its commuting zone, FUAs encompass the economic and functional extent of cities based on daily people’s movements. The paper first presents briefly the methodological approach and subsequently provides a detailed description of the identification algorithm, together with the data needed to apply it. This definition has been applied to 33 OECD member countries and Colombia, as well as to all European Union member countries.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"functional urban areas",
+				"commuting zones",
+				"urban area definition",
+				"identification algorithm",
+				"commuting",
+				"popular movements"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "DR1959a",
 			"type": "article",
 			"title": "The Truck Dispatching Problem",
@@ -13707,6 +13741,34 @@
 			"open_access": false
 		},
 		{
+			"key": "EC2023a",
+			"type": "misc",
+			"title": "Commission Delegated Regulation (EU) 2023/674 of 26 December 2022 amending the Annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)",
+			"authors": [
+				"European Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2023,
+			"journal": "Official Journal of the European Union",
+			"volume": "L 87",
+			"pages": "1-53",
+			"url": "https://eur-lex.europa.eu/eli/reg_del/2023/674/oj",
+			"abstract": "The delegated regulation that amends the annexes of Regulation (EC) No 1059/2003 with the NUTS 2024 classification: the NUTS 1, NUTS 2 and NUTS 3 regions of each Member State with their codes and names, and the local administrative units, in force from 1 January 2024.",
+			"keywords": [
+				"NUTS 2024",
+				"NUTS",
+				"regional statistics",
+				"territorial units"
+			],
+			"abstract_source": "manual",
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ECAKF2020a",
 			"type": "article",
 			"title": "Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China",
@@ -14132,6 +14194,36 @@
 			"url": "https://people.math.ethz.ch/~embrecht/ftp/copchapter.pdf",
 			"legacy_key": "embrechts2002",
 			"source": "manual",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "EPCEU2003a",
+			"type": "misc",
+			"title": "Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS)",
+			"authors": [
+				"European Parliament",
+				"Council of the European Union"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2003,
+			"journal": "Official Journal of the European Union",
+			"volume": "L 154",
+			"pages": "1-41",
+			"url": "https://eur-lex.europa.eu/eli/reg/2003/1059/oj",
+			"abstract": "The regulation that establishes the Nomenclature of Territorial Units for Statistics (NUTS), the common classification by which the Member States divide their economic territory into NUTS 1, NUTS 2 and NUTS 3 regions for the collection, compilation and dissemination of regional statistics: the hierarchy of the classification, the criteria of existing administrative units and population thresholds by which regions are defined, and the rules and timing for amending it.",
+			"keywords": [
+				"NUTS",
+				"regional statistics",
+				"territorial units",
+				"Eurostat",
+				"classification"
+			],
+			"abstract_source": "manual",
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
 		},
@@ -14637,6 +14729,113 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "Eur2019a",
+			"type": "book",
+			"title": "Methodological Manual on Territorial Typologies: 2018 Edition",
+			"authors": [
+				"Eurostat"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2019,
+			"publisher": "Publications Office of the European Union",
+			"address": "Luxembourg",
+			"doi": "10.2785/930137",
+			"url": "https://doi.org/10.2785/930137",
+			"openalex": "W6965333211",
+			"abstract": "This Methodological manual on territorial typologies provides information that data suppliers concerned with subnational statistics within the European Union (EU) need to ensure coherency and comparability. It also helps endusers understand and interpret the wide range of official statistics that are available at a subnational level for different areas and regions of the EU. \\nThe publication marks an important milestone as it reflects legislative developments — through an initiative called Tercet — which integrated the most relevant territorial typologies into a consolidated and amended NUTS Regulation at the start of 2018.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"territorial typology",
+				"subnational statistics",
+				"tercets",
+				"statistical comparability",
+				"official statistics",
+				"European Union regions"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Eur2026a",
+			"type": "misc",
+			"title": "GISCO: Geographic Information System of the Commission",
+			"authors": [
+				"Eurostat"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://ec.europa.eu/eurostat/web/gisco",
+			"abstract": "Eurostat's pages on GISCO, the Geographic Information System of the Commission, and its distribution of geographic data: the NUTS regions, local administrative units, countries, Urban Audit cities and functional urban areas, postal codes and other reference data, each version at several scales and in several formats (GeoPackage, GeoJSON, TopoJSON, Shapefile, Parquet), with their metadata, terms of use and the copyright notice of EuroGeographics for administrative boundaries.",
+			"keywords": [
+				"GISCO",
+				"Eurostat",
+				"NUTS",
+				"administrative boundaries",
+				"geographic data"
+			],
+			"abstract_source": "manual",
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Eur2026b",
+			"type": "misc",
+			"title": "API Getting Started: SDMX 2.1",
+			"authors": [
+				"Eurostat"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-getting-started/sdmx2.1",
+			"abstract": "Eurostat's guide to its SDMX 2.1 dissemination API: how to request the data of a dataset by its code with a key, one value per dimension of the dataset separated by dots, an empty position selecting every value, how to filter by period, and the formats returned, SDMX-ML and SDMX-CSV among them.",
+			"keywords": [
+				"Eurostat",
+				"SDMX",
+				"API",
+				"open data"
+			],
+			"abstract_source": "manual",
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Eur2026c",
+			"type": "misc",
+			"title": "NUTS: Nomenclature of Territorial Units for Statistics",
+			"authors": [
+				"Eurostat"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://ec.europa.eu/eurostat/web/nuts",
+			"abstract": "Eurostat's pages on NUTS, the classification by which the EU divides each of its countries into regions at three levels for statistical purposes: NUTS 1, major socio-economic regions, NUTS 2, basic regions for regional policies, and NUTS 3, small regions for specific diagnoses. They give the regions of the NUTS 2024 and NUTS 2027 classifications, the history of the classification since the 1970s and its amendments, and the local administrative units (LAUs), the municipalities and communes that are the building blocks of NUTS, with the yearly lists that relate them to NUTS 3 regions.",
+			"abstract_source": "manual",
+			"keywords": [
+				"NUTS",
+				"regional statistics",
+				"local administrative units",
+				"Eurostat"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -15596,6 +15795,41 @@
 			"legacy_key": "frank1956",
 			"source": "crossref",
 			"retrieved": "2026-10-23",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "FW1991a",
+			"type": "article",
+			"title": "The Modifiable Areal Unit Problem in Multivariate Statistical Analysis",
+			"authors": [
+				"Fotheringham, A. Stewart",
+				"Wong, David W. S."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1991,
+			"journal": "Environment and Planning A: Economy and Space",
+			"volume": "23",
+			"number": "7",
+			"pages": "1025-1044",
+			"issn": "0308-518X",
+			"doi": "10.1068/a231025",
+			"url": "https://doi.org/10.1068/a231025",
+			"openalex": "W2026169687",
+			"abstract": "In this paper the examination of the modifiable areal unit problem is extended into multivariate statistical analysis. In an investigation of the parameter estimates from a multiple linear regression model and a multiple logit regression model, conclusions are drawn about the sensitivity of such estimates to variations in scale and zoning systems. The modifiable areal unit problem is shown to be essentially unpredictable in its intensity and effects in multivariate statistical analysis and is therefore a much greater problem than in univariate or bivariate analysis. The results of this analysis are rather depressing in that they provide strong evidence of the unreliability of any multivariate analysis undertaken with data from areal units. Given that such analyses can only be expected to increase with the imminent availability of new census data both in the United Kingdom and in the USA, and the current proliferation of GIS (geographical information system) technology which permits even more access to aggregated data, this paper serves as a topical warning.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"modifiable areal unit problem",
+				"multivariate analysis",
+				"multiple linear regression",
+				"scale sensitivity",
+				"zoning system",
+				"aggregated data"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": false
 		},
@@ -22266,6 +22500,34 @@
 			"open_access": false
 		},
 		{
+			"key": "Her2026a",
+			"type": "misc",
+			"title": "giscoR: Download 'Eurostat' 'GISCO' Spatial Data",
+			"authors": [
+				"Hernangómez, Diego"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "R package version 1.3.1",
+			"doi": "10.32614/cran.package.giscor",
+			"url": "https://doi.org/10.32614/cran.package.giscor",
+			"openalex": "W4399639428",
+			"abstract": "Tools to download data from the GISCO (Geographic Information System of the Commission) Eurostat database <https://ec.europa.eu/eurostat/web/gisco>. Global and European map data available. This package is in no way officially related to or endorsed by Eurostat.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Eurostat",
+				"geographic information systems",
+				"map data",
+				"R package"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Hes1993a",
 			"type": "article",
 			"title": "A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options",
@@ -27722,6 +27984,43 @@
 			"source": "crossref",
 			"retrieved": "2026-11-07",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "LHKB2017a",
+			"type": "article",
+			"title": "Retrieval and Analysis of Eurostat Open Data with the eurostat Package",
+			"authors": [
+				"Lahti, Leo",
+				"Huovari, Janne",
+				"Kainu, Markus",
+				"Biecek, Przemysław"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "The R Journal",
+			"volume": "9",
+			"number": "1",
+			"pages": "385-392",
+			"issn": "2073-4859",
+			"doi": "10.32614/rj-2017-019",
+			"url": "https://doi.org/10.32614/rj-2017-019",
+			"openalex": "W2787567270",
+			"abstract": "The increasing availability of open statistical data resources is providing novel opportunities for research and citizen science.Efficient algorithmic tools are needed to realize the full potential of the new information resources.We introduce the eurostat R package that provides a collection of custom tools for the Eurostat open data service, including functions to query, download, manipulate, and visualize these data sets in a smooth, automated and reproducible manner.The online documentation provides detailed examples on the analysis of these spatio-temporal data collections.This work provides substantial improvements over the previously available tools, and has been extensively tested by an active user community.The eurostat R package contributes to the growing open source ecosystem dedicated to reproducible research in computational social science and digital humanities.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Eurostat",
+				"R package",
+				"data retrieval",
+				"data download",
+				"data manipulation",
+				"data visualization"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": true
 		},
 		{
