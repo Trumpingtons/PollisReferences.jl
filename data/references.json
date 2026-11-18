@@ -4639,6 +4639,39 @@
 			"open_access": false
 		},
 		{
+			"key": "BP2015a",
+			"type": "article",
+			"title": "Comparing Implementations of Estimation Methods for Spatial Econometrics",
+			"authors": [
+				"Bivand, Roger",
+				"Piras, Gianfranco"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Journal of Statistical Software",
+			"volume": "63",
+			"number": "18",
+			"issn": "1548-7660",
+			"doi": "10.18637/jss.v063.i18",
+			"openalex": "W2156127902",
+			"abstract": "Recent advances in the implementation of spatial econometrics model estimation techniques have made it desirable to compare results, which should correspond between implementations across software applications for the same data. These model estimation techniques are associated with methods for estimating impacts (emanating effects), which are also presented and compared. This review constitutes an up-to-date comparison of generalized method of moments and maximum likelihood implementations now available. The comparison uses the cross-sectional US county data set provided by Drukker, Prucha, and Raciborski (2013d). The comparisons will be cast in the context of alternatives using the MATLAB Spatial Econometrics toolbox, Stata's user-written sppack commands, Python with PySAL and R packages including spdep, sphet and McSpatial.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial econometrics",
+				"spatial autoregressive model",
+				"generalized method of moments",
+				"maximum likelihood estimation",
+				"PySAL",
+				"county-level data"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BP2023a",
 			"type": "article",
 			"title": "ARCHModels.jl: Estimating ARCH Models in Julia",
@@ -16971,6 +17004,38 @@
 			"open_access": false
 		},
 		{
+			"key": "GP1996a",
+			"type": "article",
+			"title": "On the Harrison and Rubinfeld Data",
+			"authors": [
+				"Gilley, Otis W.",
+				"Pace, R. Kelley"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1996,
+			"journal": "Journal of Environmental Economics and Management",
+			"volume": "31",
+			"number": "3",
+			"pages": "403-405",
+			"issn": "0095-0696",
+			"doi": "10.1006/jeem.1996.0052",
+			"openalex": "W1988648914",
+			"keywords": [
+				"Bayesian additive regression trees",
+				"housing prices",
+				"shrinkage priors",
+				"uncertainty quantification",
+				"ensemble regression",
+				"covariance structure"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "GP2005a",
 			"type": "article",
 			"title": "Effectiveness and efficiency of search methods in systematic reviews of complex evidence: audit of primary sources",
@@ -20122,6 +20187,40 @@
 			"legacy_key": "han2000",
 			"source": "crossref",
 			"retrieved": "2026-10-23",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "HR1978a",
+			"type": "article",
+			"title": "Hedonic Housing Prices and the Demand for Clean Air",
+			"authors": [
+				"Harrison, David",
+				"Rubinfeld, Daniel L."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1978,
+			"journal": "Journal of Environmental Economics and Management",
+			"volume": "5",
+			"number": "1",
+			"pages": "81-102",
+			"issn": "0095-0696",
+			"doi": "10.1016/0095-0696(78)90006-2",
+			"openalex": "W2029469881",
+			"keywords": [
+				"willingness to pay",
+				"clean air",
+				"air quality",
+				"hedonic housing prices",
+				"housing market",
+				"air pollution damage",
+				"household income",
+				"Boston metropolitan area"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": false
 		},
@@ -34900,6 +34999,37 @@
 			"open_access": true
 		},
 		{
+			"key": "PG1997a",
+			"type": "article",
+			"title": "Using the Spatial Configuration of the Data to Improve Estimation",
+			"authors": [
+				"Pace, R. Kelley",
+				"Gilley, Otis W."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1997,
+			"journal": "Journal of Real Estate Finance and Economics",
+			"volume": "14",
+			"number": "3",
+			"pages": "333-340",
+			"issn": "0895-5638",
+			"doi": "10.1023/A:1007762613901",
+			"openalex": "W1527882638",
+			"keywords": [
+				"spatial autoregressive model",
+				"hedonic pricing",
+				"property valuation",
+				"estimator efficiency",
+				"prediction accuracy"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "PGT2003a",
 			"type": "inproceedings",
 			"title": "Point-Based Value Iteration: An Anytime Algorithm for POMDPs",
@@ -49588,6 +49718,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "BP2015a",
+			"count": 689,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BP2015a",
+			"count": 1082,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "BPAAB...2021a",
 			"count": 68,
 			"source": "crossref",
@@ -52864,6 +53006,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "GP1996a",
+			"count": 106,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "GP1996a",
+			"count": 134,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "GP2005a",
 			"count": 1726,
 			"source": "crossref",
@@ -53846,6 +54000,18 @@
 			"count": 3217,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "HR1978a",
+			"count": 1357,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "HR1978a",
+			"count": 2339,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "HR2013a",
@@ -57848,6 +58014,18 @@
 			"count": 8,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "PG1997a",
+			"count": 204,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "PG1997a",
+			"count": 298,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "PJ2009a",
