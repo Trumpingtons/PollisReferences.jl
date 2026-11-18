@@ -330,6 +330,39 @@
 			"open_access": true
 		},
 		{
+			"key": "ABFY1996a",
+			"type": "article",
+			"title": "Simple Diagnostic Tests for Spatial Dependence",
+			"authors": [
+				"Anselin, Luc",
+				"Bera, Anil K.",
+				"Florax, Raymond",
+				"Yoon, Mann J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1996,
+			"journal": "Regional Science and Urban Economics",
+			"volume": "26",
+			"number": "1",
+			"pages": "77-104",
+			"issn": "0166-0462",
+			"doi": "10.1016/0166-0462(95)02111-6",
+			"openalex": "W2111616256",
+			"keywords": [
+				"spatial dependence",
+				"diagnostic testing",
+				"spatial econometrics",
+				"finite sample properties",
+				"statistical power"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "ABG2007a",
 			"type": "article",
 			"title": "Trust-Region Methods on Riemannian Manifolds",
@@ -1787,6 +1820,34 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "Ans1988a",
+			"type": "book",
+			"title": "Spatial Econometrics: Methods and Models",
+			"authors": [
+				"Anselin, Luc"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1988,
+			"publisher": "Springer Netherlands",
+			"series": "Studies in Operational Regional Science",
+			"isbn": "9789048183111",
+			"doi": "10.1007/978-94-015-7799-1",
+			"openalex": "W2028226037",
+			"keywords": [
+				"spatial econometrics",
+				"spatial dependence",
+				"spatial heterogeneity",
+				"regional science",
+				"spatial econometric models"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": false
 		},
 		{
@@ -8996,6 +9057,42 @@
 			"open_access": false
 		},
 		{
+			"key": "CO1972a",
+			"type": "article",
+			"title": "Testing for Spatial Autocorrelation Among Regression Residuals",
+			"authors": [
+				"Cliff, Andrew",
+				"Ord, Keith"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1972,
+			"journal": "Geographical Analysis",
+			"volume": "4",
+			"number": "3",
+			"pages": "267-284",
+			"issn": "0016-7363",
+			"doi": "10.1111/j.1538-4632.1972.tb00475.x",
+			"openalex": "W1967573424",
+			"abstract": "NTRODUCTIONA basic assumption of least squares regression is that the error terms in the regression model are independent under the null hypothesis.To test whether this assumption has been met in regression models of time series data with normally distributed error terms and given regression structure, the d statistic of Durbin and Watson [4] is often used.Consider now a system of n counties within a country, as, for example, the counties of England and Wales.Suppose that a regression model attempting to account for, say, the county-by-county variation in per capita annual milk consumption on the basis of real personal income has been postulated.In problems of this sort, where the data have a geographic ordering, the regression model requires the error terms to be independent spatially under H,.Geary [S, SJ has made this point forcefully in the case of econometric models for several regions.It is the purpose of this paper to present a statistic, I, which can be used to test for correlation among such geographically located error terms arising from least squares regression.While the particular formulation of counties within a country is used in the remainder of the paper, I may be used to test for any postulated pattern of correlation among the error terms in any least squares regression model.In the next section, a general model is formulated from which the statistic I is derived.Since the error terms in the regression model in any practical case will be unobservable, I must be based upon the residuals from the calculated regression.These residuals are correlated under the null hypothesis whether the errors are dependent or not, and we consider three possible ways, due to Durbin and Watson [ 4 ] , Theil [ I S ] , and Moran [lo, 111 of overcoming this difficulty so that an asymptotic distribution Amdrew Clifl and Keith Ord are lecturers in geography and economics, respectively, at the University of Bristol.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial autocorrelation",
+				"regression residuals",
+				"spatial dependence",
+				"Durbin-Watson statistic",
+				"least squares regression",
+				"geographic data",
+				"milk consumption",
+				"personal income"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "CP1976a",
 			"type": "article",
 			"title": "Randomization of Number Theoretic Methods for Multiple Integration",
@@ -14095,6 +14192,33 @@
 			"open_access": false
 		},
 		{
+			"key": "Elh2014a",
+			"type": "book",
+			"title": "Spatial Econometrics: From Cross-Sectional Data to Spatial Panels",
+			"authors": [
+				"Elhorst, J. Paul"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2014,
+			"publisher": "Springer Berlin Heidelberg",
+			"series": "SpringerBriefs in Regional Science",
+			"isbn": "9783642403392",
+			"doi": "10.1007/978-3-642-40340-8",
+			"openalex": "W4250432939",
+			"keywords": [
+				"spatial econometrics",
+				"spatial panel data models",
+				"spatial dependence",
+				"spatial regression"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Eng1982a",
 			"type": "article",
 			"title": "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation",
@@ -18782,6 +18906,38 @@
 			"oa_url": "https://joss.theoj.org/papers/10.21105/joss.04414.pdf",
 			"source": "crossref",
 			"retrieved": "2026-11-13",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "HE2015a",
+			"type": "article",
+			"title": "The SLX Model",
+			"authors": [
+				"Halleck Vega, Solmaria",
+				"Elhorst, J. Paul"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Journal of Regional Science",
+			"volume": "55",
+			"number": "3",
+			"pages": "339-363",
+			"issn": "0022-4146",
+			"doi": "10.1111/jors.12188",
+			"openalex": "W1931576180",
+			"abstract": "ABSTRACT We provide a comprehensive overview of the strengths and weaknesses of different spatial econometric model specifications in terms of spillover effects. Based on this overview, we advocate taking the SLX model as point of departure in case a well‐founded theory indicating which model is most appropriate is lacking. In contrast to other spatial econometric models, the SLX model also allows for the spatial weights matrix W to be parameterized and the application of standard econometric techniques to test for endogenous explanatory variables. This starkly contrasts commonly used spatial econometric specification strategies and is a complement to the critique of spatial econometrics raised in a special theme issue of the Journal of Regional Science (Volume 52, Issue 2). To illustrate the pitfalls of the standard spatial econometrics approach and the benefits of our proposed alternative approach in an empirical setting, the Baltagi and Li (2004) cigarette demand model is estimated.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spillover effects",
+				"spatial weight matrix",
+				"endogenous explanatory variables",
+				"cigarette demand"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
 		},
@@ -27628,6 +27784,37 @@
 			"open_access": true
 		},
 		{
+			"key": "LP2009a",
+			"type": "book",
+			"title": "Introduction to Spatial Econometrics",
+			"authors": [
+				"LeSage, James",
+				"Pace, Robert Kelley"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2009,
+			"publisher": "Chapman and Hall/CRC",
+			"isbn": "9781420064247",
+			"doi": "10.1201/9781420064254",
+			"openalex": "W4301651410",
+			"abstract": "Although interest in spatial regression models has surged in recent years, a comprehensive, up-to-date text on these approaches does not exist. Filling this void, Introduction to Spatial Econometrics presents a variety of regression methods used to analyze spatial data samples that violate the traditional assumption of independence between observat",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial econometrics",
+				"spatial regression",
+				"spatial dependence",
+				"spatial autocorrelation",
+				"spatial analysis",
+				"spatial panel data"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "LPPPK...2020a",
 			"type": "inproceedings",
 			"title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
@@ -34415,6 +34602,38 @@
 			"open_access": false
 		},
 		{
+			"key": "Ord1975a",
+			"type": "article",
+			"title": "Estimation Methods for Models of Spatial Interaction",
+			"authors": [
+				"Ord, Keith"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1975,
+			"journal": "Journal of the American Statistical Association",
+			"volume": "70",
+			"number": "349",
+			"pages": "120-126",
+			"issn": "0162-1459",
+			"doi": "10.1080/01621459.1975.10480272",
+			"openalex": "W1981145803",
+			"abstract": "Autoregressive models for spatial interaction have been proposed by several authors (Whittle [15] and Mead [11], for example). In the past, computational difficulties with the ML approach have led to the use of alternative estimators. In this article, a simplified computational scheme is given and extended to mixed regressive-autoregressive models. The ML estimator is compared with several alternatives.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial interaction models",
+				"autoregressive models",
+				"maximum likelihood estimation",
+				"alternative estimators",
+				"computational efficiency"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "PB1995a",
 			"type": "article",
 			"title": "Approximations to the Log-Likelihood Function in the Nonlinear Mixed-Effects Model",
@@ -38632,6 +38851,24 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "Ran2026a",
+			"type": "misc",
+			"title": "SpatialEconometrics.jl: Spatial Econometrics in Julia",
+			"authors": [
+				"Randsley, Nigel"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/randsley/SpatialEconometrics.jl",
+			"abstract": "Spatial econometrics in Julia: SAR/SDM/SEM, GWR/MGWR, static, dynamic and short-T spatial panels, spatio-temporal models and SpVAR, semiparametric SAR, spatial log-GARCH, causal inference, networks and gravity. Estimators are tested against independent computations, and the newer ones by Monte Carlo against their source papers.",
+			"abstract_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -48163,6 +48400,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "ABFY1996a",
+			"count": 1393,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "ABFY1996a",
+			"count": 2166,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "ABG2007a",
 			"count": 350,
 			"source": "crossref",
@@ -48539,6 +48788,18 @@
 			"count": 977,
 			"source": "openalex",
 			"date": "2026-11-02"
+		},
+		{
+			"key": "Ans1988a",
+			"count": 5473,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Ans1988a",
+			"count": 11887,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "Ath1971a",
@@ -50413,6 +50674,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "CO1972a",
+			"count": 323,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "CO1972a",
+			"count": 520,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "CP1976a",
 			"count": 251,
 			"source": "crossref",
@@ -51763,6 +52036,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "Elh2014a",
+			"count": 1679,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Elh2014a",
+			"count": 2645,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "Eng1982a",
 			"count": 15143,
 			"source": "crossref",
@@ -53105,6 +53390,18 @@
 			"count": 448,
 			"source": "openalex",
 			"date": "2026-11-06"
+		},
+		{
+			"key": "HE2015a",
+			"count": 617,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "HE2015a",
+			"count": 813,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "HG2009a",
@@ -55801,6 +56098,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "LP2009a",
+			"count": 4518,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "LP2009a",
+			"count": 8133,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "LPR1996a",
 			"count": 1157,
 			"source": "crossref",
@@ -57425,6 +57734,18 @@
 			"count": 2088,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "Ord1975a",
+			"count": 985,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Ord1975a",
+			"count": 1538,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "PB1995a",
