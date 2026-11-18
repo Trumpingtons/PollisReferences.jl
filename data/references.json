@@ -18610,6 +18610,41 @@
 			"open_access": true
 		},
 		{
+			"key": "Gia2010a",
+			"type": "article",
+			"title": "On Vector Autoregressive Modeling in Space and Time",
+			"authors": [
+				"Di Giacinto, Valter"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2010,
+			"journal": "Journal of Geographical Systems",
+			"volume": "12",
+			"number": "2",
+			"pages": "125-154",
+			"issn": "1435-5930",
+			"doi": "10.1007/s10109-010-0116-6",
+			"openalex": "W2013719655",
+			"abstract": "Despite the fact that it provides a potentially useful analytical tool, allowing for the joint modeling of dynamic interdependencies within a group of connected areas, until lately the VAR approach had received little attention in regional science and spatial economic analysis. This paper aims to contribute in this field by dealing with the issues of parameter identification and estimation and of structural impulse response analysis. In particular, there is a discussion of the adaptation of the recursive identification scheme (which represents one of the more common approaches in the time series VAR literature) to a space-time environment. Parameter estimation is subsequently based on the Full Information Maximum Likelihood (FIML) method, a standard approach in structural VAR analysis. As a convenient tool to summarize the information conveyed by regional dynamic multipliers with a specific emphasis on the scope of spatial spillover effects, a synthetic space-time impulse response function (STIR) is introduced, portraying average effects as a function of displacement in time and space. Asymptotic confidence bands for the STIR estimates are also derived from bootstrap estimates of the standard errors. Finally, to provide a basic illustration of the methodology, the paper presents an application of a simple bivariate fiscal model fitted to data for Italian NUTS 2 regions.",
+			"abstract_source": "repec",
+			"keywords": [
+				"vector autoregression",
+				"spatial econometrics",
+				"recursive identification",
+				"full information maximum likelihood",
+				"spatial spillover effects",
+				"bootstrap confidence bands",
+				"fiscal model",
+				"regional economic dynamics"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Gil1976a",
 			"type": "article",
 			"title": "A general method for numerically simulating the stochastic time evolution of coupled chemical reactions",
@@ -20172,6 +20207,8 @@
 			"issn": "0169-2070",
 			"doi": "10.1016/j.ijforecast.2006.03.001",
 			"openalex": "W2016210396",
+			"abstract": "We discuss and compare measures of accuracy of univariate time series forecasts. The methods used in the M-competition and the M3-competition, and many of the measures recommended by previous authors on this topic, are found to be inadequate, and many of them are degenerate in commonly occurring situations. Instead, we propose that the mean absolute scaled error become the standard measure for comparing forecast accuracy across multiple time series.",
+			"abstract_source": "repec",
 			"oa_url": "https://figshare.com/articles/journal_contribution/Another_look_at_measures_of_forecast_accuracy/5091436",
 			"source": "crossref",
 			"retrieved": "2026-11-02",
@@ -36281,6 +36318,38 @@
 			"open_access": true
 		},
 		{
+			"key": "PD1980a",
+			"type": "article",
+			"title": "A Three-Stage Iterative Procedure for Space-Time Modeling",
+			"authors": [
+				"Pfeifer, Phillip E.",
+				"Deutsch, Stuart Jay"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1980,
+			"journal": "Technometrics",
+			"volume": "22",
+			"number": "1",
+			"pages": "35-47",
+			"issn": "0040-1706",
+			"doi": "10.2307/1268381",
+			"openalex": "W2073488975",
+			"abstract": "A three-stage iterative procedure for building space-time models is presented. These models fall into the general class of STARIMA models and are characterized by autoregressive and moving average terms lagged in both time and space. This model class collapses into the ARIMA model class in the absence of spatial correlation. The theoretical properties of STARIMA models are presented and the model building procedure is described and illustrated by a substantive example.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatio-temporal modeling",
+				"spatial autoregressive model",
+				"arima model",
+				"spatial correlation"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "PD2025a",
 			"type": "misc",
 			"title": "Poppler: A PDF Rendering Library",
@@ -37542,6 +37611,38 @@
 			"source": "crossref",
 			"retrieved": "2026-10-30",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "Pes2015a",
+			"type": "article",
+			"title": "Testing Weak Cross-Sectional Dependence in Large Panels",
+			"authors": [
+				"Pesaran, M. Hashem"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Econometric Reviews",
+			"volume": "34",
+			"number": "6-10",
+			"pages": "1089-1117",
+			"issn": "0747-4938",
+			"doi": "10.1080/07474938.2014.956623",
+			"openalex": "W3122456196",
+			"abstract": "This article considers testing the hypothesis that errors in a panel data model are weakly cross-sectionally dependent, using the exponent of cross-sectional dependence α, introduced recently in Bailey, Kapetanios, and Pesaran (2012). It is shown that the implicit null of the cross-sectional dependence (CD) test depends on the relative expansion rates of N and T. When T = O(N ε), for some 0 < ε ≤1, then the implicit null of the CD test is given by 0 ≤ α < (2 − ε)/4, which gives 0 ≤ α <1/4, when N and T tend to infinity at the same rate such that T/N → κ, with κ being a finite positive constant. It is argued that in the case of large N panels, the null of weak dependence is more appropriate than the null of independence which could be quite restrictive for large panels. Using Monte Carlo experiments, it is shown that the CD test has the correct size for values of α in the range [0, 1/4], for all combinations of N and T, and irrespective of whether the panel contains lagged values of the dependent variables, so long as there are no major asymmetries in the error distribution.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"cross-sectional dependence",
+				"panel data models",
+				"large panels",
+				"test size",
+				"lagged dependent variables"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -55179,6 +55280,18 @@
 			"date": "2026-11-06"
 		},
 		{
+			"key": "Gia2010a",
+			"count": 217,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Gia2010a",
+			"count": 249,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "Gil1976a",
 			"count": 5429,
 			"source": "crossref",
@@ -59997,6 +60110,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "PD1980a",
+			"count": 272,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "PD1980a",
+			"count": 433,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "PDCMS...2020a",
 			"count": 1054,
 			"source": "crossref",
@@ -60319,6 +60444,18 @@
 			"count": 1449,
 			"source": "openalex",
 			"date": "2026-10-30"
+		},
+		{
+			"key": "Pes2015a",
+			"count": 2833,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Pes2015a",
+			"count": 3446,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "Pet2009a",
