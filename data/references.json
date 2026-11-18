@@ -18700,6 +18700,34 @@
 			"open_access": true
 		},
 		{
+			"key": "Gri2003a",
+			"type": "book",
+			"title": "Spatial Autocorrelation and Spatial Filtering: Gaining Understanding Through Theory and Scientific Visualization",
+			"authors": [
+				"Griffith, Daniel A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2003,
+			"publisher": "Springer Berlin Heidelberg",
+			"series": "Advances in Spatial Science",
+			"doi": "10.1007/978-3-540-24806-4",
+			"openalex": "W110918106",
+			"keywords": [
+				"spatial autocorrelation",
+				"spatial filtering",
+				"scientific visualization",
+				"spatial data visualization"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false,
+			"abstract": "Exploiting the old maxim that \"a picture is worth a thousand words,\" scientific visualization may be defined as the transformation of numerical scientific data into informative graphical displays. It introduces a nonverbal model into subdisciplines that hitherto employed mostly or only mathematical or verbal-conceptual models. The focus of this monograph is on how scientific visualization can help revolutionize the manner in which the tendencies for (dis)similar numerical values to cluster together in location on a map are explored and analyzed, affording spatial data analyses that are better understood, presented, and used. In doing so, the concept known as spatial autocorrelation - which characterizes these tendencies and is one of the key features of georeferenced data, or data tagged to the earth's surface - is further de-mystified. This self-correlation arises from relative locations in geographic space.",
+			"abstract_source": "publisher"
+		},
+		{
 			"key": "Gru1996a",
 			"type": "phdthesis",
 			"title": "On Computing Limits in a Symbolic Manipulation System",
@@ -30536,6 +30564,40 @@
 			"open_access": true
 		},
 		{
+			"key": "MG2015a",
+			"type": "article",
+			"title": "Random Effects Specifications in Eigenvector Spatial Filtering: A Simulation Study",
+			"authors": [
+				"Murakami, Daisuke",
+				"Griffith, Daniel A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Journal of Geographical Systems",
+			"volume": "17",
+			"number": "4",
+			"pages": "311-331",
+			"issn": "1435-5930",
+			"doi": "10.1007/s10109-015-0213-7",
+			"openalex": "W340592063",
+			"keywords": [
+				"eigenvector spatial filtering",
+				"spatial dependence",
+				"spatial confounding",
+				"parameter estimation bias",
+				"geostatistical models",
+				"spatial econometric models"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false,
+			"abstract": "Eigenvector spatial filtering (ESF) is becoming a popular way to address spatial dependence. Recently, a random effects specification of ESF (RE-ESF) is receiving considerable attention because of its usefulness for spatial dependence analysis considering spatial confounding. The objective of this study was to analyze theoretical properties of RE-ESF and extend it to overcome some of its disadvantages. We first compare the properties of RE-ESF and ESF with geostatistical and spatial econometric models. There, we suggest two major disadvantages of RE-ESF: it is specific to its selected spatial connectivity structure, and while the current form of RE-ESF eliminates the spatial dependence component confounding with explanatory variables to stabilize the parameter estimation, the elimination can yield biased estimates. RE-ESF is extended to cope with these two problems. A computationally efficient residual maximum likelihood estimation is developed for the extended model. Effectiveness of the extended RE-ESF is examined by a comparative Monte Carlo simulation. The main findings of this simulation are as follows: Our extension successfully reduces errors in parameter estimates; in many cases, parameter estimates of our RE-ESF are more accurate than other ESF models; the elimination of the spatial component confounding with explanatory variables results in biased parameter estimates; efficiency of an accuracy maximization-based conventional ESF is comparable to RE-ESF in many cases.",
+			"abstract_source": "publisher"
+		},
+		{
 			"key": "MG2017a",
 			"type": "article",
 			"title": "Chaotic Gravitational Constants for the Gravitational Search Algorithm",
@@ -33184,6 +33246,35 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Mur2017b",
+			"type": "misc",
+			"title": "Gaussian Spatial Regression Using the spmoran Package: Case Study Examples",
+			"authors": [
+				"Murakami, Daisuke"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.1703.04467",
+			"url": "https://arxiv.org/abs/1703.04467",
+			"openalex": "W4391243716",
+			"abstract": "This study demonstrates how to use the \"spmoran\" package implementing scalable spatial regression models for Gaussian and non-Gaussian data. Implemented models include spatially varying coefficient models, models with group effects, spatial unconditional quantile regression model, and low rank spatial econometric models. All of these models are estimated in a computationally efficient manner for large samples. Moran eigenvectors are used to an approximate Gaussian process (GP) modeling that is interpretable in terms of the Moran coefficient. The GP is used for modeling the spatial processes in residuals and regression coefficients. The sample codes are available from https://github.com/dmuraka/spmoran. While this vignette mainly focuses on Gaussian data modeling, another vignette focusing on non-Gaussian data including count regression is also available from the same GitHub page.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial regression",
+				"Gaussian processes",
+				"spatially varying coefficient models",
+				"group effect",
+				"large-sample estimation"
+			],
+			"keywords_source": "openalex",
+			"source": "arxiv",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Mur2022a",
@@ -44051,6 +44142,42 @@
 			"open_access": true
 		},
 		{
+			"key": "TG2007a",
+			"type": "article",
+			"title": "Semiparametric Filtering of Spatial Autocorrelation: The Eigenvector Approach",
+			"authors": [
+				"Tiefelsdorf, Michael",
+				"Griffith, Daniel A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2007,
+			"journal": "Environment and Planning A: Economy and Space",
+			"volume": "39",
+			"number": "5",
+			"pages": "1193-1221",
+			"issn": "0308-518X",
+			"doi": "10.1068/a37378",
+			"openalex": "W1964449090",
+			"abstract": "In the context of spatial regression analysis, several methods can be used to control for the statistical effects of spatial dependencies among observations. Maximum likelihood or Bayesian approaches account for spatial dependencies in a parametric framework, whereas recent spatial filtering approaches focus on nonparametrically removing spatial autocorrelation. In this paper we propose a semiparametric spatial filtering approach that allows researchers to deal explicitly with (a) spatially lagged autoregressive models and (b) simultaneous autoregressive spatial models. As in one non-parametric spatial filtering approach, a specific subset of eigenvectors from a transformed spatial link matrix is used to capture dependencies among the disturbances of a spatial regression model. However, the optimal subset in the proposed filtering model is identified more intuitively by an objective function that minimizes spatial autocorrelation rather than maximizes a model fit. The proposed objective function has the advantage that it leads to a robust and smaller subset of selected eigenvectors. An application of the proposed eigenvector spatial filtering approach, which uses a cancer mortality dataset for the 508 US State Economic Areas, demonstrates its feasibility, flexibility, and simplicity.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial autocorrelation",
+				"spatial filtering",
+				"eigenvector spatial filtering",
+				"spatial autoregressive model",
+				"simultaneous autoregressive model",
+				"spatial dependence",
+				"spatial regression",
+				"cancer mortality"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "TJ1978a",
 			"type": "article",
 			"title": "Evolutionary stable strategies and game dynamics",
@@ -53811,6 +53938,18 @@
 			"date": "2026-11-09"
 		},
 		{
+			"key": "Gri2003a",
+			"count": 462,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Gri2003a",
+			"count": 758,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "HA1985a",
 			"count": 8309,
 			"source": "crossref",
@@ -57189,6 +57328,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "MG2015a",
+			"count": 93,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "MG2015a",
+			"count": 114,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "MGALS...2021a",
 			"count": 99,
 			"source": "openalex",
@@ -57793,6 +57944,12 @@
 			"count": 1003,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "Mur2017b",
+			"count": 37,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "Mut1960a",
@@ -60841,6 +60998,18 @@
 			"count": 600,
 			"source": "openalex",
 			"date": "2026-10-31"
+		},
+		{
+			"key": "TG2007a",
+			"count": 279,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "TG2007a",
+			"count": 351,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "Tas2000a",
