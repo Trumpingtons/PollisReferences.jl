@@ -2017,6 +2017,40 @@
 			"open_access": true
 		},
 		{
+			"key": "BB2024a",
+			"type": "article",
+			"title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
+			"authors": [
+				"Ballantyne, Patrick",
+				"Berragan, Cillian"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"journal": "Environment and Planning B: Urban Analytics and City Science",
+			"volume": "51",
+			"number": "8",
+			"pages": "1974-1980",
+			"issn": "2399-8083",
+			"doi": "10.1177/23998083241263124",
+			"openalex": "W4400922089",
+			"abstract": "Point of Interest data that is globally available, open access and of good quality is sparse, despite being important inputs for research in a number of application areas. New data from the Overture Maps Foundation offers significant potential in this arena, but accessing the data relies on computational resources beyond the skillset and capacity of the average researcher. In this article, we provide a processed version of the Overture places (POI) dataset for the UK, in a fully queryable format, and provide accompanying code through which to explore the data, and generate other national subsets. In the article, we describe the construction and characteristics of this new open data product, before evaluating its quality in relation to ISO standards, through direct comparison with Geolytix supermarket data. This dataset can support new and important research projects in a variety of different thematic areas, and foster a network of researchers to further evaluate its advantages and limitations, through validation against other well-established datasets from domains external to retail.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"point of interest data",
+				"open data",
+				"United Kingdom",
+				"data validation",
+				"ISO standards",
+				"retail data"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BBAS2012a",
 			"type": "article",
 			"title": "A review and comparison of strategies for multi-step ahead time series forecasting based on the NN5 forecasting competition",
@@ -16066,6 +16100,40 @@
 			"open_access": true
 		},
 		{
+			"key": "GBH2024a",
+			"type": "article",
+			"title": "Auditing Geospatial Datasets for Biases: Using Global Building Datasets for Disaster Risk Management",
+			"authors": [
+				"Gevaert, Caroline M.",
+				"Buunk, Thomas",
+				"Van den Homberg, Marc J. C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+			"volume": "17",
+			"pages": "12579-12590",
+			"issn": "1939-1404",
+			"doi": "10.1109/jstars.2024.3422503",
+			"openalex": "W4400275895",
+			"abstract": "The presence of biases has been demonstrated in a wide range of machine learning applications; however, it is not yet widespread in the case of geospatial datasets. This study illustrates the importance of auditing geospatial datasets for biases, with a particular focus on disaster risk management applications, as a lack of local data may direct humanitarian actors to utilize global building datasets to estimate damage and the distribution of aid efforts. It is important to ensure that there are no biases against the representation of vulnerable populations and that they are not missed in the distribution of aid. This manuscript audits four global building datasets [Google Open Buildings, Microsoft Bing Maps Building Footprints, Overture Maps Foundation (OMF), and OpenStreetMap (OSM)] for biases regarding the relative wealth index (RWI), population density, urban/rural proportions, and building size in Tanzania and the Philippines. The dataset accuracies for these two countries are lower than expected. Google Open Buildings (with a confidence above 0.7) and OSM demonstrated the best combinations of false negative and false discovery, though Google Open Buildings was more consistent across tiles. The equality of opportunity was lowest for the urban/rural proportions, whereas the OSM and OMF displayed particularly low equality of opportunity for population density and RWI in Tanzania. These results demonstrate that biases exist in these geospatial datasets. The types of biases are not consistent across the datasets and the two study areas, which emphasizes the importance of auditing these datasets for biases in new applications and study areas.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"algorithmic fairness",
+				"building footprints",
+				"disaster risk management",
+				"humanitarian aid distribution",
+				"vulnerable populations",
+				"population density"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "GBR2007a",
 			"type": "article",
 			"title": "Probabilistic Forecasts, Calibration and Sharpness",
@@ -17788,6 +17856,42 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "GSTM2026a",
+			"type": "article",
+			"title": "Towards a Comparison of the Semantic Information of Pan-European Open Building Data",
+			"authors": [
+				"Gabrielli, Lorenzo",
+				"Sulis, Patrizia",
+				"Thabit, Sara",
+				"Minghini, Marco"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"journal": "ISPRS International Journal of Geo-Information",
+			"volume": "15",
+			"number": "6",
+			"pages": "252",
+			"issn": "2220-9964",
+			"doi": "10.3390/ijgi15060252",
+			"openalex": "W7163523889",
+			"abstract": "Open, non-governmental building datasets have become increasingly important for urban analysis, exposure modelling, and policy support. Despite their growing use, little is known about the consistency, completeness, and comparability of the semantic information they provide at a continental scale. This study presents the first systematic comparison of the semantic attributes of six major pan-European open building datasets—OpenStreetMap, EUBUCCO, Microsoft Global ML Building Footprints, Overture Maps, GHS-OBAT, and the Digital Building Stock Model (DBSM)—using the 27 EU Member States as a common reference area. Five key semantic attributes (height, typology, building age, number of floors, and building material) were harmonised and analysed in terms of completeness and value distributions across countries and degrees of urbanisation. The workflow combines API-based data ingestion, distributed geospatial processing, and high-performance computing to handle around 1.250 billion building footprints. Results reveal pronounced heterogeneity in semantic content across datasets. Remote-sensing-derived products (GHS-OBAT and DBSM) exhibit the highest levels of attribute completeness for height, typology, and building age, but rely on aggregated or coarse semantic representations. In contrast, community-driven and conflated datasets (OpenStreetMap and Overture Maps) provide richer and more detailed semantic schemas, albeit with low and spatially uneven completeness. Completeness patterns vary substantially across countries and urbanisation classes, and high completeness values often mask limited semantic informativeness due to the prevalence of unknown or aggregated attribute values. Overall, the findings demonstrate that no single dataset is universally optimal regarding consistency and completeness of building footprints’ semantic attributes. Nonetheless, the paper provides practical guidance for selecting suitable data sources depending on spatial scale, attribute requirements, and analytical objectives.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"building footprints",
+				"semantic features",
+				"data comparability",
+				"data completeness",
+				"OpenStreetMap",
+				"building height"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -35353,6 +35457,32 @@
 			"retrieved": "2026-11-03",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "OMF2026a",
+			"type": "misc",
+			"title": "Overture Maps Documentation",
+			"authors": [
+				"Overture Maps Foundation"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://docs.overturemaps.org/",
+			"abstract": "Documentation of the open map data of the Overture Maps Foundation: the monthly releases of its six themes (addresses, base, buildings, divisions, places and transportation) as GeoParquet files on Amazon S3 and Microsoft Azure, their schema, the Global Entity Reference System (GERS) of stable identifiers, the release calendar and data retention, the STAC catalogue of releases, the sources and licences of each theme, and how to query the data with DuckDB and other tools.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Overture Maps",
+				"open map data",
+				"GeoParquet",
+				"points of interest",
+				"building footprints"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "OMTC2026a",
