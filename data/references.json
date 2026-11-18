@@ -4314,6 +4314,36 @@
 			"open_access": false
 		},
 		{
+			"key": "BLS2016a",
+			"type": "article",
+			"title": "An improved LOD specification for 3D building models",
+			"authors": [
+				"Biljecki, Filip",
+				"Ledoux, Hugo",
+				"Stoter, Jantien"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Computers, Environment and Urban Systems",
+			"volume": "59",
+			"pages": "25-37",
+			"issn": "0198-9715",
+			"doi": "10.1016/j.compenvurbsys.2016.04.005",
+			"openalex": "W2348385415",
+			"keywords": [
+				"level of detail",
+				"3D building models",
+				"CityGML",
+				"LOD specification"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BM1978a",
 			"type": "article",
 			"title": "A Maximum Likelihood Procedure for Regression with Autocorrelated Errors",
@@ -5592,6 +5622,41 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "BSLZC2015a",
+			"type": "article",
+			"title": "Applications of 3D City Models: State of the Art Review",
+			"authors": [
+				"Biljecki, Filip",
+				"Stoter, Jantien",
+				"Ledoux, Hugo",
+				"Zlatanova, Sisi",
+				"Çöltekin, Arzu"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "ISPRS International Journal of Geo-Information",
+			"volume": "4",
+			"number": "4",
+			"pages": "2842-2889",
+			"issn": "2220-9964",
+			"doi": "10.3390/ijgi4042842",
+			"openalex": "W2215173806",
+			"abstract": "In the last decades, 3D city models appear to have been predominantly used for visualisation; however, today they are being increasingly employed in a number of domains and for a large range of tasks beyond visualisation. In this paper, we seek to understand and document the state of the art regarding the utilisation of 3D city models across multiple domains based on a comprehensive literature study including hundreds of research papers, technical reports and online resources. A challenge in a study such as ours is that the ways in which 3D city models are used cannot be readily listed due to fuzziness, terminological ambiguity, unclear added-value of 3D geoinformation in some instances, and absence of technical information. To address this challenge, we delineate a hierarchical terminology (spatial operations, use cases, applications), and develop a theoretical reasoning to segment and categorise the diverse uses of 3D city models. Following this framework, we provide a list of identified use cases of 3D city models (with a description of each), and their applications. Our study demonstrates that 3D city models are employed in at least 29 use cases that are a part of more than 100 applications. The classified inventory could be useful for scientists as well as stakeholders in the geospatial industry, such as companies and national mapping agencies, as it may serve as a reference document to better position their operations, design product portfolios, and to better understand the market.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"3D city models",
+				"applications",
+				"review",
+				"CityGML"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "BSS2006a",
@@ -17195,6 +17260,36 @@
 			"open_access": true
 		},
 		{
+			"key": "GP2012a",
+			"type": "article",
+			"title": "CityGML – Interoperable semantic 3D city models",
+			"authors": [
+				"Gröger, Gerhard",
+				"Plümer, Lutz"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+			"volume": "71",
+			"pages": "12-33",
+			"issn": "0924-2716",
+			"doi": "10.1016/j.isprsjprs.2012.04.004",
+			"openalex": "W2035184119",
+			"keywords": [
+				"CityGML",
+				"3D city models",
+				"semantic modelling",
+				"interoperability",
+				"levels of detail"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "GP2018a",
 			"type": "incollection",
 			"title": "Markov Switching Models",
@@ -24076,6 +24171,39 @@
 			"open_access": true
 		},
 		{
+			"key": "KCK2020a",
+			"type": "article",
+			"title": "CityGML 3.0: New Functions Open Up New Applications",
+			"authors": [
+				"Kutzner, Tatjana",
+				"Chaturvedi, Kanishk",
+				"Kolbe, Thomas H."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science",
+			"volume": "88",
+			"number": "1",
+			"pages": "43-61",
+			"issn": "2512-2789",
+			"doi": "10.1007/s41064-020-00095-z",
+			"openalex": "W3007908608",
+			"abstract": "Abstract The development of the next major version 3.0 of the international OGC standard CityGML is nearing its end. CityGML 3.0 will come up with a variety of new features and revisions of existing modules that will increase the usability of CityGML for more user groups and areas of application. This includes a new space concept, a revised level-of-detail (LOD) concept, the representation of time-dependent properties, the possibility to manage multiple versions of cities, the representation of city objects by point clouds, an improved modelling of constructions, the representation of building units and storeys, an improved representation of traffic infrastructure as well as a clear separation of the conceptual model and the data encodings that allow for providing further encoding specifications besides GML. This paper gives an overview of these new and revised concepts, and illustrates their application through selected use cases.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"CityGML 3.0",
+				"3D city models",
+				"semantic modelling",
+				"OGC standard"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "KE1995a",
 			"type": "inproceedings",
 			"title": "Particle Swarm Optimization",
@@ -26799,6 +26927,43 @@
 			"open_access": true
 		},
 		{
+			"key": "LAKDL...2019a",
+			"type": "article",
+			"title": "CityJSON: a compact and easy-to-use encoding of the CityGML data model",
+			"authors": [
+				"Ledoux, Hugo",
+				"Arroyo Ohori, Ken",
+				"Kumar, Kavisha",
+				"Dukai, Balázs",
+				"Labetski, Anna",
+				"Vitalis, Stelios"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"journal": "Open Geospatial Data, Software and Standards",
+			"volume": "4",
+			"number": "1",
+			"pages": "4",
+			"issn": "2363-7501",
+			"doi": "10.1186/s40965-019-0064-0",
+			"openalex": "W2917763923",
+			"abstract": "The international standard CityGML is both a data model and an exchange format to store digital 3D models of cities. While the data model is used by several cities, companies, and governments, in this paper we argue that its XML-based exchange format has several drawbacks. These drawbacks mean that it is difficult for developers to implement parsers for CityGML, and that practitioners have, as a consequence, to convert their data to other formats if they want to exchange them with others. We present CityJSON, a new JSON-based exchange format for the CityGML data model (version 2.0.0). CityJSON was designed with programmers in mind, so that software and APIs supporting it can be quickly built. It was also designed to be compact (a compression factor of around six with real-world datasets), and to be friendly for web and mobile development. We argue that it is considerably easier to use than the CityGML format, both for reading and for creating datasets. We discuss in this paper the main features of CityJSON, briefly present the different software packages to parse/view/edit/create files (including one to automatically convert between the JSON and GML encodings), analyse how real-world datasets compare to those of CityGML, and we also introduce Extensions, which allow us to extend the core data model in a documented manner.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"CityJSON",
+				"CityGML",
+				"3D city models",
+				"JSON",
+				"data encoding"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "LB1978a",
 			"type": "article",
 			"title": "On a measure of lack of fit in time series models",
@@ -27118,6 +27283,34 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "LD2024a",
+			"type": "misc",
+			"title": "CityJSON Specifications 2.0.1",
+			"authors": [
+				"Ledoux, Hugo",
+				"Dukai, Balázs"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"note": "Editors; living standard of 11 April 2024",
+			"url": "https://www.cityjson.org/specs/2.0.1/",
+			"abstract": "CityJSON is a data exchange format for digital 3D models of cities and landscapes. It aims at being easy-to-use (for reading, processing, and creating datasets), and it was designed with programmers in mind, so that tools and APIs supporting it can be quickly built. The JSON-based encoding of CityJSON implements a subset of the OGC CityGML data model (version 3.0) and includes a JSON-specific extension mechanism. Using JSON instead of GML allows us to compress files by a factor 6 and at the same time to simplify greatly the structure of the files.",
+			"abstract_source": "manual",
+			"keywords": [
+				"CityJSON",
+				"CityGML",
+				"3D city models",
+				"JSON",
+				"specification"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "LDHKP...2007a",
@@ -34718,6 +34911,34 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "OGC2012a",
+			"type": "misc",
+			"title": "OGC City Geography Markup Language (CityGML) Encoding Standard, Version 2.0.0",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2012,
+			"number": "OGC 12-019",
+			"note": "Editors: Gerhard Gröger, Thomas H. Kolbe, Claus Nagel, Karl-Heinz Häfele",
+			"url": "https://docs.ogc.org/is/12-019/12-019.pdf",
+			"abstract": "CityGML is an open data model and XML-based format for the storage and exchange of virtual 3D city models. It is an application schema for the Geography Markup Language version 3.1.1 (GML3), the extendible international standard for spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO TC211. The aim of the development of CityGML is to reach a common definition of the basic entities, attributes, and relations of a 3D city model. This is especially important with respect to the cost-effective sustainable maintenance of 3D city models, allowing the reuse of the same data in different application fields.",
+			"abstract_source": "manual",
+			"keywords": [
+				"CityGML",
+				"GML",
+				"3D city models",
+				"levels of detail",
+				"OGC standard"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "OGC2019a",
@@ -43232,6 +43453,32 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "Sat2026a",
+			"type": "misc",
+			"title": "EzXML.jl: XML/HTML handling tools for primates",
+			"authors": [
+				"Sato, Kenta"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/JuliaIO/EzXML.jl",
+			"abstract": "EzXML.jl is a package to handle XML/HTML documents for primates. The main features are: reading and writing XML/HTML documents; traversing XML/HTML trees with DOM interfaces; searching elements using XPath; proper namespace handling; capturing error messages; automatic memory management; document validation; streaming parsing for large XML files.",
+			"abstract_source": "github",
+			"keywords": [
+				"julia",
+				"xml",
+				"html",
+				"xpath",
+				"libxml2"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "Sch1971a",
@@ -64190,6 +64437,66 @@
 		{
 			"key": "SV2004a",
 			"count": 1106,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "GP2012a",
+			"count": 532,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "GP2012a",
+			"count": 838,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "KCK2020a",
+			"count": 104,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "KCK2020a",
+			"count": 316,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "LAKDL...2019a",
+			"count": 126,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "LAKDL...2019a",
+			"count": 254,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BSLZC2015a",
+			"count": 665,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BSLZC2015a",
+			"count": 1102,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BLS2016a",
+			"count": 443,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BLS2016a",
+			"count": 693,
 			"source": "openalex",
 			"date": "2026-11-18"
 		}
