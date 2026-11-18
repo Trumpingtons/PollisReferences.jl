@@ -24647,6 +24647,40 @@
 			"open_access": false
 		},
 		{
+			"key": "KM2008a",
+			"type": "article",
+			"title": "Clustering of Auto Supplier Plants in the United States: Generalized Method of Moments Spatial Logit for Large Samples",
+			"authors": [
+				"Klier, Thomas",
+				"McMillen, Daniel P"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2008,
+			"journal": "Journal of Business & Economic Statistics",
+			"volume": "26",
+			"number": "4",
+			"pages": "460-471",
+			"issn": "0735-0015",
+			"doi": "10.1198/073500107000000188",
+			"openalex": "W1575065245",
+			"abstract": "A linearized logit version of Pinkse and Slade's spatial GMM estimator reduces estimation to two steps—standard logit followed by two-stage least squares. Linearization produces a model that can be estimated using large datasets. Monte Carlo experiments suggest that the linearized model accurately identifies the presence of spatial effects and is capable of producing accurate estimates of marginal effects. In an application to the location of supplier plants in the U.S. auto industry, the results imply no additional clustering of new plants beyond the level of clustering of existing plant locations.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial clustering",
+				"automotive industry",
+				"spatial effects",
+				"marginal effects",
+				"plant location decisions",
+				"two-stage least squares"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "KMFWC...2017a",
 			"type": "inproceedings",
 			"title": "LightGBM: A Highly Efficient Gradient Boosting Decision Tree",
@@ -28079,6 +28113,44 @@
 				"spatial autocorrelation",
 				"spatial analysis",
 				"spatial panel data"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "LPLCL2011a",
+			"type": "article",
+			"title": "New Orleans Business Recovery in the Aftermath of Hurricane Katrina",
+			"authors": [
+				"LeSage, James P.",
+				"Pace, R. Kelley",
+				"Lam, Nina",
+				"Campanella, Richard",
+				"Liu, Xingjian"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2011,
+			"journal": "Journal of the Royal Statistical Society Series A: Statistics in Society",
+			"volume": "174",
+			"number": "4",
+			"pages": "1007-1027",
+			"issn": "0964-1998",
+			"doi": "10.1111/j.1467-985X.2011.00712.x",
+			"openalex": "W1935808994",
+			"abstract": "We analyse decisions to reopen in the aftermath of Hurricane Katrina made by business establishments on major business thoroughfares in New Orleans by using a spatial probit methodology. Our approach allows for interdependence between decisions to reopen by one establishment and those of its neighbours. There is a large literature on the role that is played by spatial dependence in firm location decisions, and we find evidence of strong dependence in decisions by firms to reopen in the aftermath of a natural disaster such as Hurricane Katrina. This interdependence has important statistical implications for how we analyse business recovery after disasters, as well as government aid programmes.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Hurricane Katrina",
+				"business recovery",
+				"spatial dependence",
+				"natural disasters",
+				"disaster recovery",
+				"New Orleans",
+				"firm location decisions"
 			],
 			"keywords_source": "openalex",
 			"source": "crossref",
@@ -32807,6 +32879,41 @@
 			"url": "https://xcelab.net/rm/statistical-rethinking/",
 			"legacy_key": "mcelreath2020",
 			"source": "manual",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "Mcm1992a",
+			"type": "article",
+			"title": "Probit with Spatial Autocorrelation",
+			"authors": [
+				"McMillen, Daniel P."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1992,
+			"journal": "Journal of Regional Science",
+			"volume": "32",
+			"number": "3",
+			"pages": "335-348",
+			"issn": "0022-4146",
+			"doi": "10.1111/j.1467-9787.1992.tb00190.x",
+			"openalex": "W2115699033",
+			"abstract": "Commonly‐employed spatial autocorrelation models imply heteroskedastic errors, but heteroskedasticity causes probit to be inconsistent. This paper proposes and illustrates the use of two categories of estimators for probit models with spatial autocorrelation. One category is based on the EM algorithm, and requires repeated application of a maximum‐likelihood estimator. The other category, which can be applied to models derived using the spatial expansion method, only requires weighted least squares.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"probit model",
+				"spatial autocorrelation",
+				"heteroscedasticity",
+				"expectation-maximization algorithm",
+				"weighted least squares",
+				"maximum likelihood estimation",
+				"spatial econometrics",
+				"estimator consistency"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": false
 		},
@@ -46360,6 +46467,42 @@
 			"open_access": false
 		},
 		{
+			"key": "WK2009a",
+			"type": "article",
+			"title": "Bayesian Inference for Ordered Response Data with a Dynamic Spatial-Ordered Probit Model",
+			"authors": [
+				"Wang, Xiaokun",
+				"Kockelman, Kara M."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2009,
+			"journal": "Journal of Regional Science",
+			"volume": "49",
+			"number": "5",
+			"pages": "877-913",
+			"issn": "0022-4146",
+			"doi": "10.1111/j.1467-9787.2009.00622.x",
+			"openalex": "W2007060317",
+			"abstract": "Many databases involve ordered discrete responses in a temporal and spatial context, including, for example, land development intensity levels, vehicle ownership, and pavement conditions. An appreciation of such behaviors requires rigorous statistical methods, recognizing spatial effects and dynamic processes. This study develops a dynamic spatial‐ordered probit (DSOP) model in order to capture patterns of spatial and temporal autocorrelation in ordered categorical response data. This model is estimated in a Bayesian framework using Gibbs sampling and data augmentation, in order to generate all autocorrelated latent variables. It incorporates spatial effects in an ordered probit model by allowing for interregional spatial interactions and heteroskedasticity, along with random effects across regions or any clusters of observational units. The model assumes an autoregressive, AR(1), process across latent response values, thereby recognizing time‐series dynamics in panel data sets. The model code and estimation approach is tested on simulated data sets, in order to reproduce known parameter values and provide insights into estimation performance, yielding much more accurate estimates than standard, nonspatial techniques. The proposed and tested DSOP model is felt to be a significant contribution to the field of spatial econometrics, where binary applications (for discrete response data) have been seen as the cutting edge. The Bayesian framework and Gibbs sampling techniques used here permit such complexity, in world of two‐dimensional autocorrelation.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial autocorrelation",
+				"temporal autocorrelation",
+				"Bayesian inference",
+				"Gibbs sampling",
+				"data augmentation",
+				"latent variables",
+				"AR(1) process",
+				"random effects"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "WKFM2022a",
 			"type": "article",
 			"title": "Successful combination of database search and snowballing for identification of primary studies in systematic literature studies",
@@ -46610,6 +46753,42 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "WM2013a",
+			"type": "article",
+			"title": "Estimating Spatial Probit Models in R",
+			"authors": [
+				"Wilhelm, Stefan",
+				"de Matos, Miguel Godinho"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "The R Journal",
+			"volume": "5",
+			"number": "1",
+			"pages": "130-143",
+			"issn": "2073-4859",
+			"doi": "10.32614/RJ-2013-013",
+			"openalex": "W2785584931",
+			"abstract": "In this article we present the Bayesian estimation of spatial probit models in R and provide an implementation in the package spatialprobit.We show that large probit models can be estimated with sparse matrix representations and Gibbs sampling of a truncated multivariate normal distribution with the precision matrix.We present three examples and point to ways to achieve further performance gains through parallelization of the Markov Chain Monte Carlo approach.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial probit model",
+				"Bayesian estimation",
+				"spatial econometrics",
+				"sparse matrix representation",
+				"Gibbs sampling",
+				"truncated multivariate normal distribution",
+				"precision matrix",
+				"Markov chain Monte Carlo"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -55744,6 +55923,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "KM2008a",
+			"count": 137,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "KM2008a",
+			"count": 197,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "KMFWC...2017a",
 			"count": 22955,
 			"source": "openalex",
@@ -56754,6 +56945,18 @@
 		{
 			"key": "LP2009a",
 			"count": 8133,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "LPLCL2011a",
+			"count": 138,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "LPLCL2011a",
+			"count": 188,
 			"source": "openalex",
 			"date": "2026-11-18"
 		},
@@ -57842,6 +58045,18 @@
 			"count": 163,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "Mcm1992a",
+			"count": 222,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Mcm1992a",
+			"count": 329,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "Mer1968a",
@@ -61774,6 +61989,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "WK2009a",
+			"count": 36,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "WK2009a",
+			"count": 47,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "WKFM2022a",
 			"count": 437,
 			"source": "openalex",
@@ -61850,6 +62077,18 @@
 			"count": 6568,
 			"source": "openalex",
 			"date": "2026-11-02"
+		},
+		{
+			"key": "WM2013a",
+			"count": 51,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "WM2013a",
+			"count": 86,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "WMSM2009a",
