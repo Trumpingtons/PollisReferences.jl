@@ -4367,6 +4367,39 @@
 			"open_access": false
 		},
 		{
+			"key": "BM2017a",
+			"type": "article",
+			"title": "The world’s user-generated road map is more than 80% complete",
+			"authors": [
+				"Barrington-Leigh, Christopher",
+				"Millard-Ball, Adam"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "PLOS ONE",
+			"volume": "12",
+			"number": "8",
+			"pages": "e0180698",
+			"issn": "1932-6203",
+			"doi": "10.1371/journal.pone.0180698",
+			"openalex": "W2744637967",
+			"abstract": "OpenStreetMap, a crowdsourced geographic database, provides the only global-level, openly licensed source of geospatial road data, and the only national-level source in many countries. However, researchers, policy makers, and citizens who want to make use of OpenStreetMap (OSM) have little information about whether it can be relied upon in a particular geographic setting. In this paper, we use two complementary, independent methods to assess the completeness of OSM road data in each country in the world. First, we undertake a visual assessment of OSM data against satellite imagery, which provides the input for estimates based on a multilevel regression and poststratification model. Second, we fit sigmoid curves to the cumulative length of contributions, and use them to estimate the saturation level for each country. Both techniques may have more general use for assessing the development and saturation of crowd-sourced data. Our results show that in many places, researchers and policymakers can rely on the completeness of OSM, or will soon be able to do so. We find (i) that globally, OSM is ∼83% complete, and more than 40% of countries-including several in the developing world-have a fully mapped street network; (ii) that well-governed countries with good Internet access tend to be more complete, and that completeness has a U-shaped relationship with population density-both sparsely populated areas and dense cities are the best mapped; and (iii) that existing global datasets used by the World Bank undercount roads by more than 30%.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"OpenStreetMap",
+				"road network",
+				"completeness",
+				"crowdsourcing",
+				"volunteered geographic information"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BM2020a",
 			"type": "article",
 			"title": "Confidence Intervals by Constrained Optimization—An Algorithm and Software Package for Practical Identifiability Analysis in Systems Biology",
@@ -5624,6 +5657,41 @@
 			"open_access": false
 		},
 		{
+			"key": "BSK2003a",
+			"type": "article",
+			"title": "Testing Panel Data Regression Models with Spatial Error Correlation",
+			"authors": [
+				"Baltagi, Badi H.",
+				"Song, Seuck Heun",
+				"Koh, Won"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2003,
+			"journal": "Journal of Econometrics",
+			"volume": "117",
+			"number": "1",
+			"pages": "123-150",
+			"issn": "0304-4076",
+			"doi": "10.1016/S0304-4076(03)00120-9",
+			"openalex": "W2082108991",
+			"abstract": "This paper derives several Lagrange Multiplier tests for the panel data regression model with spatial error correlation. These tests draw upon two strands of earlier work. The first is the LM tests for the spatial error correlation model discussed in Anselin (1988, 1999) and Anselin, Bera, Florax and Yoon (1996), and the second is the LM tests for the error component panel data model discussed in Breusch and Pagan (1980) and Baltagi, Chang and Li (1992). The idea is to allow for both spatial error correlation as well as random region effects in the panel data regression model and to test for their joint significance. Additionally, this paper derives conditional LM tests, which test for random regional effects given the presence of spatial error correlation. Also, spatial error correlation given the presence of random regional effects. These conditional LM tests are an alternative to the one directional LM tests that test for random regional effects ignoring the presence of spatial error correlation or the one directional LM tests for spatial error correlation ignoring the presence of random regional effects. We argue that these joint and conditional LM tests guard against possible misspecification. Extensive Monte Carlo experiments are conducted to study the performance of these LM tests as well as the corresponding Likelihood Ratio tests.",
+			"abstract_source": "repec",
+			"keywords": [
+				"panel data regression",
+				"score test",
+				"error components model",
+				"model misspecification",
+				"likelihood ratio test",
+				"spatial econometrics"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BSLZC2015a",
 			"type": "article",
 			"title": "Applications of 3D City Models: State of the Art Review",
@@ -6602,6 +6670,37 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Boe2017a",
+			"type": "article",
+			"title": "OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks",
+			"authors": [
+				"Boeing, Geoff"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "Computers, Environment and Urban Systems",
+			"volume": "65",
+			"pages": "126-139",
+			"issn": "0198-9715",
+			"doi": "10.1016/j.compenvurbsys.2017.05.004",
+			"openalex": "W2549766072",
+			"keywords": [
+				"OpenStreetMap",
+				"street networks",
+				"network analysis",
+				"urban form",
+				"OSMnx"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true,
+			"abstract": "Urban scholars have studied street networks in various ways, but there are data availability and consistency limitations to the current urban planning/street network analysis literature. To address these challenges, this article presents OSMnx, a new tool to make the collection of data and creation and analysis of street networks simple, consistent, automatable and sound from the perspectives of graph theory, transportation, and urban design. OSMnx contributes five significant capabilities for researchers and practitioners: first, the automated downloading of political boundaries and building footprints; second, the tailored and automated downloading and constructing of street network data from OpenStreetMap; third, the algorithmic correction of network topology; fourth, the ability to save street networks to disk as shapefiles, GraphML, or SVG files; and fifth, the ability to analyze street networks, including calculating routes, projecting and visualizing networks, and calculating metric and topological measures. These measures include those common in urban design and transportation studies, as well as advanced measures of the structure and topology of the network. Finally, this article presents a simple case study using OSMnx to construct and analyze street networks in Portland, Oregon.",
+			"abstract_source": "arxiv"
 		},
 		{
 			"key": "Bol1986a",
@@ -29144,6 +29243,42 @@
 			"open_access": false
 		},
 		{
+			"key": "LY2010a",
+			"type": "article",
+			"title": "Estimation of Spatial Autoregressive Panel Data Models with Fixed Effects",
+			"authors": [
+				"Lee, Lung-fei",
+				"Yu, Jihai"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2010,
+			"journal": "Journal of Econometrics",
+			"volume": "154",
+			"number": "2",
+			"pages": "165-185",
+			"issn": "0304-4076",
+			"doi": "10.1016/j.jeconom.2009.08.001",
+			"openalex": "W1986866669",
+			"abstract": "This paper establishes asymptotic properties of quasi-maximum likelihood estimators for SAR panel data models with fixed effects and SAR disturbances. A direct approach is to estimate all the parameters including the fixed effects. Because of the incidental parameter problem, some parameter estimators may be inconsistent or their distributions are not properly centered. We propose an alternative estimation method based on transformation which yields consistent estimators with properly centered distributions. For the model with individual effects only, the direct approach does not yield a consistent estimator of the variance parameter unless T is large, but the estimators for other common parameters are the same as those of the transformation approach. We also consider the estimation of the model with both individual and time effects.",
+			"abstract_source": "repec",
+			"keywords": [
+				"fixed effects",
+				"quasi-maximum likelihood estimation",
+				"incidental parameter problem",
+				"asymptotic properties",
+				"consistent estimators",
+				"transformation approach",
+				"spatial lag",
+				"spatial error"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "LY2016a",
 			"type": "book",
 			"title": "Linear and Nonlinear Programming",
@@ -31874,6 +32009,40 @@
 			"open_access": false
 		},
 		{
+			"key": "MP2012a",
+			"type": "article",
+			"title": "splm: Spatial Panel Data Models in R",
+			"authors": [
+				"Millo, Giovanni",
+				"Piras, Gianfranco"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"journal": "Journal of Statistical Software",
+			"volume": "47",
+			"number": "1",
+			"pages": "1-38",
+			"issn": "1548-7660",
+			"doi": "10.18637/jss.v047.i01",
+			"openalex": "W1774676273",
+			"abstract": "splm is an R package for the estimation and testing of various spatial panel data specifications. We consider the implementation of both maximum likelihood and generalized moments estimators in the context of fixed as well as random effects spatial panel data models. This paper is a general description of splm and all functionalities are illustrated using a well-known example taken from Munnell (1990) with productivity data on 48 US states observed over 17 years. We perform comparisons with other available software; and, when this is not possible, Monte Carlo results support our original implementation.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial panel data models",
+				"R package",
+				"maximum likelihood estimation",
+				"fixed effects",
+				"random effects",
+				"spatial econometrics"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "MPCSS2006a",
 			"type": "article",
 			"title": "The sorting direct method for stochastic simulation of biochemical systems with varying reaction execution behavior",
@@ -33442,6 +33611,33 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Mob2026a",
+			"type": "misc",
+			"title": "GTFS Schedule Reference",
+			"authors": [
+				"MobilityData"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "Revised April 27, 2026",
+			"url": "https://gtfs.org/documentation/schedule/reference/",
+			"abstract": "This document defines the format and structure of the files that comprise a GTFS dataset: agency, stops, routes, trips, stop times, service calendars and calendar dates, fares, shapes, frequencies, transfers, pathways and the other files of the General Transit Feed Specification, with their fields, types and presence requirements.",
+			"abstract_source": "manual",
+			"keywords": [
+				"GTFS",
+				"public transport",
+				"timetables",
+				"specification",
+				"open data"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "Mor1950a",
@@ -35223,6 +35419,31 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "OSMWC2026a",
+			"type": "misc",
+			"title": "PBF Format",
+			"authors": [
+				"OpenStreetMap Wiki contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://wiki.openstreetmap.org/wiki/PBF_Format",
+			"abstract": "PBF format (\"Protocolbuffer Binary Format\") is primarily intended as an alternative to the XML format. It is about half of the size of a gzipped planet and about 30% smaller than a bzipped planet. It is also about 5x faster to write than a gzipped planet and 6x faster to read than a gzipped planet. The format was designed to support future extensibility and flexibility.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"PBF",
+				"protocol buffers",
+				"file format"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "OSV2008a",
@@ -48181,6 +48402,37 @@
 			"open_access": false
 		},
 		{
+			"key": "Won2013a",
+			"type": "article",
+			"title": "Leveraging the General Transit Feed Specification for Efficient Transit Analysis",
+			"authors": [
+				"Wong, James"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "Transportation Research Record: Journal of the Transportation Research Board",
+			"volume": "2338",
+			"number": "1",
+			"pages": "11-19",
+			"issn": "0361-1981",
+			"doi": "10.3141/2338-02",
+			"openalex": "W1965566027",
+			"abstract": "Since 2007, the transit industry has benefited from a widely adopted data standard called the General Transit Feed Specification (GTFS), which has enabled the development of numerous traveler information tools (i.e., transit trip planners). The purpose of this project is to demonstrate the potential for GTFS feeds as a data source for transit analyses, such as those found in the Transit Capacity and Quality of Service Manual. There are three primary project tasks: an analysis of GTFS field usage by different agencies; an analysis of a single agency's operations at the stop, route, and system levels; and a batch analysis and comparison of 50 large transit agencies in North America. Compared with manually transcribing schedules from transit websites or parsing printed schedules, the use of scripts and database queries suggests that the GTFS is a highly efficient data source and proves the importance of broadly accepted data standards. The methodology documented in this paper and the open source scripts (made available online) will be useful for any analyst or researcher who has tasks related to the analysis of single or multiple transit systems at the stop, route, or system level.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"GTFS",
+				"public transport",
+				"transit analysis",
+				"schedules"
+			],
+			"keywords_source": "manual",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Woo2009a",
 			"type": "book",
 			"title": "An Introduction to MultiAgent Systems",
@@ -48350,6 +48602,41 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "YJL2008a",
+			"type": "article",
+			"title": "Quasi-Maximum Likelihood Estimators for Spatial Dynamic Panel Data with Fixed Effects When Both n and T Are Large",
+			"authors": [
+				"Yu, Jihai",
+				"de Jong, Robert",
+				"Lee, Lung-fei"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2008,
+			"journal": "Journal of Econometrics",
+			"volume": "146",
+			"number": "1",
+			"pages": "118-134",
+			"issn": "0304-4076",
+			"doi": "10.1016/j.jeconom.2008.08.002",
+			"openalex": "W2154883881",
+			"abstract": "This paper investigates the asymptotic properties of quasi-maximum likelihood estimators for spatial dynamic panel data with fixed effects, when both the number of individuals n and the number of time periods T are large. We consider the case where T is asymptotically large relative to n, the case where T is asymptotically proportional to n, and the case where n is asymptotically large relative to T. In the case where T is asymptotically large relative to n, the estimators are consistent and asymptotically normal, with the limit distribution centered around 0. When n is asymptotically proportional to T, the estimators are consistent and asymptotically normal, but the limit distribution is not centered around 0; and when n is large relative to T, the estimators are T consistent, and have a degenerate limit distribution. The estimators of the fixed effects are consistent and asymptotically normal. We also propose a bias correction for our estimators. We show that when T grows faster than n^(1/3), the correction will asymptotically eliminate the bias and yield a centered confidence interval.",
+			"abstract_source": "repec",
+			"keywords": [
+				"quasi-maximum likelihood estimator",
+				"fixed effects",
+				"asymptotic properties",
+				"asymptotic normality",
+				"asymptotic distribution",
+				"bias correction"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-18",
+			"checked": false,
 			"open_access": false
 		},
 		{
@@ -49519,6 +49806,30 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "Zim2026a",
+			"type": "misc",
+			"title": "ZipArchives.jl: read and write Zip archive files in Julia",
+			"authors": [
+				"Zimmerberg, Nathan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/JuliaIO/ZipArchives.jl",
+			"abstract": "Read and write Zip archive files in Julia.",
+			"abstract_source": "github",
+			"keywords": [
+				"julia",
+				"zip",
+				"archive"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-18"
 		},
 		{
 			"key": "Zwi2026a",
@@ -51059,6 +51370,18 @@
 			"count": 136,
 			"source": "openalex",
 			"date": "2026-10-23"
+		},
+		{
+			"key": "BSK2003a",
+			"count": 446,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BSK2003a",
+			"count": 676,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "BSS2006a",
@@ -57685,6 +58008,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "LY2010a",
+			"count": 838,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "LY2010a",
+			"count": 1124,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "LY2016a",
 			"count": 323,
 			"source": "crossref",
@@ -58259,6 +58594,18 @@
 			"count": 2464,
 			"source": "openalex",
 			"date": "2026-11-02"
+		},
+		{
+			"key": "MP2012a",
+			"count": 312,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "MP2012a",
+			"count": 524,
+			"source": "openalex",
+			"date": "2026-11-18"
 		},
 		{
 			"key": "MPCSS2006a",
@@ -62953,6 +63300,18 @@
 			"date": "2026-11-02"
 		},
 		{
+			"key": "YJL2008a",
+			"count": 522,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "YJL2008a",
+			"count": 694,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
 			"key": "YJWLY...2024a",
 			"count": 264,
 			"source": "openalex",
@@ -64497,6 +64856,42 @@
 		{
 			"key": "BLS2016a",
 			"count": 693,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Won2013a",
+			"count": 46,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Won2013a",
+			"count": 66,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BM2017a",
+			"count": 431,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "BM2017a",
+			"count": 553,
+			"source": "openalex",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Boe2017a",
+			"count": 1591,
+			"source": "crossref",
+			"date": "2026-11-18"
+		},
+		{
+			"key": "Boe2017a",
+			"count": 2189,
 			"source": "openalex",
 			"date": "2026-11-18"
 		}
