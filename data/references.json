@@ -1258,6 +1258,43 @@
 			"open_access": true
 		},
 		{
+			"key": "ANCF2006a",
+			"type": "article",
+			"title": "Efficient Regionalization Techniques for Socio-Economic Geographical Units Using Minimum Spanning Trees",
+			"authors": [
+				"Assunção, Renato M.",
+				"Neves, Marcos C.",
+				"Câmara, Gilberto",
+				"Freitas, Corina da Costa"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2006,
+			"journal": "International Journal of Geographical Information Science",
+			"volume": "20",
+			"number": "7",
+			"pages": "797--811",
+			"doi": "10.1080/13658810600665111",
+			"url": "https://doi.org/10.1080/13658810600665111",
+			"openalex": "W2136347018",
+			"oa_url": "https://zenodo.org/records/3832352",
+			"source": "crossref",
+			"abstract": "Regionalization is a classification procedure applied to spatial objects with an areal representation, which groups them into homogeneous contiguous regions. This paper presents an efficient method for regionalization. The first step creates a connectivity graph that captures the neighbourhood relationship between the spatial objects. The cost of each edge in the graph is inversely proportional to the similarity between the regions it joins. We summarize the neighbourhood structure by a minimum spanning tree (MST), which is a connected tree with no circuits. We partition the MST by successive removal of edges that link dissimilar regions. The result is the division of the spatial objects into connected regions that have maximum internal homogeneity. Since the MST partitioning problem is NP-hard, we propose a heuristic to speed up the tree partitioning significantly. Our results show that our proposed method combines performance and quality, and it is a good alternative to other regionalization methods found in the literature.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"regionalization",
+				"minimum spanning tree",
+				"SKATER",
+				"constrained clustering",
+				"graph partitioning",
+				"zone design"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ANVLM...2019a",
 			"type": "inproceedings",
 			"title": "Software Documentation Issues Unveiled",
@@ -1973,6 +2010,38 @@
 			"keywords_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "Ans1990a",
+			"type": "article",
+			"title": "Spatial Dependence and Spatial Structural Instability in Applied Regression Analysis",
+			"authors": [
+				"Anselin, Luc"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1990,
+			"journal": "Journal of Regional Science",
+			"volume": "30",
+			"number": "2",
+			"pages": "185--207",
+			"doi": "10.1111/j.1467-9787.1990.tb00092.x",
+			"url": "https://doi.org/10.1111/j.1467-9787.1990.tb00092.x",
+			"openalex": "W2131124699",
+			"source": "crossref",
+			"abstract": "The stability of regression coefficients over the observation set (“regional homogeneity”) is typically assessed by means of a Chow test or within a seemingly unrelated regression (SUR) framework. When spatial error autocorrelation is present in cross-sectional equations the traditional tests are no longer applicable. I evaluate this both in formal terms as well as empirically. I introduce a taxonomy of spatial effects in models for structural instability, and discuss its implication for testing. I compare the performance of traditional tests, robust approaches, maximum-likelihood procedures and pretest techniques by means of a series of simple Monte Carlo experiments.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial regimes",
+				"structural instability",
+				"Chow test",
+				"spatial dependence",
+				"regional homogeneity"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": false
 		},
@@ -10752,6 +10821,35 @@
 			"open_access": true
 		},
 		{
+			"key": "Cho1960a",
+			"type": "article",
+			"title": "Tests of Equality Between Sets of Coefficients in Two Linear Regressions",
+			"authors": [
+				"Chow, Gregory C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1960,
+			"journal": "Econometrica",
+			"volume": "28",
+			"number": "3",
+			"pages": "591--605",
+			"doi": "10.2307/1910133",
+			"url": "https://doi.org/10.2307/1910133",
+			"openalex": "W1984536024",
+			"source": "crossref",
+			"keywords": [
+				"Chow test",
+				"structural change",
+				"equality of coefficients",
+				"linear regression"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Chr1998a",
 			"type": "article",
 			"title": "Evaluating Interval Forecasts",
@@ -12956,6 +13054,39 @@
 			"open_access": true
 		},
 		{
+			"key": "DRS2007a",
+			"type": "article",
+			"title": "Supervised Regionalization Methods: A Survey",
+			"authors": [
+				"Duque, Juan Carlos",
+				"Ramos, Raúl",
+				"Suriñach, Jordi"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2007,
+			"journal": "International Regional Science Review",
+			"volume": "30",
+			"number": "3",
+			"pages": "195--220",
+			"doi": "10.1177/0160017607301605",
+			"url": "https://doi.org/10.1177/0160017607301605",
+			"openalex": "W2117746342",
+			"source": "crossref",
+			"abstract": "This article reviews almost four decades of contributions on the subject of supervised regionalization methods. These methods aggregate a set of areas into a predefined number of spatially contiguous regions while optimizing certain aggregation criteria. The authors present a taxonomic scheme that classifies a wide range of regionalization methods into eight groups, based on the strategy applied for satisfying the spatial contiguity constraint. The article concludes by providing a qualitative comparison of these groups in terms of a set of certain characteristics, and by suggesting future lines of research for extending and improving these methods.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"regionalization",
+				"spatial clustering",
+				"contiguity constraint",
+				"zone design"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "DS1969a",
 			"type": "article",
 			"title": "The Traffic Assignment Problem for a General Network",
@@ -13832,6 +13963,36 @@
 			"source": "crossref",
 			"retrieved": "2026-11-03",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "Dub1992a",
+			"type": "article",
+			"title": "Spatial Autocorrelation and Neighborhood Quality",
+			"authors": [
+				"Dubin, Robin A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1992,
+			"journal": "Regional Science and Urban Economics",
+			"volume": "22",
+			"number": "3",
+			"pages": "433--452",
+			"doi": "10.1016/0166-0462(92)90038-3",
+			"url": "https://doi.org/10.1016/0166-0462(92)90038-3",
+			"openalex": "W1994610198",
+			"source": "crossref",
+			"keywords": [
+				"spatial autocorrelation",
+				"neighborhood quality",
+				"hedonic pricing",
+				"house prices",
+				"Baltimore"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
 			"open_access": false
 		},
 		{
