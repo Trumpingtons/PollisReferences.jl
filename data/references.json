@@ -6697,6 +6697,34 @@
 			"open_access": false
 		},
 		{
+			"key": "Ber2018a",
+			"type": "techreport",
+			"title": "Efficient Estimation of Maximum Likelihood Models with Multiple Fixed-Effects: The R Package FENmlm",
+			"authors": [
+				"Bergé, Laurent R."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"institution": "CREA Discussion Papers 13, University of Luxembourg",
+			"url": "https://wwwen-archive.uni.lu/content/download/110162/1299525/file/2018_13%20Efficient%20estimation%20of%20maximum%20likelihood%20models%20with%20multiple%20fixed-effects%20-%20the%20R%20package%20FENmlm.pdf",
+			"openalex": "W2907760633",
+			"source": "openalex",
+			"abstract": "Fixed-effect models are widely used econometric methods. This paper presents the R package FENmlm which is devoted to the estimation of maximum likelihood (ML) models with any number of fixed-effects. The core of the algorithm, detailed in the paper, is based on a general framework to estimate any ML model with multiple fixed-effects. It also integrates a fixed-point acceleration method to hasten the convergence of the fixed-effect coefficients. The R function offers the user a simple way to estimate any of four different maximum likelihood models: Poisson, Negative Binomial, Gaussian and Logit. Illustrations with real data detail the estimation process as well as the clustering of standard-errors and the various tools to export and manage results from multiple estimations. Simulations show that the algorithm outperforms existing methods in terms of computing time (often by orders of magnitude) or, in the Gaussian case, is on a par with the most efficient ones.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"fixed effects",
+				"maximum likelihood",
+				"R",
+				"fixest",
+				"clustered standard errors"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Ber2022a",
 			"type": "article",
 			"title": "Manopt.jl: Optimization on Manifolds in Julia",
@@ -9446,6 +9474,73 @@
 			"open_access": true
 		},
 		{
+			"key": "CM2008a",
+			"type": "article",
+			"title": "Panel Data Econometrics in R: The plm Package",
+			"authors": [
+				"Croissant, Yves",
+				"Millo, Giovanni"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2008,
+			"journal": "Journal of Statistical Software",
+			"volume": "27",
+			"number": "2",
+			"pages": "1--43",
+			"doi": "10.18637/jss.v027.i02",
+			"url": "https://doi.org/10.18637/jss.v027.i02",
+			"openalex": "W1950629566",
+			"oa_url": "https://doi.org/10.18637/jss.v027.i02",
+			"source": "crossref",
+			"abstract": "Panel data econometrics is obviously one of the main fields in the profession, but most of the models used are difficult to estimate with R. plm is a package for R which intends to make the estimation of linear panel models straightforward. plm provides functions to estimate a wide variety of models and to make (robust) inference.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"panel data",
+				"R",
+				"plm",
+				"robust covariance",
+				"fixed effects"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "CM2015a",
+			"type": "article",
+			"title": "A Practitioner's Guide to Cluster-Robust Inference",
+			"authors": [
+				"Cameron, A. Colin",
+				"Miller, Douglas L."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Journal of Human Resources",
+			"volume": "50",
+			"number": "2",
+			"pages": "317--372",
+			"doi": "10.3368/jhr.50.2.317",
+			"url": "https://doi.org/10.3368/jhr.50.2.317",
+			"openalex": "W2118836230",
+			"source": "crossref",
+			"abstract": "We consider statistical inference for regression when data are grouped into clusters, with regression model errors independent across clusters but correlated within clusters. Examples include data on individuals with clustering on village or region or other category such as industry, and state-year differences-in-differences studies with clustering on state. In such settings, default standard errors can greatly overstate estimator precision. Instead, if the number of clusters is large, statistical inference after OLS should be based on cluster-robust standard errors. We outline the basic method as well as many complications that can arise in practice. These include cluster-specific fixed effects, few clusters, multiway clustering, and estimators other than OLS.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"cluster-robust standard errors",
+				"few clusters",
+				"multiway clustering",
+				"fixed effects",
+				"wild cluster bootstrap"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "CM2018a",
 			"type": "article",
 			"title": "Transparency, Reproducibility, and the Credibility of Economics Research",
@@ -11011,6 +11106,36 @@
 			"legacy_key": "coles2001",
 			"source": "crossref",
 			"retrieved": "2026-10-23",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "Con1999a",
+			"type": "article",
+			"title": "GMM Estimation with Cross Sectional Dependence",
+			"authors": [
+				"Conley, Timothy G."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1999,
+			"journal": "Journal of Econometrics",
+			"volume": "92",
+			"number": "1",
+			"pages": "1--45",
+			"doi": "10.1016/S0304-4076(98)00084-0",
+			"url": "https://doi.org/10.1016/S0304-4076(98)00084-0",
+			"openalex": "W1970448118",
+			"source": "crossref",
+			"keywords": [
+				"spatial dependence",
+				"generalized method of moments",
+				"spatial HAC",
+				"economic distance",
+				"cross-sectional dependence"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": false
 		},
@@ -19753,6 +19878,36 @@
 			"authors_complete": true,
 			"retrieved": "2026-11-02",
 			"checked": true
+		},
+		{
+			"key": "Gup2026a",
+			"type": "misc",
+			"title": "Recent Developments in Spatial Econometrics",
+			"authors": [
+				"Gupta, Abhimanyu"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"publisher": "arXiv",
+			"doi": "10.48550/arXiv.2611.14673",
+			"url": "https://arxiv.org/abs/2611.14673",
+			"openalex": "W7233516233",
+			"oa_url": "https://arxiv.org/pdf/2611.14673",
+			"source": "openalex",
+			"abstract": "We conduct a non-exhaustive survey of the recent spatial econometrics literature by placing it in historical context and mapping current trends. The focus will be primarily on methodological aspects. Starting from the canonical spatial autoregressive model, we cover its many extensions and richer parameterizations. We discuss spatial panel data models and advancements in the study of nonlinear and nonparametric models. Specification testing for spatial econometric models, with its roots in the J-test of Davidson and MacKinnon (1981), is also covered, as is spatial correlation robust inference. Finally, we review advancements in general limit theory, limited dependent variable models, spatial weight matrix estimation and endogeneity, recent attempts at uniting the network formation and spatial literature, and sundry important topics. We take stock of the current paradigm and critically evaluate the impact of the spatial literature on applied practice.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"spatial econometrics",
+				"spatial autoregressive model",
+				"spatial correlation robust inference",
+				"networks",
+				"spatial weights matrix"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "HA1985a",
