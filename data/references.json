@@ -1295,6 +1295,50 @@
 			"open_access": true
 		},
 		{
+			"key": "ANMC2017a",
+			"type": "article",
+			"title": "The CAMELS data set: catchment attributes and meteorology for large-sample studies",
+			"authors": [
+				"Addor, Nans",
+				"Newman, Andrew J.",
+				"Mizukami, Naoki",
+				"Clark, Martyn P."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "Hydrology and Earth System Sciences",
+			"volume": "21",
+			"number": "10",
+			"pages": "5293--5313",
+			"issn": "1607-7938",
+			"doi": "10.5194/hess-21-5293-2017",
+			"url": "https://doi.org/10.5194/hess-21-5293-2017",
+			"openalex": "W2603766970",
+			"oa_url": "https://hess.copernicus.org/articles/21/5293/2017/hess-21-5293-2017.pdf",
+			"source": "crossref",
+			"abstract": "We present a new data set of attributes for 671 catchments in the contiguous United States (CONUS) minimally impacted by human activities. This complements the daily time series of meteorological forcing and streamflow provided by Newman et al. (2015b). To produce this extension, we synthesized diverse and complementary data sets to describe six main classes of attributes at the catchment scale: topography, climate, streamflow, land cover, soil, and geology. The spatial variations among basins over the CONUS are discussed and compared using a series of maps. The large number of catchments, combined with the diversity of the attributes we extracted, makes this new data set well suited for large-sample studies and comparative hydrology. In comparison to the similar Model Parameter Estimation Experiment (MOPEX) data set, this data set relies on more recent data, it covers a wider range of attributes, and its catchments are more evenly distributed across the CONUS. This study also involves assessments of the limitations of the source data sets used to compute catchment attributes, as well as detailed descriptions of how the attributes were computed. The hydrometeorological time series provided by Newman et al. (2015b, https://doi.org/10.5065/D6MW2F4D) together with the catchment attributes introduced in this paper (https://doi.org/10.5065/D6G73C3Q) constitute the freely available CAMELS data set, which stands for Catchment Attributes and MEteorology for Large-sample Studies.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"catchment characteristics",
+				"camels",
+				"meteorological forcing",
+				"river discharge",
+				"topography",
+				"land cover",
+				"soil properties",
+				"climate",
+				"contiguous United States",
+				"MOPEX",
+				"data synthesis",
+				"data limitations"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ANVLM...2019a",
 			"type": "inproceedings",
 			"title": "Software Documentation Issues Unveiled",
@@ -1632,6 +1676,39 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "AWLLL...2024a",
+			"type": "misc",
+			"title": "GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation",
+			"authors": [
+				"Aksu, Taha",
+				"Woo, Gerald",
+				"Liu, Juncheng",
+				"Liu, Xu",
+				"Liu, Chenghao",
+				"Savarese, Silvio",
+				"Xiong, Caiming",
+				"Sahoo, Doyen"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"url": "https://arxiv.org/abs/2410.10393",
+			"arxiv": "2410.10393",
+			"openalex": "W4403570643",
+			"oa_url": "https://arxiv.org/pdf/2410.10393",
+			"abstract": "Time series foundation models excel in zero-shot forecasting, handling diverse tasks without explicit training. However, the advancement of these models has been hindered by the lack of comprehensive benchmarks. To address this gap, we introduce the General Time Series Forecasting Model Evaluation, GIFT-Eval, a pioneering benchmark aimed at promoting evaluation across diverse datasets. GIFT-Eval encompasses 23 datasets over 144,000 time series and 177 million data points, spanning seven domains, 10 frequencies, multivariate inputs, and prediction lengths ranging from short to long-term forecasts. To facilitate the effective pretraining and evaluation of foundation models, we also provide a non-leaking pretraining dataset containing approximately 230 billion data points. Additionally, we provide a comprehensive analysis of 17 baselines, which includes statistical models, deep learning models, and foundation models. We discuss each model in the context of various benchmark characteristics and offer a qualitative analysis that spans both deep learning and foundation models. We believe the insights from this analysis, along with access to this new standard zero-shot time series forecasting benchmark, will guide future developments in time series foundation models. Code, data, and the leaderboard can be found at https://github.com/SalesforceAIResearch/gift-eval .",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG",
+				"stat.ML"
+			],
+			"keywords_source": "arxiv",
+			"open_access": true,
+			"source": "arxiv",
+			"retrieved": "2026-11-19",
+			"checked": false
 		},
 		{
 			"key": "Aba2021a",
@@ -7708,6 +7785,43 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "CCL2004a",
+			"type": "article",
+			"title": "Load Forecasting Using Support Vector Machines: A Study on EUNITE Competition 2001",
+			"authors": [
+				"Chen, B.-J.",
+				"Chang, M.-W.",
+				"Lin, C.-J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2004,
+			"journal": "IEEE Transactions on Power Systems",
+			"volume": "19",
+			"number": "4",
+			"pages": "1821--1830",
+			"issn": "0885-8950",
+			"doi": "10.1109/TPWRS.2004.835679",
+			"url": "https://doi.org/10.1109/TPWRS.2004.835679",
+			"openalex": "W2168138569",
+			"source": "crossref",
+			"abstract": "Load forecasting is usually made by constructing models on relative information, such as climate and previous load demand data. In 2001, EUNITE network organized a competition aiming at mid-term load forecasting (predicting daily maximum load of the next 31 days). During the competition we proposed a support vector machine (SVM) model, which was the winning entry, to solve the problem. In this paper, we discuss in detail how SVM, a new learning technique, is successfully applied to load forecasting. In addition, motivated by the competition results and the approaches by other participants, more experiments and deeper analyses are conducted and presented here. Some important conclusions from the results are that temperature (or other types of climate information) might not be useful in such a mid-term load forecasting problem and that the introduction of time-series concept may improve the forecasting.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"load forecasting",
+				"support vector machine",
+				"mid-term load forecasting",
+				"climate information",
+				"temperature effects",
+				"time series forecasting",
+				"electricity demand"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "CCMT1990a",
@@ -14720,6 +14834,45 @@
 			"open_access": true
 		},
 		{
+			"key": "EPTHD...2025a",
+			"type": "inproceedings",
+			"title": "TabArena: A Living Benchmark for Machine Learning on Tabular Data",
+			"authors": [
+				"Erickson, Nick",
+				"Purucker, Lennart",
+				"Tschalzev, Andrej",
+				"Holzmüller, David",
+				"Desai, Prateek",
+				"Salinas, David",
+				"Hutter, Frank"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"booktitle": "Advances in Neural Information Processing Systems 38",
+			"pages": "17285--17350",
+			"doi": "10.52202/085713-0519",
+			"url": "https://doi.org/10.52202/085713-0519",
+			"openalex": "W4414987631",
+			"oa_url": "https://arxiv.org/pdf/2506.16791",
+			"source": "crossref",
+			"abstract": "With the growing popularity of deep learning and foundation models for tabular data, the need for standardized and reliable benchmarks is higher than ever. However, current benchmarks are static. Their design is not updated even if flaws are discovered, model versions are updated, or new models are released. To address this, we introduce TabArena, the first continuously maintained living tabular benchmarking system. To launch TabArena, we manually curate a representative collection of datasets and well-implemented models, conduct a large-scale benchmarking study to initialize a public leaderboard, and assemble a team of experienced maintainers. Our results highlight the influence of validation method and ensembling of hyperparameter configurations to benchmark models at their full potential. While gradient-boosted trees are still strong contenders on practical tabular datasets, we observe that deep learning methods have caught up under larger time budgets with ensembling. At the same time, foundation models excel on smaller datasets. Finally, we show that ensembles across models advance the state-of-the-art in tabular machine learning. We observe that some deep learning models are overrepresented in cross-model ensembles due to validation set overfitting, and we encourage model developers to address this issue. We launch TabArena with a public leaderboard, reproducible code, and maintenance protocols to create a living benchmark available at https://tabarena.ai.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"tabular data",
+				"benchmarking",
+				"leaderboards",
+				"gradient boosting decision tree",
+				"foundation models",
+				"data curation",
+				"reproducibility"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ER1960a",
 			"type": "article",
 			"title": "On the Evolution of Random Graphs",
@@ -16788,6 +16941,44 @@
 			"open_access": true
 		},
 		{
+			"key": "GBCLP...2024a",
+			"type": "article",
+			"title": "AMLB: an AutoML Benchmark",
+			"authors": [
+				"Gijsbers, Pieter",
+				"Bueno, Marcos L. P.",
+				"Coors, Stefan",
+				"LeDell, Erin",
+				"Poirier, Sébastien",
+				"Thomas, Janek",
+				"Bischl, Bernd",
+				"Vanschoren, Joaquin"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"journal": "Journal of Machine Learning Research",
+			"volume": "25",
+			"number": "101",
+			"pages": "1--65",
+			"issn": "1533-7928",
+			"url": "https://www.jmlr.org/papers/v25/22-0493.html",
+			"arxiv": "2207.12560",
+			"openalex": "W4288096884",
+			"oa_url": "https://jmlr.org/papers/volume25/22-0493/22-0493.pdf",
+			"abstract": "Comparing different AutoML frameworks is notoriously challenging and often done incorrectly. We introduce an open and extensible benchmark that follows best practices and avoids common mistakes when comparing AutoML frameworks. We conduct a thorough comparison of 9 well-known AutoML frameworks across 71 classification and 33 regression tasks. The differences between the AutoML frameworks are explored with a multi-faceted analysis, evaluating model accuracy, its trade-offs with inference time, and framework failures. We also use Bradley-Terry trees to discover subsets of tasks where the relative AutoML framework rankings differ. The benchmark comes with an open-source tool that integrates with many AutoML frameworks and automates the empirical evaluation process end-to-end: from framework installation and resource allocation to in-depth evaluation. The benchmark uses public data sets, can be easily extended with other AutoML frameworks and tasks, and has a website with up-to-date results.",
+			"abstract_source": "publisher",
+			"keywords": [
+				"cs.LG",
+				"stat.ML"
+			],
+			"keywords_source": "arxiv",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "GBH2024a",
 			"type": "article",
 			"title": "Auditing Geospatial Datasets for Biases: Using Global Building Datasets for Disaster Risk Management",
@@ -17988,6 +18179,41 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "GOV2022a",
+			"type": "inproceedings",
+			"title": "Why Do Tree-Based Models Still Outperform Deep Learning on Typical Tabular Data?",
+			"authors": [
+				"Grinsztajn, Leo",
+				"Oyallon, Edouard",
+				"Varoquaux, Gael"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2022,
+			"booktitle": "Advances in Neural Information Processing Systems 35",
+			"pages": "507--520",
+			"doi": "10.52202/068431-0037",
+			"url": "https://doi.org/10.52202/068431-0037",
+			"arxiv": "2207.08815",
+			"openalex": "W7133186244",
+			"source": "crossref",
+			"abstract": "While deep learning has enabled tremendous progress on text and image datasets, its superiority on tabular data is not clear. We contribute extensive benchmarks of standard and novel deep learning methods as well as tree-based models such as XGBoost and Random Forests, across a large number of datasets and hyperparameter combinations. We define a standard set of 45 datasets from varied domains with clear characteristics of tabular data and a benchmarking methodology accounting for both fitting models and finding good hyperparameters. Results show that tree-based models remain state-of-the-art on medium-sized data (~10K samples) even without accounting for their superior speed. To understand this gap, we conduct an empirical investigation into the differing inductive biases of tree-based models and Neural Networks (NNs). This leads to a series of challenges which should guide researchers aiming to build tabular-specific NNs: 1. be robust to uninformative features, 2. preserve the orientation of the data, and 3. be able to easily learn irregular functions. To stimulate research on tabular architectures, we contribute a standard benchmark and raw data for baselines: every point of a 20 000 compute hours hyperparameter search for each learner.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"tree-based models",
+				"deep learning",
+				"tabular data",
+				"model comparison",
+				"performance gap",
+				"explainability"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true,
+			"oa_url": "https://arxiv.org/pdf/2207.08815"
 		},
 		{
 			"key": "GOY1982a",
@@ -22155,6 +22381,41 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "HXB2019a",
+			"type": "article",
+			"title": "Global energy forecasting competition 2017: Hierarchical probabilistic load forecasting",
+			"authors": [
+				"Hong, Tao",
+				"Xie, Jingrui",
+				"Black, Jonathan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"journal": "International Journal of Forecasting",
+			"volume": "35",
+			"number": "4",
+			"pages": "1389--1399",
+			"issn": "0169-2070",
+			"doi": "10.1016/j.ijforecast.2019.02.006",
+			"url": "https://doi.org/10.1016/j.ijforecast.2019.02.006",
+			"openalex": "W2924971168",
+			"source": "crossref",
+			"abstract": "The Global Energy Forecasting Competition 2017 (GEFCom2017) attracted more than 300 students and professionals from over 30 countries for solving hierarchical probabilistic load forecasting problems. Of the series of global energy forecasting competitions that have been held, GEFCom2017 is the most challenging one to date: the first one to have a qualifying match, the first one to use hierarchical data with more than two levels, the first one to allow the usage of external data sources, the first one to ask for real-time ex-ante forecasts, and the longest one. This paper introduces the qualifying and final matches of GEFCom2017, summarizes the top-ranked methods, publishes the data used in the competition, and presents several reflections on the competition series and a vision for future energy forecasting competitions.",
+			"abstract_source": "semanticscholar",
+			"keywords": [
+				"probabilistic load forecasting",
+				"hierarchical forecasting",
+				"electricity load forecasting",
+				"external data sources",
+				"forecast evaluation"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
 			"open_access": false
 		},
 		{
@@ -28036,6 +28297,43 @@
 			"open_access": true
 		},
 		{
+			"key": "LA2015a",
+			"type": "inproceedings",
+			"title": "Evaluating Real-Time Anomaly Detection Algorithms -- The Numenta Anomaly Benchmark",
+			"authors": [
+				"Lavin, Alexander",
+				"Ahmad, Subutai"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"booktitle": "2015 IEEE 14th International Conference on Machine Learning and Applications (ICMLA)",
+			"pages": "38--44",
+			"doi": "10.1109/ICMLA.2015.141",
+			"url": "https://doi.org/10.1109/ICMLA.2015.141",
+			"openalex": "W2191950414",
+			"oa_url": "https://arxiv.org/pdf/1510.03336",
+			"source": "crossref",
+			"abstract": "Much of the world's data is streaming, time-series data, where anomalies give significant information in critical situations, examples abound in domains such as finance, IT, security, medical, and energy. Yet detecting anomalies in streaming data is a difficult task, requiring detectors to process data in real-time, not batches, and learn while simultaneously making predictions. There are no benchmarks to adequately test and score the efficacy of real-time anomaly detectors. Here we propose the Numenta Anomaly Benchmark (NAB), which attempts to provide a controlled and repeatable environment of open-source tools to test and measure anomaly detection algorithms on streaming data. The perfect detector would detect all anomalies as soon as possible, trigger no false alarms, work with real-world time-series data across a variety of domains, and automatically adapt to changing statistics. Rewarding these characteristics is formalized in NAB, using a scoring algorithm designed for streaming data. NAB evaluates detectors on a benchmark dataset with labeled, real-world time-series data. We present these components, and give results and analyses for several open source, commercially-used algorithms. The goal for NAB is to provide a standard, open source framework with which the research community can compare and evaluate different algorithms for detecting anomalies in streaming data.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"anomaly detection",
+				"data streams",
+				"real-time detection",
+				"Numenta Anomaly Benchmark",
+				"benchmarking",
+				"time series",
+				"evaluation metrics",
+				"false alarm rate",
+				"online learning",
+				"open source tools"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "LAKDL...2019a",
 			"type": "article",
 			"title": "CityJSON: a compact and easy-to-use encoding of the CityGML data model",
@@ -28333,6 +28631,34 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "LCZY2024a",
+			"type": "misc",
+			"title": "TALENT: A Tabular Analytics and Learning Toolbox",
+			"authors": [
+				"Liu, Si-Yang",
+				"Cai, Hao-Run",
+				"Zhou, Qi-Le",
+				"Ye, Han-Jia"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"url": "https://arxiv.org/abs/2407.04057",
+			"arxiv": "2407.04057",
+			"openalex": "W4400434312",
+			"oa_url": "https://arxiv.org/pdf/2407.04057",
+			"abstract": "Tabular data is one of the most common data sources in machine learning. Although a wide range of classical methods demonstrate practical utilities in this field, deep learning methods on tabular data are becoming promising alternatives due to their flexibility and ability to capture complex interactions within the data. Considering that deep tabular methods have diverse design philosophies, including the ways they handle features, design learning objectives, and construct model architectures, we introduce a versatile deep-learning toolbox called TALENT (Tabular Analytics and LEarNing Toolbox) to utilize, analyze, and compare tabular methods. TALENT encompasses an extensive collection of more than 20 deep tabular prediction methods, associated with various encoding and normalization modules, and provides a unified interface that is easily integrable with new methods as they emerge. In this paper, we present the design and functionality of the toolbox, illustrate its practical application through several case studies, and investigate the performance of various methods fairly based on our toolbox. Code is available at https://github.com/qile2000/LAMDA-TALENT.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG"
+			],
+			"keywords_source": "arxiv",
+			"open_access": true,
+			"source": "arxiv",
+			"retrieved": "2026-11-19",
+			"checked": false
 		},
 		{
 			"key": "LD1960a",
@@ -30354,6 +30680,36 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "LYSL2018a",
+			"type": "inproceedings",
+			"title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+			"authors": [
+				"Li, Yaguang",
+				"Yu, Rose",
+				"Shahabi, Cyrus",
+				"Liu, Yan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"booktitle": "ICLR",
+			"url": "https://arxiv.org/abs/1707.01926",
+			"arxiv": "1707.01926",
+			"openalex": "W2768008502",
+			"oa_url": "https://arxiv.org/pdf/1707.01926",
+			"abstract": "Spatiotemporal forecasting has various applications in neuroscience, climate and transportation domain. Traffic forecasting is one canonical example of such learning task. The task is challenging due to (1) complex spatial dependency on road networks, (2) non-linear temporal dynamics with changing road conditions and (3) inherent difficulty of long-term forecasting. To address these challenges, we propose to model the traffic flow as a diffusion process on a directed graph and introduce Diffusion Convolutional Recurrent Neural Network (DCRNN), a deep learning framework for traffic forecasting that incorporates both spatial and temporal dependency in the traffic flow. Specifically, DCRNN captures the spatial dependency using bidirectional random walks on the graph, and the temporal dependency using the encoder-decoder architecture with scheduled sampling. We evaluate the framework on two real-world large scale road network traffic datasets and observe consistent improvement of 12% - 15% over state-of-the-art baselines.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG",
+				"stat.ML"
+			],
+			"keywords_source": "arxiv",
+			"open_access": true,
+			"source": "arxiv",
+			"retrieved": "2026-11-19",
+			"checked": false
 		},
 		{
 			"key": "LZ2009a",
@@ -32630,6 +32986,46 @@
 			"open_access": false
 		},
 		{
+			"key": "MKVCR...2023a",
+			"type": "inproceedings",
+			"title": "When Do Neural Nets Outperform Boosted Trees on Tabular Data?",
+			"authors": [
+				"McElfresh, Duncan",
+				"Khandagale, Sujay",
+				"Valverde, Jonathan",
+				"C, Vishak Prasad",
+				"Ramakrishnan, Ganesh",
+				"Goldblum, Micah",
+				"White, Colin"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"booktitle": "Advances in Neural Information Processing Systems 36",
+			"pages": "76336--76369",
+			"doi": "10.52202/075280-3337",
+			"url": "https://doi.org/10.52202/075280-3337",
+			"openalex": "W7133233387",
+			"oa_url": "https://arxiv.org/pdf/2305.02997",
+			"source": "crossref",
+			"abstract": "Tabular data is one of the most commonly used types of data in machine learning. Despite recent advances in neural nets (NNs) for tabular data, there is still an active discussion on whether or not NNs generally outperform gradient-boosted decision trees (GBDTs) on tabular data, with several recent works arguing either that GBDTs consistently outperform NNs on tabular data, or vice versa. In this work, we take a step back and question the importance of this debate. To this end, we conduct the largest tabular data analysis to date, comparing 19 algorithms across 176 datasets, and we find that the 'NN vs. GBDT' debate is overemphasized: for a surprisingly high number of datasets, either the performance difference between GBDTs and NNs is negligible, or light hyperparameter tuning on a GBDT is more important than choosing between NNs and GBDTs. A remarkable exception is the recently-proposed prior-data fitted network, TabPFN: although it is effectively limited to training sets of size 3000, we find that it outperforms all other algorithms on average, even when randomly sampling 3000 training datapoints. Next, we analyze dozens of metafeatures to determine what properties of a dataset make NNs or GBDTs better-suited to perform well. For example, we find that GBDTs are much better than NNs at handling skewed or heavy-tailed feature distributions and other forms of dataset irregularities. Our insights act as a guide for practitioners to determine which techniques may work best on their dataset. Finally, with the goal of accelerating tabular data research, we release the TabZilla Benchmark Suite: a collection of the 36 'hardest' of the datasets we study. Our benchmark suite, codebase, and all raw results are available at https://github.com/naszilla/tabzilla.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"tabular data",
+				"artificial neural networks",
+				"gradient boosting decision tree",
+				"TabPFN",
+				"algorithm comparison",
+				"hyperparameter optimization",
+				"benchmark suite",
+				"heavy-tailed distributions"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ML2002a",
 			"type": "article",
 			"title": "Cascade-based Attacks on Complex Networks",
@@ -32961,6 +33357,75 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "MN2016a",
+			"type": "article",
+			"title": "FRED-MD: A Monthly Database for Macroeconomic Research",
+			"authors": [
+				"McCracken, Michael W.",
+				"Ng, Serena"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Journal of Business & Economic Statistics",
+			"volume": "34",
+			"number": "4",
+			"pages": "574--589",
+			"issn": "0735-0015",
+			"doi": "10.1080/07350015.2015.1086655",
+			"url": "https://doi.org/10.1080/07350015.2015.1086655",
+			"openalex": "W2257263437",
+			"source": "crossref",
+			"abstract": "This article describes a large, monthly frequency, macroeconomic database with the goal of establishing a convenient starting point for empirical analysis that requires “big data.” The dataset mimics the coverage of those already used in the literature but has three appealing features. First, it is designed to be updated monthly using the Federal Reserve Economic Data (FRED) database. Second, it will be publicly accessible, facilitating comparison of related research and replication of empirical work. Third, it will relieve researchers from having to manage data changes and revisions. We show that factors extracted from our dataset share the same predictive content as those based on various vintages of the so-called Stock–Watson dataset. In addition, we suggest that diffusion indexes constructed as the partial sum of the factor estimates can potentially be useful for the study of business cycle chronology. Supplementary materials for this article are available online.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"FRED",
+				"factor extraction",
+				"diffusion index",
+				"business cycle chronology",
+				"data revisions",
+				"replication"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "MN2021a",
+			"type": "article",
+			"title": "FRED-QD: A Quarterly Database for Macroeconomic Research",
+			"authors": [
+				"McCracken, Michael W.",
+				"Ng, Serena"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "Federal Reserve Bank of St. Louis Review",
+			"volume": "103",
+			"number": "1",
+			"pages": "1--44",
+			"doi": "10.20955/r.103.1-44",
+			"url": "https://doi.org/10.20955/r.103.1-44",
+			"openalex": "W3120129372",
+			"oa_url": "https://files.stlouisfed.org/research/publications/review/2021/01/14/fred-qd-a-quarterly-database-for-macroeconomic-research.pdf",
+			"source": "crossref",
+			"abstract": "In this paper we present and describe a large quarterly frequency, macroeconomic database. The data provided are closely modeled to that used in Stock and Watson (2012a). As in our previous work on FRED-MD, our goal is simply to provide a publicly available source of macroeconomic “big data” that is updated in real time using the FRED database. We show that factors extracted from this data set exhibit similar behavior to those extracted from the original Stock and Watson data set. The dominant factors are shown to be insensitive to outliers, but outliers do affect the relative influence of the series as indicated by leverage scores. We then investigate the role unit root tests play in the choice of transformation codes with an emphasis on identifying instances in which the unit root-based codes differ from those already used in the literature. Finally, we show that factors extracted from our data set are useful for forecasting a range of macroeconomic series and that the choice of transformation codes can contribute substantially to the accuracy of these forecasts.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"big data",
+				"outliers",
+				"leverage scores",
+				"unit root tests",
+				"macroeconomic forecasting"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "MNLDR...2002a",
@@ -39592,6 +40057,54 @@
 			"open_access": false
 		},
 		{
+			"key": "RHMLB...2024a",
+			"type": "article",
+			"title": "WeatherBench 2: A Benchmark for the Next Generation of Data-Driven Global Weather Models",
+			"authors": [
+				"Rasp, Stephan",
+				"Hoyer, Stephan",
+				"Merose, Alexander",
+				"Langmore, Ian",
+				"Battaglia, Peter",
+				"Russell, Tyler",
+				"Sanchez-Gonzalez, Alvaro",
+				"Yang, Vivian",
+				"Carver, Rob",
+				"Agrawal, Shreya",
+				"Chantry, Matthew",
+				"Ben Bouallegue, Zied",
+				"Dueben, Peter",
+				"Bromberg, Carla",
+				"Sisk, Jared",
+				"Barrington, Luke",
+				"Bell, Aaron",
+				"Sha, Fei"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"journal": "Journal of Advances in Modeling Earth Systems",
+			"volume": "16",
+			"number": "6",
+			"pages": "e2023MS004019",
+			"issn": "1942-2466",
+			"doi": "10.1029/2023MS004019",
+			"url": "https://doi.org/10.1029/2023MS004019",
+			"openalex": "W4399779937",
+			"oa_url": "https://doi.org/10.1029/2023ms004019",
+			"source": "crossref",
+			"abstract": "WeatherBench 2 is an update to the global, medium-range (1–14 days) weather forecasting benchmark proposed by (Rasp et al., 2020, https://doi.org/10.1029/2020ms002203 ), designed with the aim to accelerate progress in data-driven weather modeling. WeatherBench 2 consists of an open-source evaluation framework, publicly available training, ground truth and baseline data as well as a continuously updated website with the latest metrics and state-of-the-art models: https://sites.research.google/weatherbench . This paper describes the design principles of the evaluation framework and presents results for current state-of-the-art physical and data-driven weather models. The metrics are based on established practices for evaluating weather forecasts at leading operational weather centers. We define a set of headline scores to provide an overview of model performance. In addition, we also discuss caveats in the current evaluation setup and challenges for the future of data-driven weather forecasting.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"medium-range weather forecasting",
+				"forecast evaluation metrics"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "RHSPP...2024a",
 			"type": "inproceedings",
 			"title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
@@ -42170,6 +42683,38 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "SATSE...2025a",
+			"type": "misc",
+			"title": "fev-bench: A Realistic Benchmark for Time Series Forecasting",
+			"authors": [
+				"Shchur, Oleksandr",
+				"Ansari, Abdul Fatir",
+				"Turkmen, Caner",
+				"Stella, Lorenzo",
+				"Erickson, Nick",
+				"Guerron, Pablo",
+				"Bohlke-Schneider, Michael",
+				"Wang, Yuyang"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"url": "https://arxiv.org/abs/2509.26468",
+			"arxiv": "2509.26468",
+			"openalex": "W7084052771",
+			"oa_url": "https://arxiv.org/pdf/2509.26468",
+			"abstract": "Benchmark quality is critical for meaningful evaluation and sustained progress in time series forecasting, particularly with the rise of pretrained models. Existing benchmarks often have limited domain coverage or overlook real-world settings such as tasks with covariates. Their aggregation procedures frequently lack statistical rigor, making it unclear whether observed performance differences reflect true improvements or random variation. Many benchmarks lack consistent evaluation infrastructure or are too rigid for integration into existing pipelines. To address these gaps, we propose fev-bench, a benchmark of 100 forecasting tasks across seven domains, including 46 with covariates. Supporting the benchmark, we introduce fev, a lightweight Python library for forecasting evaluation emphasizing reproducibility and integration with existing workflows. Using fev, fev-bench employs principled aggregation with bootstrapped confidence intervals to report performance along two dimensions: win rates and skill scores. We report results on fev-bench for pretrained, statistical, and baseline models and identify promising future research directions.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG"
+			],
+			"keywords_source": "arxiv",
+			"open_access": true,
+			"source": "arxiv",
+			"retrieved": "2026-11-19",
+			"checked": false
 		},
 		{
 			"key": "SB1988a",
@@ -46133,6 +46678,31 @@
 			"checked": true
 		},
 		{
+			"key": "Sza2026a",
+			"type": "misc",
+			"title": "One Global Model, Many Behaviors: Stockout-Aware Feature Engineering and Dynamic Scaling for Multi-Horizon Retail Demand Forecasting with a Cost-Aware Ordering Policy (VN2 Winner Report)",
+			"authors": [
+				"Szabłowski, Bartosz"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://arxiv.org/abs/2601.18919",
+			"arxiv": "2601.18919",
+			"openalex": "W7125941184",
+			"oa_url": "https://arxiv.org/pdf/2601.18919",
+			"abstract": "Inventory planning for retail chains requires translating demand forecasts into ordering decisions, including asymmetric shortages and holding costs. The VN2 Inventory Planning Challenge formalizes this setting as a weekly decision-making cycle with a two-week product delivery lead time, where the total cost is defined as the shortage cost plus the holding cost. This report presents the winning VN2 solution: a two-stage predict-then-optimize pipeline that combines a single global multi-horizon forecasting model with a cost-aware ordering policy. The forecasting model is trained in a global paradigm, jointly using all available time series. A gradient-boosted decision tree (GBDT) model implemented in CatBoost is used as the base learner. The model incorporates stockout-aware feature engineering to address censored demand during out-of-stock periods, per-series scaling to focus learning on time-series patterns rather than absolute levels, and time-based observation weights to reflect shifts in demand patterns. In the decision stage, inventory is projected to the start of the delivery week, and a target stock level is calculated that explicitly trades off shortage and holding costs. Evaluated by the official competition simulation in six rounds, the solution achieved first place by combining a strong global forecasting model with a lightweight cost-aware policy. Although developed for the VN2 setting, the proposed approach can be extended to real-world applications and additional operational constraints.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG"
+			],
+			"keywords_source": "arxiv",
+			"open_access": true,
+			"source": "arxiv",
+			"retrieved": "2026-11-19",
+			"checked": false
+		},
+		{
 			"key": "Sze2010a",
 			"type": "article",
 			"title": "Algorithms for Reinforcement Learning",
@@ -48006,6 +48576,28 @@
 			"open_access": true
 		},
 		{
+			"key": "Van2025a",
+			"type": "article",
+			"title": "Learnings from the VN1 Forecasting Competition",
+			"authors": [
+				"Vandeput, Nicolas"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"journal": "Foresight: The International Journal of Applied Forecasting",
+			"number": "77",
+			"pages": "8--13",
+			"publisher": "International Institute of Forecasters",
+			"url": "https://ideas.repec.org/a/for/ijafaa/y2025i77p8-13.html",
+			"abstract": "Vandeput shares his key takeaways from the top performers of the VN1 forecasting competition.",
+			"abstract_source": "repec",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Vei1965a",
 			"type": "article",
 			"title": "Optimal Policy for a Multi-Product, Dynamic, Nonstationary Inventory Problem",
@@ -48529,6 +49121,59 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "WG1994a",
+			"type": "book",
+			"title": "Time Series Prediction: Forecasting the Future and Understanding the Past",
+			"authors": [
+				"Weigend, Andreas S.",
+				"Gershenfeld, Neil A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1994,
+			"publisher": "Addison-Wesley",
+			"isbn": "9780201626025",
+			"note": "Edited volume",
+			"abstract": "The book is a summary of a time series forecasting competition that was held a number of years ago. It aims to provide a snapshot of the range of new techniques that are used to study time series, both as a reference for experts and as a guide for novices.",
+			"abstract_source": "publisher",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "WGLLS...2025a",
+			"type": "misc",
+			"title": "FreshRetailNet-50K: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail",
+			"authors": [
+				"Wang, Yangyang",
+				"Gu, Jiawei",
+				"Long, Li",
+				"Li, Xin",
+				"Shen, Li",
+				"Fu, Zhouyu",
+				"Zhou, Xiangjun",
+				"Jiang, Xu"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"url": "https://arxiv.org/abs/2505.16319",
+			"arxiv": "2505.16319",
+			"openalex": "W6910585519",
+			"oa_url": "https://arxiv.org/pdf/2505.16319",
+			"abstract": "Accurate demand estimation is critical for the retail business in guiding the inventory and pricing policies of perishable products. However, it faces fundamental challenges from censored sales data during stockouts, where unobserved demand creates systemic policy biases. Existing datasets lack the temporal resolution and annotations needed to address this censoring effect. To fill this gap, we present FreshRetailNet-50K, the first large-scale benchmark for censored demand estimation. It comprises 50,000 store-product time series of detailed hourly sales data from 898 stores in 18 major cities, encompassing 863 perishable SKUs meticulously annotated for stockout events. The hourly stock status records unique to this dataset, combined with rich contextual covariates, including promotional discounts, precipitation, and temporal features, enable innovative research beyond existing solutions. We demonstrate one such use case of two-stage demand modeling: first, we reconstruct the latent demand during stockouts using precise hourly annotations. We then leverage the recovered demand to train robust demand forecasting models in the second stage. Experimental results show that this approach achieves a 2.73% improvement in prediction accuracy while reducing the systematic demand underestimation from 7.37% to near-zero bias. With unprecedented temporal granularity and comprehensive real-world information, FreshRetailNet-50K opens new research directions in demand imputation, perishable inventory optimization, and causal retail analytics. The unique annotation quality and scale of the dataset address long-standing limitations in retail AI, providing immediate solutions and a platform for future methodological innovation. The data (https://huggingface.co/datasets/Dingdong-Inc/FreshRetailNet-50K) and code (https://github.com/Dingdong-Inc/frn-50k-baseline) are openly released.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"cs.LG"
+			],
+			"keywords_source": "arxiv",
+			"open_access": true,
+			"source": "arxiv",
+			"retrieved": "2026-11-19",
+			"checked": false
 		},
 		{
 			"key": "WGWLS...2025a",
