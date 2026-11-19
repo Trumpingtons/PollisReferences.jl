@@ -16692,6 +16692,32 @@
 			"open_access": true
 		},
 		{
+			"key": "GDALOGRC2026b",
+			"type": "misc",
+			"title": "OSM: OpenStreetMap XML and PBF",
+			"authors": [
+				"GDAL/OGR Contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://gdal.org/en/stable/drivers/vector/osm.html",
+			"abstract": "The documentation of GDAL's OSM driver, which reads OpenStreetMap files in .osm (XML) and .pbf formats and reconstructs point, line and polygon geometries from nodes, ways and relations, in five layers: points, lines, multilinestrings, multipolygons and other_relations. It describes the osmconf.ini configuration file, the other_tags and all_tags fields, the TAGS_FORMAT=JSON option, interleaved reading, spatial filtering and the driver's open and configuration options.",
+			"abstract_source": "manual",
+			"keywords": [
+				"GDAL",
+				"OpenStreetMap",
+				"OSM driver",
+				"PBF",
+				"osmconf.ini"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "GDW2004a",
 			"type": "article",
 			"title": "Monte Carlo Smoothing for Nonlinear Time Series",
@@ -18584,6 +18610,33 @@
 			"keywords_source": "github",
 			"legacy_key": "gehring2023b",
 			"source": "manual",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Geo2026a",
+			"type": "misc",
+			"title": "Geofabrik Download Server: OpenStreetMap Data Extracts",
+			"authors": [
+				"Geofabrik"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://download.geofabrik.de/",
+			"abstract": "Geofabrik's free download server has data extracts from the OpenStreetMap project, normally updated every day, by continent, country and region, as .osm.pbf files and as shape files and GeoPackages of selected layers, with the polygon files of the extracts, daily diff updates and older files of each region. Its files do not contain the user names, user IDs and changeset IDs of the OSM objects, which are assumed to be personal information. Its technical page describes the daily extract process with Osmosis and Osmium and the formats offered.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Geofabrik",
+				"OpenStreetMap",
+				"data extracts",
+				"PBF",
+				"shape files",
+				"GeoPackage"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": true
 		},
@@ -21917,6 +21970,41 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "Hak2010a",
+			"type": "article",
+			"title": "How Good is Volunteered Geographical Information? A Comparative Study of OpenStreetMap and Ordnance Survey Datasets",
+			"authors": [
+				"Haklay, Mordechai"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2010,
+			"journal": "Environment and Planning B: Planning and Design",
+			"volume": "37",
+			"number": "4",
+			"pages": "682-703",
+			"issn": "0265-8135",
+			"doi": "10.1068/b35097",
+			"openalex": "W2063935068",
+			"abstract": "Within the framework of Web 2.0 mapping applications, the most striking example of a geographical application is the OpenStreetMap (OSM) project. OSM aims to create a free digital map of the world and is implemented through the engagement of participants in a mode similar to software development in Open Source projects. The information is collected by many participants, collated on a central database, and distributed in multiple digital formats through the World Wide Web. This type of information was termed ‘Volunteered Geographical Information’ (VGI) by Goodchild, 2007. However, to date there has been no systematic analysis of the quality of VGI. This study aims to fill this gap by analysing OSM information. The examination focuses on analysis of its quality through a comparison with Ordnance Survey (OS) datasets. The analysis focuses on London and England, since OSM started in London in August 2004 and therefore the study of these geographies provides the best understanding of the achievements and difficulties of VGI. The analysis shows that OSM information can be fairly accurate: on average within about 6 m of the position recorded by the OS, and with approximately 80% overlap of motorway objects between the two datasets. In the space of four years, OSM has captured about 29% of the area of England, of which approximately 24% are digitised lines without a complete set of attributes. The paper concludes with a discussion of the implications of the findings to the study of VGI as well as suggesting future research directions.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"volunteered geographic information",
+				"OpenStreetMap",
+				"Ordnance Survey",
+				"map accuracy",
+				"collaborative mapping",
+				"geospatial data quality",
+				"London",
+				"England"
+			],
+			"keywords_source": "openalex",
+			"source": "openalex",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "Hal1989a",
@@ -35488,6 +35576,31 @@
 			"open_access": true
 		},
 		{
+			"key": "ODC2026a",
+			"type": "misc",
+			"title": "Open Data Commons Open Database License (ODbL) v1.0",
+			"authors": [
+				"Open Data Commons"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://opendatacommons.org/licenses/odbl/1-0/",
+			"abstract": "The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use this Database while maintaining this same freedom for others. Some jurisdictions, mainly in the European Union, have specific rights that cover databases, and so the ODbL addresses these rights, too. The ODbL only governs the rights over the Database, and not the contents of the Database individually.",
+			"abstract_source": "manual",
+			"keywords": [
+				"ODbL",
+				"open data",
+				"database licence",
+				"share-alike"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ODZSV...2016a",
 			"type": "misc",
 			"title": "WaveNet: A Generative Model for Raw Audio",
@@ -35887,6 +36000,32 @@
 			"open_access": true
 		},
 		{
+			"key": "OSMF2026b",
+			"type": "misc",
+			"title": "Copyright and License",
+			"authors": [
+				"OpenStreetMap Foundation"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://www.openstreetmap.org/copyright",
+			"abstract": "OpenStreetMap is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation. You are free to copy, distribute, transmit and adapt the data, as long as you credit OpenStreetMap and its contributors; if you alter or build upon the data, you may distribute the result only under the same licence. Where OpenStreetMap data is used, you are required to provide credit by displaying the attribution notice and to make clear that the data is available under the Open Database License.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"ODbL",
+				"licence",
+				"attribution",
+				"copyright"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "OSMWC2026a",
 			"type": "misc",
 			"title": "PBF Format",
@@ -35910,6 +36049,84 @@
 			"checked": false,
 			"open_access": true,
 			"retrieved": "2026-11-18"
+		},
+		{
+			"key": "OSMWC2026b",
+			"type": "misc",
+			"title": "Overpass API/Overpass QL",
+			"authors": [
+				"OpenStreetMap Wiki contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL",
+			"abstract": "The reference of Overpass QL, the query language of the Overpass API: its settings (output format, timeout, maximum memory, bounding box, date and diff), statements, filters by tag, bounding box, area and other criteria, recursion between nodes, ways and relations, and output modes. The date setting runs a query against the database as of a date; there is no attic data earlier than 2012-09-12T06:55:00Z, the first change of the ODbL-compliant planet file.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Overpass QL",
+				"Overpass API",
+				"OpenStreetMap",
+				"query language",
+				"attic data"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "OSMWC2026c",
+			"type": "misc",
+			"title": "Tags",
+			"authors": [
+				"OpenStreetMap Wiki contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://wiki.openstreetmap.org/wiki/Tags",
+			"abstract": "Tags are attributes associated with map elements (nodes, ways, or relations). They describe specific properties of map features represented by those elements. A tag consists of two parts, a key and a value, separated by an equals sign (=). Both parts are free-format text fields, but often represent numeric or other structured values. A map element may have any number of tags.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"tags",
+				"keys",
+				"values",
+				"map features"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "OSMWC2026d",
+			"type": "misc",
+			"title": "Elements",
+			"authors": [
+				"OpenStreetMap Wiki contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://wiki.openstreetmap.org/wiki/Elements",
+			"abstract": "Elements are the basic components of OpenStreetMap's conceptual data model of the physical world. There are three types of elements: nodes (defining points in space), ways (defining linear features and area boundaries), and relations (defining how other elements work together). A way is an ordered list of between 1 and 2,000 nodes that define a polyline; a way whose first and last node are the same is called a closed way, and can represent the boundary of an area such as a building or a forest.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"data model",
+				"nodes",
+				"ways",
+				"relations"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "OSV2008a",
@@ -36155,6 +36372,58 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Olb2026a",
+			"type": "misc",
+			"title": "Overpass API",
+			"authors": [
+				"Olbricht, Roland"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "Software, version 0.7.62, AGPL-3.0",
+			"url": "https://github.com/drolbr/Overpass-API",
+			"abstract": "A database engine to query the OpenStreetMap data.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"Overpass API",
+				"database engine",
+				"query language"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Olb2026b",
+			"type": "misc",
+			"title": "Overpass API User's Manual",
+			"authors": [
+				"Olbricht, Roland"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://dev.overpass-api.de/overpass-doc/en/",
+			"abstract": "The manual of the Overpass API: which purposes it serves in the ecosystem of OpenStreetMap, what kind of OpenStreetMap data exists and what requests are; how to configure a request so that the result suits a downstream purpose, with the data formats and their variants; how to obtain all data within a spatially limited region; finding objects by search criteria like tags or rough location, the most frequent use case; counting objects; and methods to analyse OpenStreetMap data further, such as tracking data bugs back to their origin. Its section on the public instances gives their usage guidelines, rate limits and quotas.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Overpass API",
+				"Overpass QL",
+				"OpenStreetMap",
+				"usage policy",
+				"attic data"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Ord1975a",
@@ -39708,6 +39977,35 @@
 			"checked": true
 		},
 		{
+			"key": "RR2026a",
+			"type": "misc",
+			"title": "OpenStreetMap Data in Layered GIS Format: Free Shapefiles and GeoPackages",
+			"authors": [
+				"Reichert, Michael",
+				"Ramm, Frederik"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://download.geofabrik.de/osm-data-in-gis-formats-free.pdf",
+			"abstract": "This document describes a mapping from OSM data formats to the usual GIS formats to make the OSM data accessible to more people. The mapping from OSM data to other formats is not an exact science; the mapping described is in no way the only mapping possible. It specifies a general-use mapping of the basic features like roads, waterways, different land use types, and points of interest, used by Geofabrik to create the Shapefiles and GeoPackages offered for free download from download.geofabrik.de.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"Geofabrik",
+				"shape files",
+				"GeoPackage",
+				"layers",
+				"feature classes"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true,
+			"note": "Geofabrik, version of 2026-04-02"
+		},
+		{
 			"key": "RRKOW2018a",
 			"type": "article",
 			"title": "A Tutorial on Thompson Sampling",
@@ -40568,6 +40866,32 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "Ram2024a",
+			"type": "misc",
+			"title": "Historic OpenStreetMap Data",
+			"authors": [
+				"Ramm, Frederik"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2024,
+			"url": "https://blog.geofabrik.de/index.php/2024/11/13/historic-openstreetmap-data/",
+			"abstract": "Older data files, for the 1st of January of each year, can be downloaded from Geofabrik's download server, and finer snapshots can be extracted from a full history file. An OSM data set of time X tells you what OSM knew about the world at that time, and not what the world was like at that time. Going back further than the licence change of 2012 gives very patchy results, and mapping methods have changed in some areas.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenStreetMap",
+				"historic data",
+				"Geofabrik",
+				"full history",
+				"data quality"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
 			"open_access": true
 		},
 		{
