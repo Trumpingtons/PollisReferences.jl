@@ -685,6 +685,41 @@
 			"open_access": true
 		},
 		{
+			"key": "ADH2013a",
+			"type": "article",
+			"title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+			"authors": [
+				"Autor, David H.",
+				"Dorn, David",
+				"Hanson, Gordon H."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "American Economic Review",
+			"volume": "103",
+			"number": "6",
+			"pages": "2121--2168",
+			"doi": "10.1257/aer.103.6.2121",
+			"url": "https://doi.org/10.1257/aer.103.6.2121",
+			"openalex": "W2097916756",
+			"oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.6.2121",
+			"source": "crossref",
+			"abstract": "We analyze the effect of rising Chinese import competition between 1990 and 2007 on US local labor markets, exploiting cross-market variation in import exposure stemming from initial differences in industry specialization and instrumenting for US imports using changes in Chinese imports by other high-income countries. Rising imports cause higher unemployment, lower labor force participation, and reduced wages in local labor markets that house import-competing manufacturing industries. In our main specification, import competition explains one-quarter of the contemporaneous aggregate decline in US manufacturing employment. Transfer benefits payments for unemployment, disability, retirement, and healthcare also rise sharply in more trade-exposed labor markets. (JEL E24, F14, F16, J23, J31, L60, O47, R12, R23)",
+			"abstract_source": "openalex",
+			"keywords": [
+				"China shock",
+				"import competition",
+				"local labor markets",
+				"commuting zones",
+				"manufacturing employment"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "ADL2023a",
 			"type": "article",
 			"title": "Explaining Black-Box Models through Counterfactuals",
@@ -1666,6 +1701,27 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "AW2003a",
+			"type": "article",
+			"title": "Gravity with Gravitas: A Solution to the Border Puzzle",
+			"authors": [
+				"Anderson, James E.",
+				"van Wincoop, Eric"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2003,
+			"journal": "American Economic Review",
+			"volume": "93",
+			"number": "1",
+			"pages": "170--192",
+			"doi": "10.1257/000282803321455214",
+			"url": "https://doi.org/10.1257/000282803321455214",
+			"openalex": "W3121794982",
+			"source": "openalex",
+			"abstract": "Gravity equations have been widely used to infer trade flow effects of various institutional arrangements. We show that estimated gravity equations do not have a theoretical foundation. This implies both that estimation suffers from omitted variables bias and that comparative statics analysis is unfounded. We develop a method that (i) consistently and efficiently estimates a theoretical gravity equation and (ii) correctly calculates the comparative statics of trade frictions. We apply the method to solve the famous McCallum border puzzle. Applying our method, we find that national borders reduce trade between industrialized countries by moderate amounts of 20–50 percent."
 		},
 		{
 			"key": "AW2021a",
@@ -7168,6 +7224,25 @@
 			"abstract_source": "arxiv"
 		},
 		{
+			"key": "Boe2020a",
+			"type": "misc",
+			"title": "GLFixedEffectModels.jl: Fast Estimation of Generalized Linear Models with High-Dimensional Fixed Effects in Julia",
+			"authors": [
+				"Boehm, Johannes"
+			],
+			"author_kind": "persons",
+			"authors_complete": false,
+			"year": 2020,
+			"doi": "10.5281/zenodo.4118020",
+			"url": "https://github.com/jmboehm/GLFixedEffectModels.jl",
+			"abstract": "Fast estimation of generalized linear models with high-dimensional categorical variables in Julia, building on FixedEffects.jl, Alpaca and ppmlhdfe, with robust and clustered standard errors, separation detection and bias correction for binary choice and Poisson models.",
+			"abstract_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Bol1986a",
 			"type": "article",
 			"title": "Generalized autoregressive conditional heteroskedasticity",
@@ -8542,6 +8617,29 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "CGZ2020a",
+			"type": "article",
+			"title": "Fast Poisson Estimation with High-Dimensional Fixed Effects",
+			"authors": [
+				"Correia, Sergio",
+				"Guimarães, Paulo",
+				"Zylkin, Tom"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "The Stata Journal",
+			"volume": "20",
+			"number": "1",
+			"pages": "95--115",
+			"doi": "10.1177/1536867X20909691",
+			"url": "https://doi.org/10.1177/1536867X20909691",
+			"openalex": "W3014036974",
+			"oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1536867X20909691",
+			"source": "openalex",
+			"abstract": "In this article, we present ppmlhdfe, a new command for estimation of (pseudo-)Poisson regression models with multiple high-dimensional fixed effects (HDFE). Estimation is implemented using a modified version of the iteratively reweighted least-squares algorithm that allows for fast estimation in the presence of HDFE. Because the code is built around the reghdfe package ( Correia, 2014 , Statistical Software Components S457874, Department of Economics, Boston College), it has similar syntax, supports many of the same functionalities, and benefits from reghdfe‘s fast convergence properties for computing high-dimensional leastsquares problems. Performance is further enhanced by some new techniques we introduce for accelerating HDFE iteratively reweighted least-squares estimation specifically. ppmlhdfe also implements a novel and more robust approach to check for the existence of (pseudo)maximum likelihood estimates."
 		},
 		{
 			"key": "CH1967a",
@@ -10806,6 +10904,26 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "CT1990a",
+			"type": "article",
+			"title": "Regression-Based Tests for Overdispersion in the Poisson Model",
+			"authors": [
+				"Cameron, A. Colin",
+				"Trivedi, Pravin K."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1990,
+			"journal": "Journal of Econometrics",
+			"volume": "46",
+			"number": "3",
+			"pages": "347--364",
+			"doi": "10.1016/0304-4076(90)90014-K",
+			"url": "https://doi.org/10.1016/0304-4076(90)90014-K",
+			"openalex": "W1972707698",
+			"source": "openalex"
 		},
 		{
 			"key": "CT2004a",
@@ -14223,6 +14341,24 @@
 			"open_access": false
 		},
 		{
+			"key": "Den2012a",
+			"type": "techreport",
+			"title": "Estimating Flows Between Geographical Locations: Get Me Started in Spatial Interaction Modelling",
+			"authors": [
+				"Dennett, Adam"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"institution": "Centre for Advanced Spatial Analysis, University College London",
+			"report_number": "181",
+			"series": "CASA Working Paper Series",
+			"url": "https://www.ucl.ac.uk/bartlett/casa/publications/2012/mar/casa-working-paper-181",
+			"source": "manual",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Die1975a",
 			"type": "article",
 			"title": "An Algorithm for Smoothing, Differentiation and Integration of Experimental Data Using Spline Functions",
@@ -15704,6 +15840,27 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "FA1982a",
+			"type": "article",
+			"title": "A Method of Fitting the Gravity Model Based on the Poisson Distribution",
+			"authors": [
+				"Flowerdew, Robin",
+				"Aitkin, Murray"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1982,
+			"journal": "Journal of Regional Science",
+			"volume": "22",
+			"number": "2",
+			"pages": "191--202",
+			"doi": "10.1111/j.1467-9787.1982.tb00744.x",
+			"url": "https://doi.org/10.1111/j.1467-9787.1982.tb00744.x",
+			"openalex": "W1993723510",
+			"source": "openalex",
+			"abstract": "\"In this paper, [the authors] suggest an alternative method for fitting the gravity model. In this method, the interaction variable is treated as the outcome of a discrete probability process, whose mean is a function of the size and distance variables. This treatment seems appropriate when the dependent variable represents a count of the number of items (people, vehicles, shipments) moving from one place to another. It would seem to have special advantages where there are some pairs of places between which few items move. The argument will be illustrated with reference to data on the numbers of migrants moving in 1970-1971 between pairs of the 126 labor market areas defined for Great Britain....\""
 		},
 		{
 			"key": "FAHA2023a",
@@ -30527,6 +30684,27 @@
 			"open_access": true
 		},
 		{
+			"key": "LP2008a",
+			"type": "article",
+			"title": "Spatial Econometric Modeling of Origin-Destination Flows",
+			"authors": [
+				"LeSage, James P.",
+				"Pace, R. Kelley"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2008,
+			"journal": "Journal of Regional Science",
+			"volume": "48",
+			"number": "5",
+			"pages": "941--967",
+			"doi": "10.1111/j.1467-9787.2008.00573.x",
+			"url": "https://doi.org/10.1111/j.1467-9787.2008.00573.x",
+			"openalex": "W2018474251",
+			"source": "openalex",
+			"abstract": "ABSTRACT Standard spatial autoregressive models rely on spatial weight structures constructed to model dependence among n regions. Ways of parsimoniously modeling the connectivity among the sample of N = n 2 origin‐destination (OD) pairs that arise in a closed system of interregional flows has remained a stumbling block. We overcome this problem by proposing spatial weight structures that model dependence among the N OD pairs in a fashion consistent with standard spatial autoregressive models. This results in a family of spatial OD models introduced here that represent an extension of the spatial regression models described in Anselin (1988) ."
+		},
+		{
 			"key": "LP2009a",
 			"type": "book",
 			"title": "Introduction to Spatial Econometrics",
@@ -38247,6 +38425,27 @@
 			"open_access": false
 		},
 		{
+			"key": "Osh2016a",
+			"type": "article",
+			"title": "A Primer for Working with the Spatial Interaction Modeling (SpInt) Module in the Python Spatial Analysis Library (PySAL)",
+			"authors": [
+				"Oshan, Taylor M."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "REGION",
+			"volume": "3",
+			"number": "2",
+			"pages": "R11--R23",
+			"doi": "10.18335/region.v3i2.175",
+			"url": "https://doi.org/10.18335/region.v3i2.175",
+			"openalex": "W2559994852",
+			"oa_url": "http://openjournals.wu.ac.at/ojs/index.php/region/article/download/175/122",
+			"source": "openalex",
+			"abstract": "This primer provides a practical guide to get started with spatial interaction modeling using the SpInt module in the python spatial analysis library (PySAL)."
+		},
+		{
 			"key": "PB1995a",
 			"type": "article",
 			"title": "Approximations to the Log-Likelihood Function in the Nonlinear Mixed-Effects Model",
@@ -45832,6 +46031,28 @@
 			"open_access": true
 		},
 		{
+			"key": "SST2006a",
+			"type": "article",
+			"title": "The Log of Gravity",
+			"authors": [
+				"Santos Silva, J. M. C.",
+				"Tenreyro, Silvana"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2006,
+			"journal": "The Review of Economics and Statistics",
+			"volume": "88",
+			"number": "4",
+			"pages": "641--658",
+			"doi": "10.1162/rest.88.4.641",
+			"url": "https://doi.org/10.1162/rest.88.4.641",
+			"openalex": "W2100130392",
+			"oa_url": "https://direct.mit.edu/rest/article-pdf/88/4/641/1982805/rest.88.4.641.pdf",
+			"source": "openalex",
+			"abstract": "Abstract Although economists have long been aware of Jensen's inequality, many econometric applications have neglected an important implication of it: under heteroskedasticity, the parameters of log-linearized models estimated by OLS lead to biased estimates of the true elasticities. We explain why this problem arises and propose an appropriate estimator. Our criticism of conventional practices and the proposed solution extend to a broad range of applications where log-linearized equations are estimated. We develop the argument using one particular illustration, the gravity equation for trade. We find significant differences between estimates obtained with the proposed estimator and those obtained with the traditional method."
+		},
+		{
 			"key": "SSWAF2016a",
 			"type": "article",
 			"title": "Taking the Human Out of the Loop: A Review of Bayesian Optimization",
@@ -51293,6 +51514,26 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Wil1971a",
+			"type": "article",
+			"title": "A Family of Spatial Interaction Models, and Associated Developments",
+			"authors": [
+				"Wilson, Alan G."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1971,
+			"journal": "Environment and Planning A",
+			"volume": "3",
+			"number": "1",
+			"pages": "1--32",
+			"doi": "10.1068/a030001",
+			"url": "https://doi.org/10.1068/a030001",
+			"openalex": "W2100963312",
+			"source": "openalex",
+			"abstract": "This paper shows that the gravity model is not a single model but that there is a whole family of spatial interaction models. The properties of this family are outlined in some detail. Basic concepts of such models can be developed in a variety of ways, and these are illustrated. The paper then outlines a number of other theoretical developments, and is particularly concerned with the disaggregation of such models, with the incorporation of time variables, and with the relation of spatial interaction, to more general, models. Uses of spatial interaction models are outlined briefly and the final section of the paper draws a number of conclusions and presents a summary."
 		},
 		{
 			"key": "Wil1992a",
