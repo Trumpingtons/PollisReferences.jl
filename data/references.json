@@ -1049,6 +1049,74 @@
 			"open_access": true
 		},
 		{
+			"key": "AKM2019a",
+			"type": "article",
+			"title": "Shift-Share Designs: Theory and Inference",
+			"authors": [
+				"Adão, Rodrigo",
+				"Kolesár, Michal",
+				"Morales, Eduardo"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"journal": "Quarterly Journal of Economics",
+			"volume": "134",
+			"number": "4",
+			"pages": "1949--2010",
+			"doi": "10.1093/qje/qjz025",
+			"url": "https://doi.org/10.1093/qje/qjz025",
+			"openalex": "W2809238378",
+			"oa_url": "http://arxiv.org/pdf/1806.07928",
+			"source": "crossref",
+			"abstract": "We study inference in shift-share regression designs, such as when a regional outcome is regressed on a weighted average of sectoral shocks, using regional sector shares as weights. We conduct a placebo exercise in which we estimate the effect of a shift-share regressor constructed with randomly generated sectoral shocks on actual labor market outcomes across U.S. commuting zones. Tests based on commonly used standard errors with 5% nominal significance level reject the null of no effect in up to 55% of the placebo samples. We use a stylized economic model to show that this overrejection problem arises because regression residuals are correlated across regions with similar sectoral shares, independent of their geographic location. We derive novel inference methods that are valid under arbitrary cross-regional correlation in the regression residuals. We show using popular applications of shift-share designs that our methods may lead to substantially wider confidence intervals in practice.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"shift-share",
+				"standard errors",
+				"inference",
+				"regional labor markets",
+				"placebo"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "AL2021a",
+			"type": "article",
+			"title": "A Penalized Synthetic Control Estimator for Disaggregated Data",
+			"authors": [
+				"Abadie, Alberto",
+				"L'Hour, Jérémy"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "Journal of the American Statistical Association",
+			"volume": "116",
+			"number": "536",
+			"pages": "1817--1834",
+			"doi": "10.1080/01621459.2021.1971535",
+			"url": "https://doi.org/10.1080/01621459.2021.1971535",
+			"openalex": "W3198029582",
+			"source": "crossref",
+			"abstract": "Synthetic control methods are commonly applied in empirical research to estimate the effects of treatments or interventions on aggregate outcomes. A synthetic control estimator compares the outcome of a treated unit to the outcome of a weighted average of untreated units that best resembles the characteristics of the treated unit before the intervention. When disaggregated data are available, constructing separate synthetic controls for each treated unit may help avoid interpolation biases. However, the problem of finding a synthetic control that best reproduces the characteristics of a treated unit may not have a unique solution. Multiplicity of solutions is a particularly daunting challenge when the data include many treated and untreated units. To address this challenge, we propose a synthetic control estimator that penalizes the pairwise discrepancies between the characteristics of the treated units and the characteristics of the units that contribute to their synthetic controls. The penalization parameter trades off pairwise matching discrepancies with respect to the characteristics of each unit in the synthetic control against matching discrepancies with respect to the characteristics of the synthetic control unit as a whole. We study the properties of this estimator and propose data-driven choices of the penalization parameter.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"synthetic control",
+				"penalization",
+				"disaggregated data",
+				"matching",
+				"policy evaluation"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "ALSSS2015a",
 			"type": "article",
 			"title": "Identification of Patient Zero in Static and Temporal Networks: Robustness and Limitations",
@@ -1525,6 +1593,38 @@
 			],
 			"keywords_source": "openalex",
 			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Aba2021a",
+			"type": "article",
+			"title": "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects",
+			"authors": [
+				"Abadie, Alberto"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "Journal of Economic Literature",
+			"volume": "59",
+			"number": "2",
+			"pages": "391--425",
+			"doi": "10.1257/jel.20191450",
+			"url": "https://doi.org/10.1257/jel.20191450",
+			"openalex": "W3169407454",
+			"oa_url": "https://hdl.handle.net/1721.1/144417",
+			"source": "crossref",
+			"abstract": "Probably because of their interpretability and transparent nature, synthetic controls have become widely applied in empirical research in economics and the social sciences. This article aims to provide practical guidance to researchers employing synthetic control methods. The article starts with an overview and an introduction to synthetic control estimation. The main sections discuss the advantages of the synthetic control framework as a research design, and describe the settings where synthetic controls provide reliable estimates and those where they may fail. The article closes with a discussion of recent extensions, related methods, and avenues for future research. (JEL B41, C32, C54, E23, F15, O47)",
+			"abstract_source": "openalex",
+			"keywords": [
+				"synthetic control",
+				"comparative case studies",
+				"research design",
+				"policy evaluation"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": true
 		},
@@ -3592,6 +3692,41 @@
 			"keywords_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-15",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "BHJ2022a",
+			"type": "article",
+			"title": "Quasi-Experimental Shift-Share Research Designs",
+			"authors": [
+				"Borusyak, Kirill",
+				"Hull, Peter",
+				"Jaravel, Xavier"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2022,
+			"journal": "Review of Economic Studies",
+			"volume": "89",
+			"number": "1",
+			"pages": "181--213",
+			"doi": "10.1093/restud/rdab030",
+			"url": "https://doi.org/10.1093/restud/rdab030",
+			"openalex": "W2807611776",
+			"oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10289799/pdf/nihms-1855629.pdf",
+			"source": "crossref",
+			"abstract": "Many studies use shift-share (or \"Bartik\") instruments, which average a set of shocks with exposure share weights. We provide a new econometric framework for shift-share instrumental variable (SSIV) regressions in which identification follows from the quasi-random assignment of shocks, while exposure shares are allowed to be endogenous. The framework is motivated by an equivalence result: the orthogonality between a shift-share instrument and an unobserved residual can be represented as the orthogonality between the underlying shocks and a shock-level unobservable. SSIV regression coefficients can similarly be obtained from an equivalent shock-level regression, motivating shock-level conditions for their consistency. We discuss and illustrate several practical insights of this framework in the setting of Autor et al. (2013), estimating the effect of Chinese import competition on manufacturing employment across U.S. commuting zones.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"shift-share",
+				"Bartik instruments",
+				"instrumental variables",
+				"quasi-random shocks",
+				"China shock"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": true
 		},
@@ -11468,6 +11603,39 @@
 			"open_access": false
 		},
 		{
+			"key": "DF2015a",
+			"type": "article",
+			"title": "Difference-in-differences techniques for spatial data: Local autocorrelation and spatial interaction",
+			"authors": [
+				"Delgado, Michael S.",
+				"Florax, Raymond J. G. M."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"journal": "Economics Letters",
+			"volume": "137",
+			"pages": "123--126",
+			"doi": "10.1016/j.econlet.2015.10.035",
+			"url": "https://doi.org/10.1016/j.econlet.2015.10.035",
+			"openalex": "W3122746033",
+			"oa_url": "https://doi.org/10.2139/ssrn.2637764",
+			"source": "crossref",
+			"abstract": "We consider treatment effect estimation via a difference-in-difference approach for spatial data with local spatial interaction such that the potential outcome of observed units depends on their own treatment as well as on the treatment status of proximate neighbors. We show that under standard assumptions (common trend and ignorability) a straightforward spatially explicit version of the benchmark difference-in-differences regression is capable of identifying both direct and indirect treatment effects. We demonstrate the finite sample performance of our spatial estimator via Monte Carlo simulations.",
+			"abstract_source": "repec",
+			"keywords": [
+				"difference-in-differences",
+				"spatial interaction",
+				"spillovers",
+				"treatment effects",
+				"Monte Carlo"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "DFG2001a",
 			"type": "book",
 			"title": "Sequential Monte Carlo Methods in Practice",
@@ -18090,6 +18258,41 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "GSS2020a",
+			"type": "article",
+			"title": "Bartik Instruments: What, When, Why, and How",
+			"authors": [
+				"Goldsmith-Pinkham, Paul",
+				"Sorkin, Isaac",
+				"Swift, Henry"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "American Economic Review",
+			"volume": "110",
+			"number": "8",
+			"pages": "2586--2624",
+			"doi": "10.1257/aer.20181047",
+			"url": "https://doi.org/10.1257/aer.20181047",
+			"openalex": "W2792018968",
+			"oa_url": "http://www.nber.org/papers/w24408.pdf",
+			"source": "crossref",
+			"abstract": "The Bartik instrument is formed by interacting local industry shares and national industry growth rates. We show that the typical use of a Bartik instrument assumes a pooled exposure research design, where the shares measure differential exposure to common shocks, and identification is based on exogeneity of the shares. Next, we show how the Bartik instrument weights each of the exposure designs. Finally, we discuss how to assess the plausibility of the research design. We illustrate our results through two applications: estimating the elasticity of labor supply, and estimating the elasticity of substitution between immigrants and natives. (JEL C51, F14, J15, J22, L60, R23, R32)",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Bartik instruments",
+				"shift-share",
+				"Rotemberg weights",
+				"instrumental variables",
+				"exposure designs"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-19",
+			"checked": false,
 			"open_access": true
 		},
 		{
