@@ -1868,6 +1868,42 @@
 			"checked": false
 		},
 		{
+			"key": "AYTZS...2015a",
+			"type": "inproceedings",
+			"title": "Time series forecasting using fuzzy techniques",
+			"authors": [
+				"Afanasieva, Tatiana",
+				"Yarushkina, Nadezhda",
+				"Toneryan, Mkrtich",
+				"Zavarzin, Denis",
+				"Sapunkov, Alexei",
+				"Sibirev, Ivan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"booktitle": "Proceedings of the 2015 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology",
+			"series": "Advances in Intelligent Systems Research",
+			"publisher": "Atlantis Press",
+			"doi": "10.2991/ifsa-eusflat-15.2015.151",
+			"url": "https://doi.org/10.2991/ifsa-eusflat-15.2015.151",
+			"openalex": "W1815134612",
+			"oa_url": "https://www.atlantis-press.com/article/23662.pdf",
+			"abstract": "The aim of this contribution is to show the opportunities of applying of fuzzy time series models to predict multiple heterogeneous time series, given at International Time Series Forecasting Competition [http://irafm.osu.cz/cif/main.php].The dataset of this competition includes 91 time series of different length, time frequencies and behaviour.In this paper the framework (algorithm) of multiple time series forecasting, based on fuzzy techniques, is proposed.We applied the traditional decomposition of time series, using F-transform technique.To identify the model of the time series three fuzzy time series models were tested: model, based on fuzzified time series values, model, based on fuzzified first differences of time series values and model, based on the fuzzy tendency.To choose the best model we introduce two step algorithm and new criteria in addition to well-known, based on linguistic description of time series fuzzy tendency.In the conclusion the received results are discussed and the efficiency of the proposed approach is shown.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"fuzzy time series forecasting",
+				"heterogeneous time series",
+				"F-transform",
+				"time series decomposition"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Aba2021a",
 			"type": "article",
 			"title": "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects",
@@ -3972,6 +4008,46 @@
 			"open_access": false
 		},
 		{
+			"key": "BHB2016a",
+			"type": "article",
+			"title": "Bagging exponential smoothing methods using STL decomposition and Box–Cox transformation",
+			"authors": [
+				"Bergmeir, Christoph",
+				"Hyndman, Rob J.",
+				"Benítez, José M."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "International Journal of Forecasting",
+			"volume": "32",
+			"number": "2",
+			"pages": "303--312",
+			"issn": "0169-2070",
+			"doi": "10.1016/j.ijforecast.2015.07.002",
+			"url": "https://doi.org/10.1016/j.ijforecast.2015.07.002",
+			"openalex": "W2260161590",
+			"source": "crossref",
+			"oa_url": "https://figshare.com/articles/journal_contribution/Bagging_Exponential_Smoothing_Methods_using_STL_Decomposition_and_Box-Cox_Transformation/21521097",
+			"abstract": "Exponential smoothing is one of the most popular forecasting methods. We present a technique for the bootstrap aggregation (bagging) of exponential smoothing methods, which results in significant improvements in the forecasts. The bagging uses a Box–Cox transformation followed by an STL decomposition to separate the time series into the trend, seasonal part, and remainder. The remainder is then bootstrapped using a moving block bootstrap, and a new series is assembled using this bootstrapped remainder. An ensemble of exponential smoothing models is then estimated on the bootstrapped series, and the resulting point forecasts are combined. We evaluate this new method on the M3 data set, and show that it outperforms the original exponential smoothing models consistently. On the monthly data, we achieve better results than any of the original M3 participants.",
+			"abstract_source": "repec",
+			"keywords": [
+				"bagging",
+				"exponential smoothing",
+				"STL decomposition",
+				"Box-Cox transformation",
+				"moving block bootstrap",
+				"ensemble forecasting",
+				"time series forecasting",
+				"seasonal-trend decomposition",
+				"M3 competition"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BHH1959a",
 			"type": "article",
 			"title": "The shortest path through many points",
@@ -4274,6 +4350,42 @@
 			"source": "crossref",
 			"retrieved": "2026-11-03",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "BI2021a",
+			"type": "article",
+			"title": "Street view imagery in urban analytics and GIS: A review",
+			"authors": [
+				"Biljecki, Filip",
+				"Ito, Koichi"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "Landscape and Urban Planning",
+			"volume": "215",
+			"pages": "104217",
+			"issn": "0169-2046",
+			"doi": "10.1016/j.landurbplan.2021.104217",
+			"url": "https://doi.org/10.1016/j.landurbplan.2021.104217",
+			"openalex": "W3195494505",
+			"oa_url": "https://www.sciencedirect.com/science/article/pii/S0169204621001808/pdf",
+			"source": "crossref",
+			"abstract": "Street view imagery has rapidly ascended as an important data source for geospatial data collection and urban analytics, deriving insights and supporting informed decisions. Such surge has been mainly catalysed by the proliferation of large-scale imagery platforms, advances in computer vision and machine learning, and availability of computing resources. We screened more than 600 recent papers to provide a comprehensive systematic review of the state of the art of how street-level imagery is currently used in studies pertaining to the built environment. The main findings are that: (i) street view imagery is now clearly an entrenched component of urban analytics and GIScience; (ii) most of the research relies on data from Google Street View; and (iii) it is used across myriads of domains with numerous applications – ranging from analysing vegetation and transportation to health and socio-economic studies. A notable trend is crowdsourced street view imagery, facilitated by services such as Mapillary and KartaView, in some cases furthering geographical coverage and temporal granularity, at a permissive licence.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"street view images",
+				"urban analytics",
+				"Google Street View",
+				"Mapillary",
+				"vegetation analysis",
+				"transport analysis",
+				"geospatial data sources"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -7696,6 +7808,40 @@
 			"open_access": false
 		},
 		{
+			"key": "Bur2015a",
+			"type": "inproceedings",
+			"title": "Linguistic fuzzy logic in R",
+			"authors": [
+				"Burda, Michal"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"booktitle": "2015 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+			"pages": "1--7",
+			"publisher": "IEEE",
+			"doi": "10.1109/fuzz-ieee.2015.7337826",
+			"url": "https://doi.org/10.1109/fuzz-ieee.2015.7337826",
+			"openalex": "W2178700782",
+			"abstract": "The aim of this paper is to present a new package for the R statistical environment that enables the use of linguistic fuzzy logic in data processing applications. The lfl package provides tools for transformation of data into fuzzy sets representing linguistic expressions, for mining of linguistic fuzzy association rules, and for performing an inference on fuzzy rule bases using the Perception-based Logical Deduction (PbLD). The package also contains a Fuzzy Rule-based Ensemble, a tool for time series forecasting based on an ensemble of forecasts from several individual methods that is driven by a linguistic rule base created automatically from a large set of training time series.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"R package",
+				"fuzzy sets",
+				"language expression",
+				"fuzzy association rules",
+				"fuzzy rule base",
+				"time series forecasting",
+				"ensemble forecasting",
+				"automatic rule extraction"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Buu2018a",
 			"type": "book",
 			"title": "Flexible Imputation of Missing Data",
@@ -8132,6 +8278,42 @@
 			],
 			"keywords_source": "openalex",
 			"retrieved": "2026-11-19",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "CCMSG2016a",
+			"type": "inproceedings",
+			"title": "An automatic calibration framework applied on a metaheuristic fuzzy model for the CIF competition",
+			"authors": [
+				"Coelho, Vitor N.",
+				"Coelho, Igor M.",
+				"Meneghini, Ivan R.",
+				"Souza, Marcone J. F.",
+				"Guimarães, Frederico G."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"booktitle": "2016 International Joint Conference on Neural Networks (IJCNN)",
+			"pages": "1507--1514",
+			"publisher": "IEEE",
+			"doi": "10.1109/ijcnn.2016.7727377",
+			"url": "https://doi.org/10.1109/ijcnn.2016.7727377",
+			"openalex": "W2551164094",
+			"source": "crossref",
+			"abstract": "The challenging problem of forecasting a given time series as accurately as possible is reality in different areas of expertise. The requirement of achieving reliable forecasts, for assisting the new generation of soft sensors, requests the development of novel smart mechanisms to be integrated into the available forecasting models. This current paper improves the previous work of Coelho et al. [1], [2], introduced in the 2014 WCCI, which introduced a Hybrid Self-adaptive Forecasting Model (HFM), calibrated using an evolutionary metaheuristic. Here, an expert input selection assisted by the use of Neighborhood Structures is used for learning the dataset provide in the CIF 2016 forecasting competition. Two different metaheuristic algorithms are used for training the HFM, computational experiments are conducted for optimizing both models. By selecting the maximum lag to be used by our model and, consequently, defining a rate of training cycles, we calibrate the HFM in order to minimize Symmetric Mean Absolute Percentage Errors. Blind forecasts generated by the model will be submit to the competition.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"time series forecasting",
+				"fuzzy forecasting",
+				"metaheuristic optimization",
+				"model calibration",
+				"neighborhood structure",
+				"soft sensors"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": false
 		},
@@ -8917,6 +9099,37 @@
 			"source": "crossref",
 			"retrieved": "2026-11-10",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "CH2016a",
+			"type": "inproceedings",
+			"title": "Feature selection of autoregressive Neural Network inputs for trend Time Series Forecasting",
+			"authors": [
+				"Crone, Sven F.",
+				"Hager, Stephan"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"booktitle": "2016 International Joint Conference on Neural Networks (IJCNN)",
+			"pages": "1515--1522",
+			"publisher": "IEEE",
+			"doi": "10.1109/ijcnn.2016.7727378",
+			"url": "https://doi.org/10.1109/ijcnn.2016.7727378",
+			"openalex": "W2550020085",
+			"source": "crossref",
+			"abstract": "The capability of artificial Neural Networks to forecast time series with trends has been a topic of dispute. While selected research following Zhang and Qi has indicated that prior removal of trends is required for a Multilayer Perceptron (MLP), others provide evidence that Neural Networks are capable of forecasting trends without data preprocessing, either by choosing input-nodes employing an adequate autoregressive lag-structure of lagged realisations or by adding explanatory variables with trends. This paper proposes a novel variable selection methodology of autoregressive lags for trended time series with and without seasonality, and assesses its efficacy using the dataset of the International Time Series Forecasting Competition conducted at WCCI 2016. Our experiments indicate that MLPs are capable of forecasting different trend forms, but that more than a single lag-structure is required to do so, making the use of multiple input-lag variants and a robust model selection strategy necessary to achieve robust forecast accuracy.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"feature selection",
+				"multilayer perceptron",
+				"seasonal variation",
+				"model selection"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
 			"open_access": false
 		},
 		{
@@ -10235,6 +10448,41 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "CN2009a",
+			"type": "article",
+			"title": "Forecasting time series with Boot.EXPOS procedure",
+			"authors": [
+				"Cordeiro, Clara",
+				"Neves, M. Manuela"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2009,
+			"journal": "REVSTAT-Statistical Journal",
+			"volume": "7",
+			"number": "2",
+			"pages": "135--149",
+			"doi": "10.57805/revstat.v7i2.78",
+			"url": "https://doi.org/10.57805/revstat.v7i2.78",
+			"openalex": "W4391919961",
+			"source": "openalex",
+			"oa_url": "https://doaj.org/article/98f2aa290c15461eb456ed2e6f5b9f13",
+			"abstract": "To forecast future values of a time series is one of the main goals in times series analysis. Many forecasting methods have been developed and its performance evaluated. In order to make a selection among an avalanche of such emerging methods they have to be compared in a kind of forecasting competition. One of these competitions is the M3 competition with its 3003 time series. The competition results in Makridakis and Hibon (2000) paper are frequently used as a benchmark in comparative studies. The Boot.EXPOS approach developed by the authors, combines the use of exponential smoothing methods with the bootstrap methodology to forecast time series. The idea is to join these two approaches (bootstrap and exponential smoothing) and to construct a computational algorithm to obtain forecasts. It works in an automatic way and can be summarized as follows: (i) choose an exponential smoothing model, among several proposed using the mean squared error, and obtain the model components; (ii) fit an AR to the residuals of the adjusted model; the order of the AR is selected by AIC criterion; (iii) center the new residuals obtained in previous step and resample; (iv) obtain a bootstrapped replica of the time series according to the AR model and exponential smoothing components found in first step; (v) forecast future values according to model in (i); (vi) compute the point forecast as the mean or as the median of the predicted values. The performance of the procedure here proposed is evaluated by comparing it with other procedures presented in the M3 competition. Some accuracy measures are used for that comparison. All computational work is done using the R2.8.1 software (R Development Core Team, 2008).",
+			"abstract_source": "openalex",
+			"keywords": [
+				"time series forecasting",
+				"exponential smoothing",
+				"bootstrapping",
+				"M3 competition",
+				"forecast accuracy comparison",
+				"model selection"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "CO1949a",
@@ -15708,6 +15956,49 @@
 			"open_access": true
 		},
 		{
+			"key": "EMOPN...2020a",
+			"type": "inproceedings",
+			"title": "The Mapillary Traffic Sign Dataset for Detection and Classification on a Global Scale",
+			"authors": [
+				"Ertler, Christian",
+				"Mislej, Jerneja",
+				"Ollmann, Tobias",
+				"Porzi, Lorenzo",
+				"Neuhold, Gerhard",
+				"Kuang, Yubin"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"volume": "12368",
+			"pages": "68--84",
+			"issn": "0302-9743",
+			"doi": "10.1007/978-3-030-58592-1_5",
+			"url": "https://doi.org/10.1007/978-3-030-58592-1_5",
+			"openalex": "W3108907096",
+			"oa_url": "https://arxiv.org/pdf/1909.04422",
+			"source": "crossref",
+			"keywords": [
+				"traffic sign detection",
+				"traffic sign classification",
+				"benchmark dataset",
+				"street view images",
+				"transfer learning",
+				"fine-grained annotation",
+				"Mapillary",
+				"smart cities"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"booktitle": "Computer Vision – ECCV 2020",
+			"series": "Lecture Notes in Computer Science",
+			"publisher": "Springer",
+			"abstract": "Traffic signs are essential map features globally in the era of autonomous driving and smart cities. To develop accurate and robust algorithms for traffic sign detection and classification, a large-scale and diverse benchmark dataset is required. In this paper, we introduce a traffic sign benchmark dataset of 100K street-level images around the world that encapsulates diverse scenes, wide coverage of geographical locations, and varying weather and lighting conditions and covers more than 300 manually annotated traffic sign classes. The dataset includes 52K images that are fully annotated and 48K images that are partially annotated. This is the largest and the most diverse traffic sign dataset consisting of images from all over world with fine-grained annotations of traffic sign classes. We have run extensive experiments to establish strong baselines for both the detection and the classification tasks. In addition, we have verified that the diversity of this dataset enables effective transfer learning for existing large-scale benchmark datasets on traffic sign detection and classification. The dataset is freely available for academic research: https://www.mapillary.com/dataset/trafficsign.",
+			"abstract_source": "arxiv"
+		},
+		{
 			"key": "EMS2002a",
 			"type": "incollection",
 			"title": "Modeling Dependence with Copulas and Applications to Risk Management",
@@ -18570,6 +18861,38 @@
 			"url": "http://www.stat.columbia.edu/~gelman/book/",
 			"legacy_key": "gelman2013",
 			"source": "manual",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "GCVL2016a",
+			"type": "inproceedings",
+			"title": "Multi-step-ahead forecasting using kernel adaptive filtering",
+			"authors": [
+				"Garcia-Vega, Sergio",
+				"Castellanos-Dominguez, German",
+				"Verleysen, Michel",
+				"Lee, John A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"booktitle": "2016 International Joint Conference on Neural Networks (IJCNN)",
+			"pages": "2132--2139",
+			"publisher": "IEEE",
+			"doi": "10.1109/ijcnn.2016.7727463",
+			"url": "https://doi.org/10.1109/ijcnn.2016.7727463",
+			"openalex": "W2551797450",
+			"source": "crossref",
+			"abstract": "Accurate prediction of time series is of great interest because it can guide decisions in many economical or industrial fields. Methods can forecast either one or several steps ahead. The former is simpler and more common in many applications, while the latter is more challenging. The literature describes mainly three strategies of multi-step-ahead prediction: iterated (repeated one-step-ahead), direct, and MIMO (multiple input, multiple output). This paper proposes a MIMO strategy based on kernel adaptive filtering, which we named MSAKAF. The proposed MSAKAF has shown to be a more effective method in short, medium and long-term forecast. The proposed approach is validated on two real-world datasets. The results show that our proposal outperforms the compared baseline methods in terms of prediction accuracy.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"multi-step forecasting",
+				"kernel adaptive filtering",
+				"time series forecasting"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": false
 		},
@@ -26365,6 +26688,40 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": false
+		},
+		{
+			"key": "JH2016a",
+			"type": "article",
+			"title": "User Contribution Patterns and Completeness Evaluation of Mapillary, a Crowdsourced Street Level Photo Service",
+			"authors": [
+				"Juhász, Levente",
+				"Hochmair, Hartwig H."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Transactions in GIS",
+			"volume": "20",
+			"number": "6",
+			"pages": "925--947",
+			"issn": "1361-1682",
+			"doi": "10.1111/tgis.12190",
+			"url": "https://doi.org/10.1111/tgis.12190",
+			"openalex": "W2556336411",
+			"source": "crossref",
+			"abstract": "Mapillary is a Web 2.0 application which allows users to contribute crowdsourced street level photographs from all over the world. In the first part of the analysis this article reviews Mapillary data growth for continents and countries as well as the contribution behavior of individual mappers, such as the number of days of active mapping. In the second part of the analysis the study assesses Mapillary data completeness relative to a reference road network dataset at the country level. In addition, a more detailed completeness analysis is conducted for selected urban and rural areas in the US and part of northern Europe for which the completeness of Mapillary data will also be compared with that of Google Street View. Results show that Street View provides generally a better coverage on almost all road categories with some exceptions for pedestrian and cycle paths in selected cities. However, Mapillary data can be conveniently collected from any mobile device that is equipped with a photo camera. This gives Mapillary the potential to reach better coverage along off‐road segments than Google Street View.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Mapillary",
+				"data completeness",
+				"road network coverage",
+				"Google Street View",
+				"pedestrian and cycle paths"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
 			"open_access": false
 		},
 		{
@@ -35157,6 +35514,40 @@
 			"open_access": false
 		},
 		{
+			"key": "MLBG2015a",
+			"type": "inproceedings",
+			"title": "Adaptive Fuzzy C-Regression Modeling for Time Series Forecasting",
+			"authors": [
+				"Maciel, Leandro",
+				"Lemos, André",
+				"Ballini, Rosangela",
+				"Gomide, Fernando"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"booktitle": "Proceedings of the 2015 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology",
+			"series": "Advances in Intelligent Systems Research",
+			"publisher": "Atlantis Press",
+			"doi": "10.2991/ifsa-eusflat-15.2015.129",
+			"url": "https://doi.org/10.2991/ifsa-eusflat-15.2015.129",
+			"openalex": "W1939308260",
+			"oa_url": "https://www.atlantis-press.com/article/23640.pdf",
+			"abstract": "The aim of the 2015 IFSA-EUSFLAT International Time Series Competition, Computational Intelligence in Forecasting (CIF), is to evaluate the performance of computational intelligence-based approaches to forecast time series of different nature.The participants must propose a unique consistent methodology for all time series.This paper suggests an adaptive fuzzy c-regression modeling approach (aFCR) for time series forecasting.The aFCR is a fuzzy clustering with affine prototypes modeling approach to develop fuzzy functional rule-based models.The approach uses participatory learning to adapt the model structure as it processes data as a stream of time series values.Computational experiments show that the aFCR forecaster is an effective tool to forecast time series.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"time series forecasting",
+				"adaptive fuzzy clustering",
+				"participatory learning",
+				"online learning"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "MLC2026a",
 			"type": "misc",
 			"title": "MapLibre GL JS: Interactive Vector Tile Maps in the Browser",
@@ -36182,6 +36573,43 @@
 			"open_access": true
 		},
 		{
+			"key": "MSCCS2020a",
+			"type": "article",
+			"title": "Crowdsourcing Street View Imagery: A Comparison of Mapillary and OpenStreetCam",
+			"authors": [
+				"Mahabir, Ron",
+				"Schuchard, Ross",
+				"Crooks, Andrew",
+				"Croitoru, Arie",
+				"Stefanidis, Anthony"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "ISPRS International Journal of Geo-Information",
+			"volume": "9",
+			"number": "6",
+			"pages": "341",
+			"issn": "2220-9964",
+			"doi": "10.3390/ijgi9060341",
+			"url": "https://doi.org/10.3390/ijgi9060341",
+			"openalex": "W3030624209",
+			"oa_url": "https://www.mdpi.com/2220-9964/9/6/341/pdf?version=1591172296",
+			"source": "crossref",
+			"abstract": "Over the last decade, Volunteered Geographic Information (VGI) has emerged as a viable source of information on cities. During this time, the nature of VGI has been evolving, with new types and sources of data continually being added. In light of this trend, this paper explores one such type of VGI data: Volunteered Street View Imagery (VSVI). Two VSVI sources, Mapillary and OpenStreetCam, were extracted and analyzed to study road coverage and contribution patterns for four US metropolitan areas. Results show that coverage patterns vary across sites, with most contributions occurring along local roads and in populated areas. We also found that a few users contributed most of the data. Moreover, the results suggest that most data are being collected during three distinct times of day (i.e., morning, lunch and late afternoon). The paper concludes with a discussion that while VSVI data is still relatively new, it has the potential to be a rich source of spatial and temporal information for monitoring cities.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"volunteered geographic information",
+				"Mapillary",
+				"metropolitan areas",
+				"urban monitoring"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "MSHPS...2025a",
 			"type": "article",
 			"title": "The M6 forecasting competition: Bridging the gap between forecasting and investment decisions",
@@ -36663,6 +37091,31 @@
 			"retrieved": "2026-11-13",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Map2026a",
+			"type": "misc",
+			"title": "Mapillary API Documentation",
+			"authors": [
+				"Mapillary"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://www.mapillary.com/developer/api-documentation",
+			"abstract": "The API of Mapillary, version 4: vector tiles of the coverage of its street-level images, of their computed positions, and of map features (points and traffic signs), and entity endpoints for images, map features, detections, organisations and sequences, with image search over a bounding box smaller than 0.01 square degrees, at most 2,000 results a request; every request needs a client or user access token, and rate limits apply to entity, search and tile requests.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Mapillary",
+				"street-level imagery",
+				"API",
+				"vector tiles",
+				"map features"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false
 		},
 		{
 			"key": "Mar1952a",
@@ -38002,6 +38455,41 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "NORK2017a",
+			"type": "inproceedings",
+			"title": "The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes",
+			"authors": [
+				"Neuhold, Gerhard",
+				"Ollmann, Tobias",
+				"Rota Bulò, Samuel",
+				"Kontschieder, Peter"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"booktitle": "Proceedings of the IEEE International Conference on Computer Vision (ICCV)",
+			"pages": "5000--5009",
+			"doi": "10.1109/ICCV.2017.534",
+			"url": "https://doi.org/10.1109/ICCV.2017.534",
+			"openalex": "W2781228439",
+			"source": "crossref",
+			"abstract": "The Mapillary Vistas Dataset is a novel, large-scale street-level image dataset containing 25000 high-resolution images annotated into 66 object categories with additional, instance-specific labels for 37 classes. Annotation is performed in a dense and fine-grained style by using polygons for delineating individual objects. Our dataset is 5× larger than the total amount of fine annotations for Cityscapes and contains images from all around the world, captured at various conditions regarding weather, season and daytime. Images come from different imaging devices (mobile phones, tablets, action cameras, professional capturing rigs) and differently experienced photographers. In such a way, our dataset has been designed and compiled to cover diversity, richness of detail and geographic extent. As default benchmark tasks, we define semantic image segmentation and instance-specific image segmentation, aiming to significantly further the development of state-of-the-art methods for visual road-scene understanding.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"street view images",
+				"semantic segmentation",
+				"instance segmentation",
+				"polygon annotation",
+				"Mapillary",
+				"large-scale image databases",
+				"road scene understanding"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "NS2005a",
@@ -45283,6 +45771,68 @@
 			"legacy_key": "syntetos2005"
 		},
 		{
+			"key": "SB2015a",
+			"type": "inproceedings",
+			"title": "Computational intelligence in forecasting - the results of the time series forecasting competition",
+			"authors": [
+				"Štěpnička, Martin",
+				"Burda, Michal"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"booktitle": "2015 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+			"pages": "1--8",
+			"publisher": "IEEE",
+			"doi": "10.1109/fuzz-ieee.2015.7337986",
+			"url": "https://doi.org/10.1109/fuzz-ieee.2015.7337986",
+			"openalex": "W2177340570",
+			"abstract": "The aim of this paper is to present the results of the time series forecasting competition that was organized within the IFSA-EUSFLAT 2015 conference.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"time series forecasting",
+				"forecasting competitions",
+				"computational intelligence",
+				"forecast accuracy"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "SB2017a",
+			"type": "inproceedings",
+			"title": "On the results and observations of the time series forecasting competition CIF 2016",
+			"authors": [
+				"Štěpnička, Martin",
+				"Burda, Michal"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"booktitle": "2017 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+			"pages": "1--6",
+			"publisher": "IEEE",
+			"doi": "10.1109/fuzz-ieee.2017.8015455",
+			"url": "https://doi.org/10.1109/fuzz-ieee.2017.8015455",
+			"openalex": "W2748609695",
+			"source": "crossref",
+			"abstract": "The aim of this paper is to present the results of the competition of time series forecasting using soft computing methods that was organized within the IEEE WCCI 2016 congress.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"time series forecasting",
+				"forecasting competitions",
+				"soft computing",
+				"competition results"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "SB2018a",
 			"type": "book",
 			"title": "Reinforcement Learning: An Introduction",
@@ -45604,6 +46154,40 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "SC2015a",
+			"type": "inproceedings",
+			"title": "A hybrid forecast model combining fuzzy time series, linear regression and a new smoothing technique",
+			"authors": [
+				"Justo dos Santos, Fábio José",
+				"De Arruda Camargo, Heloisa"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2015,
+			"booktitle": "Proceedings of the 2015 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology",
+			"series": "Advances in Intelligent Systems Research",
+			"publisher": "Atlantis Press",
+			"doi": "10.2991/ifsa-eusflat-15.2015.192",
+			"url": "https://doi.org/10.2991/ifsa-eusflat-15.2015.192",
+			"openalex": "W2161166154",
+			"oa_url": "https://www.atlantis-press.com/article/23703.pdf",
+			"abstract": "In recent years, Fuzzy Time Series have been considered a promising tool to deal with forecasting problems due to the ease to model the problems, the satisfactory results obtained and also to the low computational cost required.However, the long experience with traditional methods coming from statistics, certainly brings a rich knowledge that can be used to enhance the computational methods employed to deal with Fuzzy Time Series.This paper introduces a forecast model where Fuzzy Time Series, linear regression and a new smoothing method are combined.Experiments were performed with the Taiwan Stock Exchange index and compared with eight others approaches found in the literature.The results confirm that the proposed model presents a good accuracy with relation to the other methods.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"fuzzy time series",
+				"hybrid forecasting model",
+				"linear regression",
+				"smoothing methods",
+				"stock index forecasting",
+				"forecast accuracy"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "SCHJL...2014a",
@@ -53518,6 +54102,38 @@
 			],
 			"keywords_source": "openalex",
 			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "Wic2016a",
+			"type": "inproceedings",
+			"title": "An adaptive forecasting strategy with hybrid ensemble models",
+			"authors": [
+				"Wichard, Jörg D."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"booktitle": "2016 International Joint Conference on Neural Networks (IJCNN)",
+			"pages": "1495--1498",
+			"publisher": "IEEE",
+			"doi": "10.1109/ijcnn.2016.7727375",
+			"url": "https://doi.org/10.1109/ijcnn.2016.7727375",
+			"openalex": "W2553482462",
+			"source": "crossref",
+			"abstract": "We propose hybrid ensemble models for time series forecasting. A hybrid ensemble combines the output of several different models by a weighted mean that forms the final forecast. The final hybrid ensemble model consists of several individual models: A nearest neighbor/trajectory ensemble model, a feed-forward neural network ensemble, a trend cycle model, an autoregressive model and an ensemble model based on the returns of the time series. The best performing models with respect to a left-out part of the time series are selected by cross-validation and are combined by taking the inverse SMAPE prediction error as a weight for the combination of the respective single forecasts. We show the application of this approach in the WCCI 2016 CIF challenge.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"time series forecasting",
+				"hybrid ensemble model",
+				"forecast combination",
+				"weighted average",
+				"autoregressive models",
+				"cross-validation"
+			],
+			"keywords_source": "openalex",
 			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": false
