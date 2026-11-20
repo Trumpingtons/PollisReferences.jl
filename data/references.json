@@ -14763,6 +14763,64 @@
 			"open_access": false
 		},
 		{
+			"key": "EC2009a",
+			"type": "misc",
+			"title": "Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services",
+			"authors": [
+				"European Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2009,
+			"journal": "Official Journal of the European Union",
+			"volume": "L 274",
+			"pages": "9-18",
+			"url": "https://eur-lex.europa.eu/eli/reg/2009/976/oj",
+			"abstract": "The implementing rules for the INSPIRE network services: discovery, view, download and transformation services. They set the operations and the quality of service of each kind of service; a download service offers pre-defined data sets, and may give direct access to the spatial objects of a data set through a query.",
+			"keywords": [
+				"INSPIRE",
+				"network services",
+				"download services",
+				"discovery services",
+				"quality of service"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "EC2010a",
+			"type": "misc",
+			"title": "Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+			"authors": [
+				"European Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2010,
+			"journal": "Official Journal of the European Union",
+			"volume": "L 323",
+			"pages": "11-102",
+			"url": "https://eur-lex.europa.eu/eli/reg/2010/1089/oj",
+			"abstract": "The implementing rules for the interoperability of INSPIRE spatial data sets and services: common types, identifiers, code lists and the spatial object types of each theme. For the theme Administrative Units, the spatial object type Administrative Unit is a unit of administration where a member state has and/or exercises jurisdictional rights, for local, regional and national governance.",
+			"keywords": [
+				"INSPIRE",
+				"interoperability",
+				"data specifications",
+				"administrative units",
+				"spatial object types"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "EC2023a",
 			"type": "misc",
 			"title": "Commission Delegated Regulation (EU) 2023/674 of 26 December 2022 amending the Annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)",
@@ -14789,6 +14847,61 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "EC2023b",
+			"type": "misc",
+			"title": "Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use",
+			"authors": [
+				"European Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2023,
+			"journal": "Official Journal of the European Union",
+			"volume": "L 19",
+			"pages": "43-75",
+			"url": "https://eur-lex.europa.eu/eli/reg_impl/2023/138/oj",
+			"abstract": "The list of high-value datasets that public sector bodies make available for re-use, in six categories, among them geospatial data. The geospatial category covers the INSPIRE themes administrative units, geographical names, addresses, buildings, cadastral parcels, reference parcels and agricultural parcels; the datasets are made available under the Creative Commons BY 4.0 licence or an equivalent or less restrictive open licence, through application programming interfaces and as bulk downloads.",
+			"keywords": [
+				"high-value datasets",
+				"open data",
+				"geospatial",
+				"administrative units",
+				"re-use"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "EC2026a",
+			"type": "misc",
+			"title": "The European Commission is transitioning the INSPIRE infrastructure to EU horizontal services to ensure long-term continuity and efficiency",
+			"authors": [
+				"European Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://knowledge-base.inspire.ec.europa.eu/news-and-publications/news/european-commission-transitioning-inspire-infrastructure-eu-horizontal-services-ensure-long-term-2026-07-01_en",
+			"abstract": "A notice of the INSPIRE Knowledge Base, of 1 July 2026, on the move of the central INSPIRE components to EU horizontal services: the INSPIRE Geoportal is decommissioned by 1 July 2026, and the European Data Portal, data.europa.eu, becomes the European entry point for geospatial datasets; existing metadata and catalogue services are integrated into its ecosystem through GeoDCAT-AP; the content of the INSPIRE registry moves to EU Vocabularies.",
+			"keywords": [
+				"INSPIRE",
+				"INSPIRE Geoportal",
+				"data.europa.eu",
+				"GeoDCAT-AP",
+				"EU Vocabularies"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "ECAKF2020a",
@@ -15335,6 +15448,36 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "EPCEU2007a",
+			"type": "misc",
+			"title": "Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)",
+			"authors": [
+				"European Parliament",
+				"Council of the European Union"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2007,
+			"journal": "Official Journal of the European Union",
+			"volume": "L 108",
+			"pages": "1-14",
+			"url": "https://eur-lex.europa.eu/eli/dir/2007/2/oj",
+			"abstract": "The directive that establishes INSPIRE, the infrastructure for spatial information in the European Community, for the purposes of Community environmental policies and policies or activities which may have an impact on the environment. Member states make the spatial data sets of the themes in its three annexes, among them administrative units and statistical units, available through network services for discovery, view and download, with metadata, and share them between public authorities.",
+			"keywords": [
+				"INSPIRE",
+				"spatial data infrastructure",
+				"network services",
+				"metadata",
+				"data sharing"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "EPO2012a",
@@ -25026,6 +25169,84 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "IMIG2024a",
+			"type": "misc",
+			"title": "INSPIRE Data Specification on Administrative Units – Technical Guidelines",
+			"authors": [
+				"INSPIRE Maintenance and Implementation Group"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2024,
+			"url": "https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-administrative-units-technical-guidelines_en",
+			"abstract": "The technical guidelines of the INSPIRE spatial data theme Administrative Units: its application schema, with the spatial object types administrative unit, administrative boundary and condominium, the hierarchy of administrative levels from the country down, the encoding of the data in GML, and the requirements on data quality, metadata and portrayal.",
+			"keywords": [
+				"INSPIRE",
+				"administrative units",
+				"data specification",
+				"GML",
+				"application schema"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "IMIG2024b",
+			"type": "misc",
+			"title": "INSPIRE Data Specification on Statistical Units – Technical Guidelines",
+			"authors": [
+				"INSPIRE Maintenance and Implementation Group"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2024,
+			"url": "https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-statistical-units-technical-guidelines_en",
+			"abstract": "The technical guidelines of the INSPIRE spatial data theme Statistical Units: the units for dissemination or use of statistical information, as vector units such as the NUTS regions and census areas, or as the cells of statistical grids, with their application schema, their encoding in GML and the requirements on data quality and metadata.",
+			"keywords": [
+				"INSPIRE",
+				"statistical units",
+				"statistical grids",
+				"data specification",
+				"GML"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "IOCTF2013a",
+			"type": "misc",
+			"title": "Technical Guidance for the implementation of INSPIRE Download Services, version 3.1",
+			"authors": [
+				"Initial Operating Capability Task Force"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2013,
+			"url": "https://knowledge-base.inspire.ec.europa.eu/publications/technical-guidance-implementation-inspire-download-services_en",
+			"abstract": "The technical guidance for INSPIRE download services: pre-defined data set download services implemented with Atom feeds, a top feed for the service with an entry for each data set, and a feed for each data set with an entry for each file, in one part or several, each in a coordinate reference system and format; and download services with direct access to the spatial objects, implemented with the OGC Web Feature Service 2.0 and the Filter Encoding standards.",
+			"keywords": [
+				"INSPIRE",
+				"download services",
+				"Atom",
+				"Web Feature Service",
+				"technical guidance"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "IS1989a",
@@ -37001,6 +37222,36 @@
 			"open_access": true
 		},
 		{
+			"key": "NS2005a",
+			"type": "misc",
+			"title": "The Atom Syndication Format",
+			"authors": [
+				"Nottingham, Mark",
+				"Sayre, Robert"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2005,
+			"number": "RFC 4287",
+			"journal": "Internet Engineering Task Force, Request for Comments",
+			"doi": "10.17487/RFC4287",
+			"url": "https://www.rfc-editor.org/rfc/rfc4287",
+			"abstract": "Atom, an XML-based Web content and metadata syndication format: a feed with its metadata and a list of entries, each with an identifier, a title, a time of update and links, whose relation, media type and length say what each linked resource is.",
+			"keywords": [
+				"Atom",
+				"syndication",
+				"XML",
+				"feeds",
+				"RFC"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "NS2006a",
 			"type": "article",
 			"title": "Convex Approximations of Chance Constrained Programs",
@@ -37877,6 +38128,34 @@
 			"retrieved": "2026-11-18"
 		},
 		{
+			"key": "OGC2014a",
+			"type": "misc",
+			"title": "OGC Web Feature Service 2.0 Interface Standard – With Corrigendum, Version 2.0.2",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2014,
+			"number": "OGC 09-025r2",
+			"note": "Editor: Panagiotis (Peter) A. Vretanos",
+			"url": "https://docs.ogc.org/is/09-025r2/09-025r2.html",
+			"abstract": "The Web Feature Service interface standard, also ISO 19142: operations to discover the feature types a server offers (GetCapabilities, DescribeFeatureType), and to query and retrieve their features (GetFeature), encoded by default in GML, with response paging by count and startIndex, and operations to create, update and delete features.",
+			"keywords": [
+				"Web Feature Service",
+				"WFS",
+				"GML",
+				"ISO 19142",
+				"OGC standard"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "OGC2019a",
 			"type": "misc",
 			"title": "OGC GeoTIFF Standard, Version 1.1",
@@ -37902,6 +38181,34 @@
 			"checked": false,
 			"open_access": true,
 			"retrieved": "2026-11-18"
+		},
+		{
+			"key": "OGC2022a",
+			"type": "misc",
+			"title": "OGC API - Features - Part 1: Core corrigendum, Version 1.0.1",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2022,
+			"number": "OGC 17-069r4",
+			"note": "Editors: Clemens Portele, Panagiotis (Peter) A. Vretanos, Charles Heazel",
+			"url": "https://docs.ogc.org/is/17-069r4/17-069r4.html",
+			"abstract": "The core of OGC API - Features, a standard for web APIs that give access to features: the data are organised into one or more collections, the features of a collection are returned by HTTP GET in pages linked to the next, and GeoJSON is the recommended encoding where the data can be represented in it.",
+			"keywords": [
+				"OGC API - Features",
+				"web API",
+				"GeoJSON",
+				"collections",
+				"OGC standard"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "OGC2023a",
@@ -39293,6 +39600,32 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "POEU2026a",
+			"type": "misc",
+			"title": "data.europa.eu Search API",
+			"authors": [
+				"Publications Office of the European Union"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.europa.eu/api/hub/search/",
+			"abstract": "The search API of data.europa.eu, the official portal for European data: a search over the datasets and catalogues the portal collects from national, regional and European data portals, filtered by facets such as country, catalogue, format and licence, returning each dataset's metadata in DCAT-AP, with its distributions and their access and download addresses.",
+			"keywords": [
+				"data.europa.eu",
+				"European Data Portal",
+				"search API",
+				"DCAT-AP",
+				"open data"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "PP1991a",
@@ -44602,6 +44935,32 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "SEM2026a",
+			"type": "misc",
+			"title": "GeoDCAT-AP 3.1.0",
+			"authors": [
+				"SEMIC"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://semiceu.github.io/GeoDCAT-AP/releases/3.1.0/",
+			"abstract": "GeoDCAT-AP, an extension of the DCAT application profile for data portals in Europe for describing geospatial datasets, dataset series and services: an RDF vocabulary covering the union of the metadata elements of the core profile of ISO 19115:2003 and those defined in the framework of the INSPIRE Directive, managed by the SEMIC action of Interoperable Europe.",
+			"keywords": [
+				"GeoDCAT-AP",
+				"DCAT-AP",
+				"metadata",
+				"INSPIRE",
+				"ISO 19115"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "SF2016a",
