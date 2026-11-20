@@ -8244,6 +8244,84 @@
 			"checked": true
 		},
 		{
+			"key": "CDSE2026a",
+			"type": "misc",
+			"title": "STAC Product Catalogue",
+			"authors": [
+				"Copernicus Data Space Ecosystem"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://documentation.dataspace.copernicus.eu/APIs/STAC.html",
+			"abstract": "The STAC catalogue of the Copernicus Data Space Ecosystem at stac.dataspace.copernicus.eu: the collections of the Copernicus Sentinel missions and other datasets as SpatioTemporal Asset Catalog items, searched by collection, bounding box, time and properties with the Filter, Query, Fields and Sort extensions, each item listing its assets, such as the bands of a Sentinel-2 product, with their storage and download addresses. It sits beside the OData catalogue, which it does not replace.",
+			"keywords": [
+				"Copernicus Data Space Ecosystem",
+				"STAC",
+				"catalogue",
+				"Sentinel",
+				"search API"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "CDSE2026b",
+			"type": "misc",
+			"title": "Access Token",
+			"authors": [
+				"Copernicus Data Space Ecosystem"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://documentation.dataspace.copernicus.eu/APIs/Token.html",
+			"abstract": "How to obtain an access token for the APIs of the Copernicus Data Space Ecosystem: a request to the token endpoint of its identity service with the grant type password, the public client cdse-public, the user's name and password, and a one-time code when two-factor authentication is on; the access token authenticates the requests until it expires, and the refresh token renews it.",
+			"keywords": [
+				"Copernicus Data Space Ecosystem",
+				"access token",
+				"OpenID Connect",
+				"authentication",
+				"download"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "CDSE2026c",
+			"type": "misc",
+			"title": "Sentinel-1 Mosaic Algorithm",
+			"authors": [
+				"Copernicus Data Space Ecosystem"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://documentation.dataspace.copernicus.eu/Data/Others/Sentinel1_Mosaic_Algorithm.html",
+			"abstract": "How the Sentinel-1 monthly mosaics of the Copernicus Data Space Ecosystem are made: Sentinel-1 GRD data calibrated to the beta0 backscatter coefficient, radiometrically terrain-flattened by area integration and geocoded by Range-Doppler terrain correction with the Copernicus DEM, then composited over a month by a weighted sum in which observations of the highest local resolution receive the highest weights and radar shadows are left out; IW mosaics of VV and VH at 20 m and DH mosaics of HH and HV at 40 m, in UTM tiles of about 100 km, as cloud-optimised GeoTIFFs.",
+			"keywords": [
+				"Sentinel-1",
+				"monthly mosaic",
+				"backscatter",
+				"terrain flattening",
+				"compositing"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "CF1938a",
 			"type": "article",
 			"title": "Moments and Cumulants in the Specification of Distributions",
@@ -10388,6 +10466,73 @@
 			"open_access": true
 		},
 		{
+			"key": "CRABV...2023a",
+			"type": "article",
+			"title": "The 50-year Landsat collection 2 archive",
+			"authors": [
+				"Crawford, Christopher J.",
+				"Roy, David P.",
+				"Arab, Saeed",
+				"Barnes, Christopher",
+				"Vermote, Eric",
+				"Hulley, Glynn",
+				"Gerace, Aaron",
+				"Choate, Mike",
+				"Engebretson, Christopher",
+				"Micijevic, Esad",
+				"Schmidt, Gail",
+				"Anderson, Cody",
+				"Anderson, Martha",
+				"Bouchard, Michelle",
+				"Cook, Bruce",
+				"Dittmeier, Ray",
+				"Howard, Danny",
+				"Jenkerson, Calli",
+				"Kim, Minsu",
+				"Kleyians, Tania",
+				"Maiersperger, Thomas",
+				"Mueller, Chase",
+				"Neigh, Christopher",
+				"Owen, Linda",
+				"Page, Benjamin",
+				"Pahlevan, Nima",
+				"Rengarajan, Rajagopalan",
+				"Roger, Jean-Claude",
+				"Sayler, Kristi",
+				"Scaramuzza, Pat",
+				"Skakun, Sergii",
+				"Yan, Lin",
+				"Zhang, Hankui K.",
+				"Zhu, Zhe",
+				"Zahn, Steve"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"journal": "Science of Remote Sensing",
+			"volume": "8",
+			"pages": "100103",
+			"issn": "2666-0172",
+			"doi": "10.1016/j.srs.2023.100103",
+			"url": "https://doi.org/10.1016/j.srs.2023.100103",
+			"openalex": "W4386840203",
+			"oa_url": "https://doi.org/10.1016/j.srs.2023.100103",
+			"source": "crossref",
+			"abstract": "The Landsat global consolidated data archive now exceeds 50 years. In recognition of the need for consistently processed data across the Landsat satellite series, the United States Geological Survey (USGS) initiated collection-based processing of the entire archive that was processed as Collection 1 in 2016. In preparation for the data from the now successfully launched Landsat 9, the USGS reprocessed the Landsat archive as Collection 2 in 2020. This paper describes the rationale for, and the contents and advancements provided by Collection 2, and highlights the differences between the Collection 1 and Collection 2 products. Notably, the Collection 2 products have improved geolocation and, for the first time, the USGS provides a global inventory of Level 2 surface reflectance and surface temperature products. Also for the first time, the USGS used a commercial cloud computing architecture via Amazon Web Services (AWS) to efficiently process the archive and enable direct cloud access of the Landsat products. The paper concludes with discussion of likely improvements expected in Collection 3 in preparation for the Landsat Next mission that is planned for launch in the early 2030s.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Landsat Collection 2",
+				"Landsat 9",
+				"cloud computing",
+				"Amazon Web Services",
+				"satellite data archive"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "CRBD2018a",
 			"type": "misc",
 			"title": "Neural Ordinary Differential Equations",
@@ -12135,6 +12280,55 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "DDCCF...2012a",
+			"type": "article",
+			"title": "Sentinel-2: ESA's Optical High-Resolution Mission for GMES Operational Services",
+			"authors": [
+				"Drusch, M.",
+				"Del Bello, U.",
+				"Carlier, S.",
+				"Colin, O.",
+				"Fernandez, V.",
+				"Gascon, F.",
+				"Hoersch, B.",
+				"Isola, C.",
+				"Laberinti, P.",
+				"Martimort, P.",
+				"Meygret, A.",
+				"Spoto, F.",
+				"Sy, O.",
+				"Marchese, F.",
+				"Bargellini, P."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"journal": "Remote Sensing of Environment",
+			"volume": "120",
+			"pages": "25--36",
+			"issn": "0034-4257",
+			"doi": "10.1016/j.rse.2011.11.026",
+			"url": "https://doi.org/10.1016/j.rse.2011.11.026",
+			"openalex": "W2056435747",
+			"source": "crossref",
+			"keywords": [
+				"Sentinel-2",
+				"GMES",
+				"high-resolution Earth observation",
+				"revisit time",
+				"land cover mapping",
+				"land change detection",
+				"geophysical variables",
+				"image quality"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false,
+			"abstract": "Global Monitoring for Environment and Security (GMES) is a joint initiative of the European Commission (EC) and the European Space Agency (ESA), designed to establish a European capacity for the provision and use of operational monitoring information for environment and security applications. ESA's role in GMES is to provide the definition and the development of the space- and ground-related system elements. GMES Sentinel-2 mission provides continuity to services relying on multi-spectral high-resolution optical observations over global terrestrial surfaces. The key mission objectives for Sentinel-2 are: (1) To provide systematic global acquisitions of high-resolution multi-spectral imagery with a high revisit frequency, (2) to provide enhanced continuity of multi-spectral imagery provided by the SPOT (Satellite Pour l'Observation de la Terre) series of satellites, and (3) to provide observations for the next generation of operational products such as land-cover maps, land change detection maps, and geophysical variables. Consequently, Sentinel-2 will directly contribute to the Land Monitoring, Emergency Response, and Security services. The corresponding user requirements have driven the design toward a dependable multi-spectral Earth-observation system featuring the Multi Spectral Instrument (MSI) with 13 spectral bands spanning from the visible and the near infrared to the short wave infrared. The spatial resolution varies from 10m to 60m depending on the spectral band with a 290km field of view. This unique combination of high spatial resolution, wide field of view and spectral coverage will represent a major step forward compared to current multi-spectral missions. The mission foresees a series of satellites, each having a 7.25-year lifetime over a 15-year period starting with the launch of Sentinel-2A foreseen in 2013. During full operations two identical satellites will be maintained in the same orbit with a phase delay of 180° providing a revisit time of five days at the equator. This paper provides an overview of the GMES Sentinel-2 mission including a technical system concept overview, image quality, Level 1 data processing and operational applications.",
+			"abstract_source": "europepmc"
 		},
 		{
 			"key": "DDFLH1990a",
@@ -14821,6 +15015,35 @@
 			"keywords_source": "manual"
 		},
 		{
+			"key": "EC2013a",
+			"type": "misc",
+			"title": "Commission Delegated Regulation (EU) No 1159/2013 of 12 July 2013 supplementing Regulation (EU) No 911/2010 of the European Parliament and of the Council on the European Earth monitoring programme (GMES) by establishing registration and licensing conditions for GMES users and defining criteria for restricting access to GMES dedicated data and GMES service information",
+			"authors": [
+				"European Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "Official Journal of the European Union",
+			"number": "L 309",
+			"pages": "1--6",
+			"url": "https://eur-lex.europa.eu/eli/reg_del/2013/1159/oj",
+			"abstract": "The data policy of the Copernicus programme, then GMES: the data of the Sentinel missions and the information of its services are made available on a full, open and free-of-charge basis, for any lawful use, subject to registration where required and to the conditions of the regulation, with criteria for restricting access for reasons of security or of the rights of third parties.",
+			"keywords": [
+				"Copernicus",
+				"GMES",
+				"data policy",
+				"open data",
+				"Sentinel"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "EC2023a",
 			"type": "misc",
 			"title": "Commission Delegated Regulation (EU) 2023/674 of 26 December 2022 amending the Annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)",
@@ -15619,6 +15842,60 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "EROSC2017a",
+			"type": "misc",
+			"title": "Shuttle Radar Topography Mission (SRTM) 1 Arc-Second Global",
+			"authors": [
+				"Earth Resources Observation and Science (EROS) Center"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2017,
+			"doi": "10.5066/F7PR7TFT",
+			"url": "https://doi.org/10.5066/F7PR7TFT",
+			"abstract": "The elevation data of the Shuttle Radar Topography Mission, flown aboard the space shuttle Endeavour in February 2000, at a resolution of 1 arc-second, about 30 m, for the land between 60 degrees north and 56 degrees south, distributed by the USGS EROS Center through EarthExplorer as tiles of 1 by 1 degree.",
+			"keywords": [
+				"SRTM",
+				"digital elevation model",
+				"Shuttle Radar Topography Mission",
+				"EarthExplorer",
+				"elevation"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "EROSC2020a",
+			"type": "misc",
+			"title": "Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2",
+			"authors": [
+				"Earth Resources Observation and Science (EROS) Center"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2020,
+			"doi": "10.5066/P9OGBGM6",
+			"url": "https://doi.org/10.5066/P9OGBGM6",
+			"abstract": "The Collection 2 Level-2 science products of Landsat 8 and Landsat 9, surface reflectance and surface temperature with their quality assessment bands, distributed by the USGS EROS Center through EarthExplorer, the Machine-to-Machine API and commercial clouds.",
+			"keywords": [
+				"Landsat 8",
+				"Landsat 9",
+				"Collection 2",
+				"Level-2",
+				"EarthExplorer"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "ES1993a",
@@ -16917,6 +17194,58 @@
 			"open_access": true
 		},
 		{
+			"key": "FRCCD...2007a",
+			"type": "article",
+			"title": "The Shuttle Radar Topography Mission",
+			"authors": [
+				"Farr, Tom G.",
+				"Rosen, Paul A.",
+				"Caro, Edward",
+				"Crippen, Robert",
+				"Duren, Riley",
+				"Hensley, Scott",
+				"Kobrick, Michael",
+				"Paller, Mimi",
+				"Rodriguez, Ernesto",
+				"Roth, Ladislav",
+				"Seal, David",
+				"Shaffer, Scott",
+				"Shimada, Joanne",
+				"Umland, Jeffrey",
+				"Werner, Marian",
+				"Oskin, Michael",
+				"Burbank, Douglas",
+				"Alsdorf, Douglas"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2007,
+			"journal": "Reviews of Geophysics",
+			"volume": "45",
+			"number": "2",
+			"issn": "8755-1209",
+			"doi": "10.1029/2005RG000183",
+			"url": "https://doi.org/10.1029/2005RG000183",
+			"openalex": "W2084744129",
+			"oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005RG000183",
+			"source": "crossref",
+			"abstract": "The Shuttle Radar Topography Mission produced the most complete, highest‐resolution digital elevation model of the Earth. The project was a joint endeavor of NASA, the National Geospatial‐Intelligence Agency, and the German and Italian Space Agencies and flew in February 2000. It used dual radar antennas to acquire interferometric radar data, processed to digital topographic data at 1 arc sec resolution. Details of the development, flight operations, data processing, and products are provided for users of this revolutionary data set.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"SRTM",
+				"digital elevation model",
+				"radar interferometry",
+				"satellite altimetry",
+				"topographic mapping",
+				"radar data processing",
+				"flight operations"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "FRWZ2016a",
 			"type": "article",
 			"title": "Perturbation methods for Markov-switching dynamic stochastic general equilibrium models: Perturbation for Markov-switching DSGE models",
@@ -17026,6 +17355,50 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "FSGZD...2017a",
+			"type": "article",
+			"title": "Cloud detection algorithm comparison and validation for operational Landsat data products",
+			"authors": [
+				"Foga, Steve",
+				"Scaramuzza, Pat L.",
+				"Guo, Song",
+				"Zhu, Zhe",
+				"Dilley, Ronald D.",
+				"Beckmann, Tim",
+				"Schmidt, Gail L.",
+				"Dwyer, John L.",
+				"Joseph Hughes, M.",
+				"Laue, Brady"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "Remote Sensing of Environment",
+			"volume": "194",
+			"pages": "379--390",
+			"issn": "0034-4257",
+			"doi": "10.1016/j.rse.2017.03.026",
+			"url": "https://doi.org/10.1016/j.rse.2017.03.026",
+			"openalex": "W2605847660",
+			"oa_url": "https://www.sciencedirect.com/science/article/am/pii/S0034425717301293",
+			"source": "crossref",
+			"keywords": [
+				"cloud detection",
+				"Landsat",
+				"Landsat 8 OLI/TIRS",
+				"Landsat 7 ETM+",
+				"algorithm comparison",
+				"thermal infrared",
+				"stray light"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract": "Clouds are a pervasive and unavoidable issue in satellite-borne optical imagery. Accurate, well-documented, and automated cloud detection algorithms are necessary to effectively leverage large collections of remotely sensed data. The Landsat project is uniquely suited for comparative validation of cloud assessment algorithms because the modular architecture of the Landsat ground system allows for quick evaluation of new code, and because Landsat has the most comprehensive manual truth masks of any current satellite data archive. Currently, the Landsat Level-1 Product Generation System (LPGS) uses separate algorithms for determining clouds, cirrus clouds, and snow and/or ice probability on a per-pixel basis. With more bands onboard the Landsat 8 Operational Land Imager (OLI)/Thermal Infrared Sensor (TIRS) satellite, and a greater number of cloud masking algorithms, the U.S. Geological Survey (USGS) is replacing the current cloud masking workflow with a more robust algorithm that is capable of working across multiple Landsat sensors with minimal modification. Because of the inherent error from stray light and intermittent data availability of TIRS, these algorithms need to operate both with and without thermal data. In this study, we created a workflow to evaluate cloud and cloud shadow masking algorithms using cloud validation masks manually derived from both Landsat 7 Enhanced Thematic Mapper Plus (ETM+) and Landsat 8 OLI/TIRS data. We created a new validation dataset consisting of 96 Landsat 8 scenes, representing different biomes and proportions of cloud cover. We evaluated algorithm performance by overall accuracy, omission error, and commission error for both cloud and cloud shadow. We found that CFMask, C code based on the Function of Mask (Fmask) algorithm, and its confidence bands have the best overall accuracy among the many algorithms tested using our validation data. The Artificial Thermal-Automated Cloud Cover Algorithm (AT-ACCA) is the most accurate nonthermal-based algorithm. We give preference to CFMask for operational cloud and cloud shadow detection, as it is derived from a priori knowledge of physical phenomena and is operable without geographic restriction, making it useful for current and future land imaging missions without having to be retrained in a machine-learning environment.",
+			"abstract_source": "europepmc"
 		},
 		{
 			"key": "FSK2005a",
@@ -34912,6 +35285,45 @@
 			"open_access": false
 		},
 		{
+			"key": "MPLDM...2017a",
+			"type": "inproceedings",
+			"title": "Sen2Cor for Sentinel-2",
+			"authors": [
+				"Main-Knorn, Magdalena",
+				"Pflug, Bringfried",
+				"Louis, Jerome",
+				"Debaecker, Vincent",
+				"Müller-Wilm, Uwe",
+				"Gascon, Ferran"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"booktitle": "Proceedings of SPIE, Image and Signal Processing for Remote Sensing XXIII",
+			"pages": "1042704",
+			"doi": "10.1117/12.2278218",
+			"url": "https://doi.org/10.1117/12.2278218",
+			"openalex": "W2597944323",
+			"source": "crossref",
+			"abstract": "In the frame of the Copernicus programme, ESA has developed and launched the Sentinel-2 optical imaging mission that delivers optical data products designed to feed downstream services mainly related to land monitoring, emergency management and security. The Sentinel-2 mission is the constellation of two polar orbiting satellites Sentinel-2A and Sentinel-2B, each one equipped with an optical imaging sensor MSI (Multi-Spectral Instrument). Sentinel-2A was launched on June 23rd, 2015 and Sentinel-2B followed on March 7th, 2017. With the beginning of the operational phase the constellation of both satellites enable image acquisition over the same area every 5 days or less. To use unique potential of the Sentinel-2 data for land applications and ensure the highest quality of scientific exploitation, accurate correction of satellite images for atmospheric effects is required. Therefore the atmospheric correction processor Sen2Cor was developed by Telespazio VEGA Deutschland GmbH on behalf of ESA. Sen2Cor is a Level-2A processor which main purpose is to correct single-date Sentinel-2 Level-1C Top-Of-Atmosphere (TOA) products from the effects of the atmosphere in order to deliver a Level-2A Bottom-Of-Atmosphere (BOA) reflectance product. Additional outputs are an Aerosol Optical Thickness (AOT) map, a Water Vapour (WV) map and a Scene Classification (SCL) map with Quality Indicators for cloud and snow probabilities. Telespazio France and DLR have teamed up in order to provide the calibration and validation of the Sen2Cor processor. Here we provide an overview over the Sentinel-2 data, processor and products. It presents some processing examples of Sen2Cor applied to Sentinel-2 data, provides up-to-date information about the Sen2Cor release status and recent validation results at the time of the SPIE Remote Sensing 2017.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Sen2Cor",
+				"Sentinel-2",
+				"atmospheric correction",
+				"bottom-of-atmosphere reflectance",
+				"aerosol optical depth",
+				"water vapor",
+				"scene classification",
+				"Level 2A products"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false,
+			"volume": "10427"
+		},
+		{
 			"key": "MR2018a",
 			"type": "article",
 			"title": "Optim: A mathematical optimization package for Julia",
@@ -35704,6 +36116,43 @@
 			"retrieved": "2026-11-03",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "MWMMC...2020a",
+			"type": "article",
+			"title": "Landsat 9: Empowering open science and applications through continuity",
+			"authors": [
+				"Masek, Jeffrey G.",
+				"Wulder, Michael A.",
+				"Markham, Brian",
+				"McCorkel, Joel",
+				"Crawford, Christopher J.",
+				"Storey, James",
+				"Jenstrom, Del T."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "Remote Sensing of Environment",
+			"volume": "248",
+			"pages": "111968",
+			"issn": "0034-4257",
+			"doi": "10.1016/j.rse.2020.111968",
+			"url": "https://doi.org/10.1016/j.rse.2020.111968",
+			"openalex": "W3045331167",
+			"source": "crossref",
+			"keywords": [
+				"Landsat 9",
+				"open science",
+				"grounding systems",
+				"data products"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false,
+			"abstract": "The history of Earth observation from space is well reflected through the Landsat program. With data collection beginning with Landsat-1 in 1972, the program has evolved technical capabilities while maintaining continuity of land observations. In so doing, Landsat has provided a critical reference for assessing long-term changes to Earth's land environment due to both natural and human forcing. Poised for launch in mid-2021, the joint NASA-USGS Landsat 9 mission will continue this important data record. In many respects Landsat 9 is a clone of Landsat-8. The Operational Land Imager-2 (OLI-2) is largely identical to Landsat 8 OLI, providing calibrated imagery covering the solar reflected wavelengths. The Thermal Infrared Sensor-2 (TIRS-2) improves upon Landsat 8 TIRS, addressing known issues including stray light incursion and a malfunction of the instrument scene select mirror. In addition, Landsat 9 adds redundancy to TIRS-2, thus upgrading the instrument to a 5-year design life commensurate with other elements of the mission. Initial performance testing of OLI-2 and TIRS-2 indicate that the instruments are of excellent quality and expected to match or improve on Landsat 8 data quality. Landsat-9 will maintain the current data acquisition rate of up to 740 scenes per day, with these scenes available from the Landsat archive at no cost to users. In this communication, we provide background and rationale for the Landsat 9 mission, describe the instrument payloads and ground system, and discuss data products available from the Landsat 9 mission through USGS.",
+			"abstract_source": "semanticscholar"
 		},
 		{
 			"key": "MWTLM2011a",
@@ -46723,6 +47172,32 @@
 			"open_access": true
 		},
 		{
+			"key": "STACC2023a",
+			"type": "misc",
+			"title": "STAC API Specification, version 1.0.0",
+			"authors": [
+				"STAC Contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2023,
+			"url": "https://github.com/radiantearth/stac-api-spec",
+			"abstract": "The SpatioTemporal Asset Catalog (STAC) API: a web API, built on OGC API - Features, for searching catalogues of spatiotemporal assets such as satellite images by collection, bounding box, time and properties, returning items as GeoJSON features in pages linked to the next, each item with links to its assets.",
+			"keywords": [
+				"STAC",
+				"SpatioTemporal Asset Catalog",
+				"search API",
+				"OGC API - Features",
+				"satellite imagery"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "STGV2016a",
 			"type": "article",
 			"title": "Increasing Transparency Through a Multiverse Analysis",
@@ -48063,6 +48538,70 @@
 			"open_access": false
 		},
 		{
+			"key": "Sma2011a",
+			"type": "article",
+			"title": "Flattening Gamma: Radiometric Terrain Correction for SAR Imagery",
+			"authors": [
+				"Small, David"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2011,
+			"journal": "IEEE Transactions on Geoscience and Remote Sensing",
+			"volume": "49",
+			"number": "8",
+			"pages": "3081--3093",
+			"issn": "0196-2892",
+			"doi": "10.1109/TGRS.2011.2120616",
+			"url": "https://doi.org/10.1109/TGRS.2011.2120616",
+			"openalex": "W2169087452",
+			"source": "crossref",
+			"abstract": "Enabling intercomparison of synthetic aperture radar (SAR) imagery acquired from different sensors or acquisition modes requires accurate modeling of not only the geometry of each scene, but also of systematic influences on the radiometry of individual scenes. Terrain variations affect not only the position of a given point on the Earth's surface but also the brightness of the radar return as expressed in radar geometry. Without treatment, the hill-slope modulations of the radiometry threaten to overwhelm weaker thematic land cover induced backscatter differences, and comparison of backscatter from multiple satellites, modes, or tracks loses meaning. The ASAR & PALSAR sensors provide state vectors and timing with higher absolute accuracy than was previously available, allowing them to directly support accurate tie-point-free geolocation and radiometric normalization of their imagery. Given accurate knowledge of the acquisition geometry of a SAR image together with a digital height model (DHM) of the area imaged, radiometric image simulation is applied to estimate the local illuminated area for each point in the image. Ellipsoid-based or sigma naught (σ0) based incident angle approximations that fail to reproduce the effect of topographic variation in their sensor model are contrasted with a new method that integrates terrain variations with the concept of gamma naught (γ0) backscatter, converting directly from beta naught (β0) to a newly introduced terrain-flattened γ0normalization convention. The interpretability of imagery treated in this manner is improved in comparison to processing based on conventional ellipsoid or local incident angle based σ0normalization.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"synthetic aperture radar",
+				"radiometric normalization",
+				"ASAR",
+				"ALOS PALSAR",
+				"geolocation"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Sma2012a",
+			"type": "inproceedings",
+			"title": "SAR backscatter multitemporal compositing via local resolution weighting",
+			"authors": [
+				"Small, David"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"booktitle": "2012 IEEE International Geoscience and Remote Sensing Symposium",
+			"pages": "4521--4524",
+			"doi": "10.1109/IGARSS.2012.6350465",
+			"url": "https://doi.org/10.1109/IGARSS.2012.6350465",
+			"openalex": "W1995086094",
+			"source": "crossref",
+			"abstract": "A method is presented for generating composite SAR imagery from a set of multiple radiometrically terrain-corrected (RTC) backscatter images and their co-registered local illuminated areas. The process is implemented in map geometry: the resolution of each image is estimated locally as the inverse of the local contributing area and used to weight the contributions from all available observations. Some potential contributors could be out-of-swath or occluded by radar shadow. The resulting composite backscatter image can trade off temporal resolution for improved local spatial resolution while simultaneously increasing the local number of looks. The composite image is characterized by more homogenous properties (resolution, noise) in comparison to single acquisitions. The technique is demonstrated using ScanSAR data from ENVISAT ASAR and Radarsat-2.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"multi-temporal SAR",
+				"ScanSAR",
+				"ENVISAT ASAR",
+				"RADARSAT-2",
+				"radar shadow",
+				"image co-registration"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Smi...2024a",
 			"type": "misc",
 			"title": "FredData.jl: A Julia interface to the St. Louis Fed FRED API",
@@ -49004,6 +49543,61 @@
 			"open_access": false
 		},
 		{
+			"key": "TSGBD...2012a",
+			"type": "article",
+			"title": "GMES Sentinel-1 mission",
+			"authors": [
+				"Torres, Ramon",
+				"Snoeij, Paul",
+				"Geudtner, Dirk",
+				"Bibby, David",
+				"Davidson, Malcolm",
+				"Attema, Evert",
+				"Potin, Pierre",
+				"Rommen, BjÖrn",
+				"Floury, Nicolas",
+				"Brown, Mike",
+				"Traver, Ignacio Navas",
+				"Deghaye, Patrick",
+				"Duesmann, Berthyl",
+				"Rosich, Betlem",
+				"Miranda, Nuno",
+				"Bruno, Claudio",
+				"L'Abbate, Michelangelo",
+				"Croci, Renato",
+				"Pietropaolo, Andrea",
+				"Huchler, Markus",
+				"Rostan, Friedhelm"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"journal": "Remote Sensing of Environment",
+			"volume": "120",
+			"pages": "9--24",
+			"issn": "0034-4257",
+			"doi": "10.1016/j.rse.2011.05.028",
+			"url": "https://doi.org/10.1016/j.rse.2011.05.028",
+			"openalex": "W1984670836",
+			"source": "crossref",
+			"keywords": [
+				"Sentinel-1",
+				"synthetic aperture radar",
+				"polar-orbiting satellites",
+				"data quality",
+				"uncertainty estimation",
+				"maritime surveillance",
+				"ice monitoring",
+				"subsidence detection"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false,
+			"abstract": "In the frame of the Global Monitoring for Environment and Security (GMES) Space Component programme, the European Space Agency (ESA) undertook the development of a European Radar Observatory (Sentinel-1), a polar orbiting two-satellite constellation for the continuation and improvement of SAR operational services and applications. Satellite and payload are being built to provide routine, day-and-night, all-weather medium (typically 10m) resolution observation capability. Ground infrastructure is provided for planning, mission control, data processing, dissemination and archiving. Free and open data access is provided. Data quality of the Sentinel-1 data products is shown along with uncertainty estimation of retrieved information products confirming specified performance and indicating application growth potential. The unique data availability performance of the Sentinel-1 routine operations makes the mission particularly suitable for emergency response support, marine surveillance, ice monitoring and interferometric applications such as detection of subsidence and landslides.",
+			"abstract_source": "europepmc"
+		},
+		{
 			"key": "TSGPK...2019a",
 			"type": "article",
 			"title": "Improved inference of time-varying reproduction numbers during infectious disease outbreaks",
@@ -49711,6 +50305,43 @@
 			"open_access": true
 		},
 		{
+			"key": "Tuc1979a",
+			"type": "article",
+			"title": "Red and photographic infrared linear combinations for monitoring vegetation",
+			"authors": [
+				"Tucker, Compton J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1979,
+			"journal": "Remote Sensing of Environment",
+			"volume": "8",
+			"number": "2",
+			"pages": "127--150",
+			"issn": "0034-4257",
+			"doi": "10.1016/0034-4257(79)90013-0",
+			"url": "https://doi.org/10.1016/0034-4257(79)90013-0",
+			"openalex": "W2063623478",
+			"oa_url": "https://ntrs.nasa.gov/api/citations/19780024582/downloads/19780024582.pdf",
+			"source": "crossref",
+			"keywords": [
+				"vegetation monitoring",
+				"vegetation indices",
+				"leaf water content",
+				"chlorophyll content",
+				"leaf biomass",
+				"green leaf area",
+				"canopy reflectance",
+				"spectral radiance"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract": "The relationships between various linear combinations of red and photographic infrared radiances and vegetation parameters are investigated. In situ spectrometers are used to measure the relationships between linear combinations of red and IR radiances, their ratios and square roots, and biomass, leaf water content and chlorophyll content of a grass canopy in June, September and October. Regression analysis shows red-IR combinations to be more significant than green-red combinations. The IR/red ratio, the square root of the IR/red ratio, the vegetation index (IR-red difference divided by their sum) and the transformed vegetation index (the square root of the vegetation index + 0.5) are found to be sensitive to the amount of photosynthetically active vegetation. The accumulation of dead vegetation over the year is found to have a linearizing effect on the various vegetation measures.",
+			"abstract_source": "ntrs"
+		},
+		{
 			"key": "Tuc1988a",
 			"type": "book",
 			"title": "Introduction to Theoretical Neurobiology: Volume 2, Nonlinear and Stochastic Theories",
@@ -49809,6 +50440,85 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "USGS2024a",
+			"type": "misc",
+			"title": "Landsat 8-9 Collection 2 (C2) Level 2 Science Product (L2SP) Guide, version 6.0",
+			"authors": [
+				"U.S. Geological Survey"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2024,
+			"number": "LSDS-1619",
+			"url": "https://www.usgs.gov/media/files/landsat-8-collection-2-level-2-science-product-guide",
+			"abstract": "The guide to the Collection 2 Level-2 science products of Landsat 8 and Landsat 9: surface reflectance from the Land Surface Reflectance Code and surface temperature from the thermal band, their file names, data types, fill values, valid ranges, and the scale factors and offsets that turn their stored integers into reflectance and kelvin, with the quality assessment bands and their bits.",
+			"keywords": [
+				"Landsat 8",
+				"Landsat 9",
+				"Collection 2",
+				"surface reflectance",
+				"surface temperature"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "USGS2025a",
+			"type": "misc",
+			"title": "M2M Application Token Documentation",
+			"authors": [
+				"U.S. Geological Survey"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2025,
+			"url": "https://www.usgs.gov/media/files/m2m-application-token-documentation",
+			"abstract": "How to generate and use an application token for the USGS Machine-to-Machine API: the token is created in the user's EROS Registration System profile and sent with the user's name to the login-token endpoint, in place of the password; the login endpoint with a password was deprecated in February 2025.",
+			"keywords": [
+				"USGS",
+				"Machine-to-Machine API",
+				"application token",
+				"authentication",
+				"EROS Registration System"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "USGS2026a",
+			"type": "misc",
+			"title": "Machine-to-Machine (M2M) API",
+			"authors": [
+				"U.S. Geological Survey"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://m2m.cr.usgs.gov/",
+			"abstract": "The Machine-to-Machine API of the USGS Earth Resources Observation and Science (EROS) Center: a JSON API with the same datasets and functions as EarthExplorer, to search datasets and scenes by area, time and metadata, list the download options of scenes, and request downloads, authenticated by an API key obtained with the user's name and an application token; access to it is requested from the user's EROS Registration System profile.",
+			"keywords": [
+				"USGS",
+				"EarthExplorer",
+				"Machine-to-Machine API",
+				"Landsat",
+				"download"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "Uhl1991a",
@@ -50220,6 +50930,43 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "VJCF2016a",
+			"type": "article",
+			"title": "Preliminary analysis of the performance of the Landsat 8/OLI land surface reflectance product",
+			"authors": [
+				"Vermote, Eric",
+				"Justice, Chris",
+				"Claverie, Martin",
+				"Franch, Belen"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Remote Sensing of Environment",
+			"volume": "185",
+			"pages": "46--56",
+			"issn": "0034-4257",
+			"doi": "10.1016/j.rse.2016.04.008",
+			"url": "https://doi.org/10.1016/j.rse.2016.04.008",
+			"openalex": "W2344328155",
+			"source": "crossref",
+			"keywords": [
+				"surface reflectance",
+				"atmospheric correction",
+				"aerosols",
+				"thermal infrared",
+				"broadband albedo",
+				"AERONET validation",
+				"aerosol retrieval"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"abstract": "The surface reflectance, i.e., satellite derived top of atmosphere (TOA) reflectance corrected for the temporally, spatially and spectrally varying scattering and absorbing effects of atmospheric gases and aerosols, is needed to monitor the land surface reliably. For this reason, the surface reflectance, and not TOA reflectance, is used to generate the greater majority of global land products, for example, from the Moderate Resolution Imaging Spectroradiometer (MODIS) and Visible Infrared Imaging Radiometer Suite (VIIRS) sensors. Even if atmospheric effects are minimized by sensor design, atmospheric effects are still challenging to correct. In particular, the strong impact of aerosols in the Visible and Near Infrared spectral range can be difficult to correct, because they can be highly discrete in space and time (e.g., smoke plumes) and because of the complex scattering and absorbing properties of aerosols that vary spectrally and with aerosol size, shape, chemistry and density. This paper presents the Landsat 8 Operational Land Imager (OLI) atmospheric correction algorithm that has been developed using the Second Simulation of the Satellite Signal in the Solar Spectrum Vectorial (6SV) model, refined to take advantage of the narrow OLI spectral bands (compared to Thematic Mapper/Enhanced Thematic Mapper (TM/ETM+)), improved radiometric resolution and signal-to-noise. In addition, the algorithm uses the new OLI Coastal aerosol band (0.433-0.450μm), which is particularly helpful for retrieving aerosol properties, as it covers shorter wavelengths than the conventional Landsat, TM and ETM+ blue bands. A cloud and cloud shadow mask has also been developed using the \"cirrus\" band (1.360-1.390 μm) available on OLI, and the thermal infrared bands from the Thermal Infrared Sensor (TIRS) instrument. The performance of the surface reflectance product from OLI is analyzed over the Aerosol Robotic Network (AERONET) sites using accurate atmospheric correction (based on in situ measurements of the atmospheric properties), by comparison with the MODIS Bidirectional Reflectance Distribution Function (BRDF) adjusted surface reflectance product and by comparison of OLI derived broadband albedo from United States Surface Radiation Budget Network (US SURFRAD) measurements.",
+			"abstract_source": "europepmc"
 		},
 		{
 			"key": "VL2009a",
