@@ -2413,6 +2413,33 @@
 			"open_access": true
 		},
 		{
+			"key": "BA2026a",
+			"type": "misc",
+			"title": "Pendlerverflechtungen der sozialversicherungspflichtig Beschäftigten nach Kreisen",
+			"authors": [
+				"Statistik der Bundesagentur für Arbeit"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://statistik.arbeitsagentur.de/",
+			"abstract": "Tables of the employment statistics of the Federal Employment Agency (Bundesagentur für Arbeit) of commuters among employees subject to social insurance contributions, by district (Kreis) of residence and of work, for out-commuters (Auspendler) and in-commuters (Einpendler), annually on 30 June. The employment statistics count as commuters those whose place of work lies outside the municipality, district or state of their place of residence, whether or how often they actually travel there; employees who live and work in the same district are not commuters.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Pendler",
+				"commuters",
+				"Kreise",
+				"districts",
+				"Beschäftigungsstatistik",
+				"Germany"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BB1968a",
 			"type": "article",
 			"title": "An Empirical Evaluation of Accounting Income Numbers",
@@ -4551,6 +4578,33 @@
 			"source": "crossref",
 			"retrieved": "2026-11-11",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "BKG2026a",
+			"type": "misc",
+			"title": "Verwaltungsgebiete 1:250 000 (VG250)",
+			"authors": [
+				"Bundesamt für Kartographie und Geodäsie"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-stand-01-01-vg250-01-01.html",
+			"abstract": "The administrative areas of Germany at a scale of 1:250 000 from the Federal Agency for Cartography and Geodesy (BKG): the administrative levels from the state down to the municipalities with their boundaries, as of 1 January, with the official regional key of each area. They are also served through a WFS of the BKG.",
+			"abstract_source": "manual",
+			"keywords": [
+				"VG250",
+				"administrative areas",
+				"Kreise",
+				"boundaries",
+				"WFS",
+				"Germany"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -8083,6 +8137,61 @@
 			"open_access": true
 		},
 		{
+			"key": "CBS2026a",
+			"type": "misc",
+			"title": "Werknemersbanen en reisafstand; woon- en werkregio",
+			"authors": [
+				"Centraal Bureau voor de Statistiek"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "Table 85481NED",
+			"url": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85481NED/table",
+			"abstract": "StatLine table 85481NED of Statistics Netherlands (CBS): the number of jobs of employees by region of residence and region of work, and the road distance between the centres of the neighbourhood, district or municipality of the home and of the work location. The figures refer to the whole month of December; they are available from 2021 and are all provisional. The table is published through the CBS open data OData service.",
+			"abstract_source": "manual",
+			"keywords": [
+				"jobs of employees",
+				"region of residence",
+				"region of work",
+				"commuting distance",
+				"Netherlands",
+				"StatLine"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "CBS2026b",
+			"type": "misc",
+			"title": "CBS Gebiedsindelingen 2016 t/m heden",
+			"authors": [
+				"Centraal Bureau voor de Statistiek"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://api.pdok.nl/cbs/gebiedsindelingen/ogc/v1",
+			"abstract": "The regional divisions of Statistics Netherlands (CBS) from 2016 onwards, served by PDOK as an OGC API: municipalities, provinces, neighbourhoods, districts, COROP regions, NUTS regions, labour market regions and other divisions, each by year, in a detailed and a generalised version, with the code and name of each area.",
+			"abstract_source": "manual",
+			"keywords": [
+				"CBS",
+				"PDOK",
+				"municipalities",
+				"regional divisions",
+				"boundaries",
+				"Netherlands"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "CC1959a",
 			"type": "article",
 			"title": "Chance Constrained Programming",
@@ -11457,6 +11566,32 @@
 			"legacy_key": "cranmer2020",
 			"source": "datacite",
 			"retrieved": "2026-10-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "CSD2026a",
+			"type": "misc",
+			"title": "2021 Population Census (Statistics and Boundaries of District Council Districts)",
+			"authors": [
+				"Census and Statistics Department"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://portal.csdi.gov.hk/",
+			"abstract": "A dataset of the Census and Statistics Department of Hong Kong, published on the portal of the Common Spatial Data Infrastructure (CSDI), with statistics of the 2021 Population Census on the demographic, household, educational, economic, housing and internal migration characteristics of the population residing in each of the 18 District Council districts, and the boundaries of the districts. The economic characteristics include the working population by place of work.",
+			"abstract_source": "manual",
+			"keywords": [
+				"2021 Population Census",
+				"District Council districts",
+				"place of work",
+				"CSDI",
+				"Hong Kong"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": true
 		},
@@ -15126,6 +15261,32 @@
 			"open_access": true
 		},
 		{
+			"key": "DfT2026a",
+			"type": "misc",
+			"title": "Road Traffic Statistics: Annual Average Daily Flows",
+			"authors": [
+				"Department for Transport"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://roadtraffic.dft.gov.uk/downloads",
+			"abstract": "The road traffic statistics of the Department for Transport of Great Britain at count point level: the annual average daily flow of each count point in each year, the number of vehicles that travel past it on an average day, by type of vehicle (pedal cycles, two-wheeled motor vehicles, cars and taxis, buses and coaches, light goods vehicles and heavy goods vehicles), with the road, the position and whether the flow was counted that year or estimated. Downloads are offered by count point, local authority and region.",
+			"abstract_source": "manual",
+			"keywords": [
+				"annual average daily flow",
+				"count points",
+				"road traffic",
+				"vehicle types",
+				"Great Britain"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Die1975a",
 			"type": "article",
 			"title": "An Algorithm for Smoothing, Differentiation and Integration of Experimental Data Using Spline Functions",
@@ -18522,6 +18683,33 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "GAG2026a",
+			"type": "misc",
+			"title": "API Découpage administratif",
+			"authors": [
+				"geo.api.gouv.fr"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://geo.api.gouv.fr/decoupage-administratif",
+			"abstract": "A public API of the French government to search and locate the communes, associated and delegated communes, EPCI, departments and regions of France and to obtain information on them. The communes endpoint also returns the municipal arrondissements of Paris, Lyon and Marseille, and returns their contours as GeoJSON on request.",
+			"abstract_source": "manual",
+			"keywords": [
+				"communes",
+				"arrondissements",
+				"administrative boundaries",
+				"API",
+				"GeoJSON",
+				"France"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "GAHPM...2025a",
@@ -26244,6 +26432,33 @@
 			"keywords_source": "manual"
 		},
 		{
+			"key": "INSEE2026a",
+			"type": "misc",
+			"title": "Mobilités professionnelles en 2022 : déplacements domicile - lieu de travail",
+			"authors": [
+				"Institut national de la statistique et des études économiques"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://www.insee.fr/fr/statistiques/8582949",
+			"abstract": "The flow base of the 2022 population census of INSEE on journeys between home and place of work: the number of employed people aged 15 and over by commune of residence and commune of work, with Paris, Lyon and Marseille divided into their municipal arrondissements. It is published as a CSV file of origin and destination communes and their flows.",
+			"abstract_source": "manual",
+			"keywords": [
+				"recensement de la population",
+				"mobilités professionnelles",
+				"domicile-travail",
+				"communes",
+				"France",
+				"INSEE"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "IOCTF2013a",
 			"type": "misc",
 			"title": "Technical Guidance for the implementation of INSPIRE Download Services, version 3.1",
@@ -30875,6 +31090,41 @@
 			"open_access": true
 		},
 		{
+			"key": "LBR2016a",
+			"type": "article",
+			"title": "Systematic comparison of trip distribution laws and models",
+			"authors": [
+				"Lenormand, Maxime",
+				"Bassolas, Aleix",
+				"Ramasco, José J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Journal of Transport Geography",
+			"volume": "51",
+			"pages": "158-169",
+			"issn": "0966-6923",
+			"doi": "10.1016/j.jtrangeo.2015.12.008",
+			"url": "https://doi.org/10.1016/j.jtrangeo.2015.12.008",
+			"openalex": "W630650518",
+			"oa_url": "https://arxiv.org/pdf/1506.04889",
+			"source": "crossref",
+			"abstract": "Trip distribution laws are basic for the travel demand characterization needed in transport and urban planning. Several approaches have been considered in the last years. One of them is the so-called gravity law, in which the number of trips is assumed to be related to the population at origin and destination and to decrease with the distance. The mathematical expression of this law resembles Newton's law of gravity, which explains its name. Another popular approach is inspired by the theory of intervening opportunities which argues that the distance has no effect on the destination choice, playing only the role of a surrogate for the number of intervening opportunities between them. In this paper, we perform a thorough comparison between these two approaches in their ability at estimating commuting flows by testing them against empirical trip data at different scales and coming from different countries. Different versions of the gravity and the intervening opportunities laws, including the recently proposed radiation law, are used to estimate the probability that an individual has to commute from one unit to another, called trip distribution law. Based on these probability distribution laws, the commuting networks are simulated with different trip distribution models. We show that the gravity law performs better than the intervening opportunities laws to estimate the commuting flows, to preserve the structure of the network and to fit the commuting distance distribution although it fails at predicting commuting flows at large distances. Finally, we show that the different approaches can be used in the absence of detailed data for calibration since their only parameter depends only on the scale of the geographic unit.",
+			"abstract_source": "arxiv",
+			"keywords": [
+				"trip distribution",
+				"gravity law",
+				"intervening opportunities",
+				"radiation law",
+				"commuting flows"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "LCBP1999a",
 			"type": "article",
 			"title": "Noise Dressing of Financial Correlation Matrices",
@@ -32748,6 +32998,33 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "LTA2026a",
+			"type": "misc",
+			"title": "LTA DataMall",
+			"authors": [
+				"Land Transport Authority"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://datamall.lta.gov.sg/content/datamall/en.html",
+			"abstract": "The open data portal of the Land Transport Authority of Singapore, whose static and dynamic datasets are served by an API that needs a free account key. Its datasets include the bus stops, with their codes and positions, and the passenger volume by origin and destination bus stops, the monthly tap-in and tap-out trips by type of day and hour, of which the last three months are kept.",
+			"abstract_source": "manual",
+			"keywords": [
+				"DataMall",
+				"bus stops",
+				"passenger volume",
+				"origin-destination",
+				"API",
+				"Singapore"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "LTDZ2002a",
@@ -38851,6 +39128,84 @@
 			"open_access": true
 		},
 		{
+			"key": "NYCDCP2026a",
+			"type": "misc",
+			"title": "2020 Neighborhood Tabulation Areas (NTAs)",
+			"authors": [
+				"New York City Department of City Planning"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.cityofnewyork.us/d/9nt8-h7nd",
+			"abstract": "The 2020 Neighborhood Tabulation Areas of New York City, from the Department of City Planning on NYC Open Data: medium-sized statistical geographies for reporting Decennial Census and American Community Survey data, made by aggregating 2020 census tracts and nested within Community District Tabulation Areas. Their boundaries and names roughly correspond to many neighbourhoods recognised by New Yorkers, but they are not intended to define neighbourhoods.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Neighborhood Tabulation Areas",
+				"NTA",
+				"New York City",
+				"census tracts",
+				"NYC Open Data"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "NYCDCP2026b",
+			"type": "misc",
+			"title": "2020 Census Tracts",
+			"authors": [
+				"New York City Department of City Planning"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.cityofnewyork.us/d/63ge-mke6",
+			"abstract": "The census tracts of the 2020 US Census for New York City, clipped to the shoreline, from the Department of City Planning on NYC Open Data. They are derived from the TIGER files of the US Census Bureau and fitted to the New York City base map; tracts entirely under water are left out. Each tract carries the code of the 2020 Neighborhood Tabulation Area it is in.",
+			"abstract_source": "manual",
+			"keywords": [
+				"census tracts",
+				"New York City",
+				"TIGER",
+				"NYC Open Data",
+				"Neighborhood Tabulation Areas"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "NYCDOT2026a",
+			"type": "misc",
+			"title": "Automated Traffic Volume Counts",
+			"authors": [
+				"New York City Department of Transportation"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.cityofnewyork.us/d/7ym2-wayt",
+			"abstract": "Traffic sample volume counts at bridge crossings and roadways, collected by the New York City Department of Transportation with Automated Traffic Recorders, by street segment, direction and quarter of an hour, on NYC Open Data. The counts do not cover the entire year, and the number of days counted at a location may vary from year to year.",
+			"abstract_source": "manual",
+			"keywords": [
+				"traffic counts",
+				"Automated Traffic Recorders",
+				"street segments",
+				"NYC Open Data",
+				"New York City"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "NYSM2012a",
 			"type": "article",
 			"title": "Estimating the transmission potential of supercritical processes based on the final size distribution of minor outbreaks",
@@ -39828,6 +40183,59 @@
 			"open_access": true
 		},
 		{
+			"key": "ONS2026a",
+			"type": "misc",
+			"title": "Origin-Destination Data, England and Wales: Census 2021",
+			"authors": [
+				"Office for National Statistics"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://www.nomisweb.co.uk/sources/census_2021_od",
+			"abstract": "The origin-destination tables of Census 2021 for England and Wales, published through Nomis. Table ODWP01EW gives the usual residents aged 16 and over in employment by middle layer super output area (MSOA) of usual residence and MSOA of workplace, with a place of work indicator that separates those who work mainly at or from home, those with a workplace in the United Kingdom, those who work offshore or outside the United Kingdom, and those to whom the question does not apply. The census was taken on 21 March 2021.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Census 2021",
+				"origin-destination",
+				"place of work",
+				"commuting",
+				"MSOA",
+				"England and Wales"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "ONS2026b",
+			"type": "misc",
+			"title": "Middle Layer Super Output Areas (December 2021) Boundaries EW BSC (V3)",
+			"authors": [
+				"Office for National Statistics"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://geoportal.statistics.gov.uk/",
+			"abstract": "The boundaries of the middle layer super output areas (MSOAs) of England and Wales as of December 2021, generalised and clipped to the coastline (BSC), from the Open Geography Portal of the Office for National Statistics, with the code and name of each area. MSOAs are statistical areas built from lower layer super output areas, with between 2,000 and 6,000 households each, and are the areas of the Census 2021 origin-destination tables of workplace.",
+			"abstract_source": "manual",
+			"keywords": [
+				"MSOA",
+				"boundaries",
+				"Census 2021",
+				"Open Geography Portal",
+				"England and Wales"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "OSC2015a",
 			"type": "article",
 			"title": "Estimating the reproducibility of psychological science",
@@ -39849,6 +40257,37 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "OSL2023a",
+			"type": "misc",
+			"title": "Crowdsourced air traffic data from The OpenSky Network 2020",
+			"authors": [
+				"Olive, Xavier",
+				"Strohmeier, Martin",
+				"Lübbe, Jannis"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"publisher": "Zenodo",
+			"note": "Dataset, version v23.00",
+			"doi": "10.5281/zenodo.7923702",
+			"url": "https://doi.org/10.5281/zenodo.7923702",
+			"source": "datacite",
+			"abstract": "The data in this dataset is derived and cleaned from the full OpenSky dataset to illustrate the development of air traffic during the COVID-19 pandemic. It spans all flights seen by the network's more than 2500 members since 1 January 2019. More data has been periodically included in the dataset until the end of the COVID-19 pandemic. We stopped updating the dataset after December 2022. Origin and destination airports are computed online based on the ADS-B trajectories on approach/takeoff: no crosschecking with external sources of data has been conducted. Fields origin or destination are empty when no airport could be found. Aircraft information come from the OpenSky aircraft database. One file per month is provided as a csv file.",
+			"abstract_source": "zenodo",
+			"keywords": [
+				"OpenSky Network",
+				"air traffic",
+				"flights",
+				"ADS-B",
+				"COVID-19"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "OSMF2026a",
@@ -40372,6 +40811,31 @@
 			"oa_url": "http://openjournals.wu.ac.at/ojs/index.php/region/article/download/175/122",
 			"source": "openalex",
 			"abstract": "This primer provides a practical guide to get started with spatial interaction modeling using the SpInt module in the python spatial analysis library (PySAL)."
+		},
+		{
+			"key": "Our2026a",
+			"type": "misc",
+			"title": "OurAirports Open Data",
+			"authors": [
+				"OurAirports"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://ourairports.com/data/",
+			"abstract": "Open-data downloads of OurAirports, updated daily: CSV files of the airports of the world, with their identifiers, names, kinds, positions, countries and municipalities, and of their runways, frequencies and navigation aids, and of countries and regions. The data are edited by the users of the OurAirports site.",
+			"abstract_source": "manual",
+			"keywords": [
+				"airports",
+				"ICAO codes",
+				"open data",
+				"CSV"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "PB1995a",
@@ -46171,6 +46635,34 @@
 			"legacy_key": "shale2006"
 		},
 		{
+			"key": "SBJ2026a",
+			"type": "misc",
+			"title": "統計地理情報システム 境界データ: 令和2年国勢調査 小地域",
+			"authors": [
+				"Statistics Bureau of Japan"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "Boundary data of the small areas of the 2020 Population Census",
+			"url": "https://www.e-stat.go.jp/gis/statmap-search?type=2",
+			"abstract": "Boundary data of the small areas (cho-cho and aza) of the 2020 Population Census of Japan, from the statistical geographic information system of e-Stat, the portal site of official statistics of Japan, by prefecture, as shapefiles in the Japanese Geodetic Datum 2011, with the prefecture and municipality codes of each small area.",
+			"abstract_source": "manual",
+			"keywords": [
+				"e-Stat",
+				"small areas",
+				"boundaries",
+				"Population Census 2020",
+				"shapefile",
+				"Japan"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "SBM1996a",
 			"type": "inproceedings",
 			"title": "Pivoted document length normalization",
@@ -47371,6 +47863,45 @@
 			"open_access": true
 		},
 		{
+			"key": "SOLSL2021a",
+			"type": "article",
+			"title": "Crowdsourced air traffic data from the OpenSky Network 2019–2020",
+			"authors": [
+				"Strohmeier, Martin",
+				"Olive, Xavier",
+				"Lübbe, Jannis",
+				"Schäfer, Matthias",
+				"Lenders, Vincent"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "Earth System Science Data",
+			"volume": "13",
+			"number": "2",
+			"pages": "357-366",
+			"issn": "1866-3516",
+			"doi": "10.5194/essd-13-357-2021",
+			"url": "https://doi.org/10.5194/essd-13-357-2021",
+			"openalex": "W4206721098",
+			"oa_url": "https://essd.copernicus.org/articles/13/357/2021/essd-13-357-2021.pdf",
+			"source": "crossref",
+			"abstract": "The OpenSky Network is a non-profit association that crowdsources the global collection of live air traffic control data broadcast by aircraft and makes them available to researchers. OpenSky's data have been used by over 100 academic groups in the past 5 years, with popular research applications ranging from improved weather forecasting to climate analysis. With the COVID-19 outbreak, the demand for live and historic aircraft flight data has surged. Researchers around the world use air traffic data to comprehend the spread of the pandemic and analyse the effects of the global containment measures on economies, climate and other systems. With this work, we present a comprehensive air traffic dataset, derived and enriched from the full OpenSky data and made publicly available for the first time (Olive et al., 2020; https://doi.org/10.5281/zenodo.3931948, last access: 9 February 2021). It spans all flights seen by the network's more than 3500 members between 1 January 2019 and 1 July 2020. The archive is being updated every month and for the first 18 months includes 41 900 660 flights, from 160 737 aircraft, which were seen to frequent 13 934 airports in 127 countries.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"OpenSky Network",
+				"air traffic",
+				"crowdsourcing",
+				"ADS-B",
+				"flight dataset",
+				"COVID-19"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "SP1973a",
 			"type": "article",
 			"title": "The Logic of Animal Conflict",
@@ -48072,6 +48603,40 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "SSLMW2014a",
+			"type": "inproceedings",
+			"title": "Bringing up OpenSky: A large-scale ADS-B sensor network for research",
+			"authors": [
+				"Schäfer, Matthias",
+				"Strohmeier, Martin",
+				"Lenders, Vincent",
+				"Martinovic, Ivan",
+				"Wilhelm, Matthias"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2014,
+			"booktitle": "IPSN-14 Proceedings of the 13th International Symposium on Information Processing in Sensor Networks",
+			"pages": "83-94",
+			"doi": "10.1109/IPSN.2014.6846743",
+			"url": "https://doi.org/10.1109/IPSN.2014.6846743",
+			"openalex": "W4243683928",
+			"source": "crossref",
+			"abstract": "Automatic Dependent Surveillance-Broadcast (ADS-B) is one of the key components of the next generation air transportation system. Since ADS-B will become mandatory by 2020 for most airspaces, it is important that aspects such as capacity, applications, and security are investigated by an independent research community. However, large-scale real-world data was previously only accessible to a few closed industrial and governmental groups because it required specialized and expensive equipment. To enable researchers to conduct experimental studies based on real data, we developed OpenSky, a sensor network based on low-cost hardware connected over the Internet. OpenSky is based on off-the-shelf ADS-B sensors distributed to volunteers throughout Central Europe. It covers 720,000 km2, is able to capture more than 30% of the commercial air traffic in Europe, and enables researchers to analyze billions of ADS-B messages. In this paper, we report on the challenges we faced during the development and deployment of this participatory network and the insights we gained over the last two years of operations as a service to academic research groups. We go on to provide real-world insights about the possibilities and limitations of such low-cost sensor networks concerning air traffic surveillance and further applications such as multilateration.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"OpenSky",
+				"ADS-B",
+				"sensor network",
+				"air traffic surveillance",
+				"multilateration"
+			],
+			"keywords_source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "SSM1983a",
@@ -50639,6 +51204,32 @@
 			"open_access": true
 		},
 		{
+			"key": "TLC2026a",
+			"type": "misc",
+			"title": "TLC Trip Record Data",
+			"authors": [
+				"New York City Taxi and Limousine Commission"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+			"abstract": "The trip records of the New York City Taxi and Limousine Commission, by month, as Parquet files: yellow and green taxi trip records include fields capturing pickup and drop-off dates and times, pickup and drop-off locations as taxi zones, trip distances, itemized fares, rate types, payment types and driver-reported passenger counts. The taxi zones are published with them as a shapefile.",
+			"abstract_source": "manual",
+			"keywords": [
+				"taxi trips",
+				"trip records",
+				"taxi zones",
+				"Parquet",
+				"New York City"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "TMB2002a",
 			"type": "article",
 			"title": "Animation: can it facilitate?",
@@ -50661,6 +51252,33 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "TMG2026a",
+			"type": "misc",
+			"title": "国勢調査による東京都の昼間人口（従業地・通学地による人口）",
+			"authors": [
+				"Tokyo Metropolitan Government"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "Daytime population of Tokyo by the population census, 2020",
+			"url": "https://www.toukei.metro.tokyo.lg.jp/tyukanj/tj-index.htm",
+			"abstract": "Tables of the Tokyo Metropolitan Government on the daytime population of Tokyo from the population census, the population by place of work or school, for the 2020 census and earlier ones. They include the workers and students commuting between the municipalities of Tokyo, by municipality of residence and municipality of work or school.",
+			"abstract_source": "manual",
+			"keywords": [
+				"daytime population",
+				"population census",
+				"commuting",
+				"municipalities",
+				"Tokyo"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "TN2011a",
@@ -51396,6 +52014,59 @@
 			"open_access": true
 		},
 		{
+			"key": "TfL2026a",
+			"type": "misc",
+			"title": "Santander Cycles Journey Data",
+			"authors": [
+				"Transport for London"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://cycling.data.tfl.gov.uk/",
+			"abstract": "The usage statistics of Santander Cycles, the cycle hire scheme of Transport for London, published as CSV files of journeys, each covering a part of a month: for each journey, its start and end dates and times, its start and end docking stations, the bike and its duration.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Santander Cycles",
+				"bike sharing",
+				"journeys",
+				"docking stations",
+				"London",
+				"TfL open data"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "TfL2026b",
+			"type": "misc",
+			"title": "Unified API: BikePoint",
+			"authors": [
+				"Transport for London"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://api.tfl.gov.uk/",
+			"abstract": "The BikePoint resource of the Unified API of Transport for London: the docking stations of Santander Cycles with their names, positions and terminal numbers, and the bikes and docks available.",
+			"abstract_source": "manual",
+			"keywords": [
+				"BikePoint",
+				"Unified API",
+				"docking stations",
+				"Santander Cycles",
+				"London"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "The1986a",
 			"type": "article",
 			"title": "Spurious dimension from correlation algorithms applied to limited time-series data",
@@ -51763,6 +52434,60 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "URA2026a",
+			"type": "misc",
+			"title": "Master Plan 2025 Planning Area Boundary (No Sea)",
+			"authors": [
+				"Urban Redevelopment Authority"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.gov.sg/datasets/d_2cc750190544007400b2cfd5d7f53209/view",
+			"abstract": "An indicative polygon of each planning area boundary of Singapore, with the sea area excluded, from the Urban Redevelopment Authority on data.gov.sg. To facilitate urban planning, the Urban Redevelopment Authority divides Singapore into regions and planning areas; the Master Plan is a forward-looking guiding plan for Singapore's development over the next 10 to 15 years, and its planning boundaries may not coincide with existing developments for some areas.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Master Plan 2025",
+				"planning areas",
+				"boundaries",
+				"data.gov.sg",
+				"Singapore"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "USCB2026a",
+			"type": "misc",
+			"title": "LEHD Origin-Destination Employment Statistics (LODES)",
+			"authors": [
+				"U.S. Census Bureau"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"note": "Version 8",
+			"url": "https://lehd.ces.census.gov/data/",
+			"abstract": "Data of the Longitudinal Employer-Household Dynamics (LEHD) program of the U.S. Census Bureau on where people work and where they live: the origin-destination files of LODES count jobs by census block of residence and census block of work, for each state and year, for all jobs and by type of job, with counts by age, earnings and industry. Version 8 uses the census blocks of 2020.",
+			"abstract_source": "manual",
+			"keywords": [
+				"LODES",
+				"LEHD",
+				"origin-destination",
+				"jobs",
+				"census blocks",
+				"United States"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "USGS2024a",
@@ -52523,6 +53248,57 @@
 			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "VdP2026a",
+			"type": "misc",
+			"title": "Comptage routier - Données trafic issues des capteurs permanents",
+			"authors": [
+				"Ville de Paris"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://opendata.paris.fr/explore/dataset/comptages-routiers-permanents/",
+			"abstract": "Road traffic data from the permanent sensors of the Paris road network over a rolling 13 months, published daily by the Direction de la Voirie et des Déplacements of the Ville de Paris. Traffic is measured mostly by electromagnetic loops in the roadway, on more than 3000 road sections; for each section and hour, the data give the occupancy rate, the time vehicles are present on the loop as a percentage of the hour, and the flow, the number of vehicles that passed.",
+			"abstract_source": "manual",
+			"keywords": [
+				"comptage routier",
+				"traffic counts",
+				"electromagnetic loops",
+				"road sections",
+				"Paris"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "VdP2026b",
+			"type": "misc",
+			"title": "Comptage routier - Référentiel géographique",
+			"authors": [
+				"Ville de Paris"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://opendata.paris.fr/explore/dataset/referentiel-comptages-routiers/",
+			"abstract": "The geographic reference of the road sections (arcs) of the Paris network that carry the permanent traffic sensors, from the Direction de la Voirie et des Déplacements of the Ville de Paris. The traffic data are joined to it by the identifier of the section.",
+			"abstract_source": "manual",
+			"keywords": [
+				"référentiel",
+				"road sections",
+				"traffic sensors",
+				"Paris"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Vei1965a",
