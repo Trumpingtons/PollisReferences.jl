@@ -7406,6 +7406,42 @@
 			"abstract_source": "arxiv"
 		},
 		{
+			"key": "Boe2019a",
+			"type": "article",
+			"title": "Urban Spatial Order: Street Network Orientation, Configuration, and Entropy",
+			"authors": [
+				"Boeing, Geoff"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"journal": "Applied Network Science",
+			"volume": "4",
+			"number": "1",
+			"issn": "2364-8228",
+			"doi": "10.1007/s41109-019-0189-1",
+			"url": "https://doi.org/10.1007/s41109-019-0189-1",
+			"openalex": "W2885593706",
+			"oa_url": "https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-019-0189-1",
+			"source": "crossref",
+			"abstract": "Street networks may be planned according to clear organizing principles or they may evolve organically through accretion, but their configurations and orientations help define a city’s spatial logic and order. Measures of entropy reveal a city’s streets’ order and disorder. Past studies have explored individual cases of orientation and entropy, but little is known about broader patterns and trends worldwide. This study examines street network orientation, configuration, and entropy in 100 cities around the world using OpenStreetMap data and OSMnx. It measures the entropy of street bearings in weighted and unweighted network models, along with each city’s typical street segment length, average circuity, average node degree, and the network’s proportions of four-way intersections and dead-ends. It also develops a new indicator of orientation-order that quantifies how a city’s street network follows the geometric ordering logic of a single grid. A cluster analysis is performed to explore similarities and differences among these study sites in multiple dimensions. Significant statistical relationships exist between city orientation-order and other indicators of spatial order, including street circuity and measures of connectedness. On average, US/Canadian study sites are far more grid-like than those elsewhere, exhibiting less entropy and circuity. These indicators, taken in concert, help reveal the extent and nuance of the grid. These methods demonstrate automatic, scalable, reproducible tools to empirically measure and visualize city spatial order, illustrating complex urban transportation system patterns and configurations around the world.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"street networks",
+				"network entropy",
+				"node degree",
+				"four-way intersection",
+				"dead ends",
+				"cross-city comparison",
+				"OpenStreetMap"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true,
+			"pages": "67"
+		},
+		{
 			"key": "Boe2020a",
 			"type": "misc",
 			"title": "GLFixedEffectModels.jl: Fast Estimation of Generalized Linear Models with High-Dimensional Fixed Effects in Julia",
@@ -7583,6 +7619,42 @@
 			"url": "https://www.nicolasboumal.net/book",
 			"legacy_key": "boumal2023",
 			"source": "manual",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Bra2001a",
+			"type": "article",
+			"title": "A faster algorithm for betweenness centrality",
+			"authors": [
+				"Brandes, Ulrik"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2001,
+			"journal": "The Journal of Mathematical Sociology",
+			"volume": "25",
+			"number": "2",
+			"pages": "163--177",
+			"issn": "0022-250X",
+			"doi": "10.1080/0022250X.2001.9990249",
+			"url": "https://doi.org/10.1080/0022250X.2001.9990249",
+			"openalex": "W2171707538",
+			"oa_url": "https://kops.uni-konstanz.de/server/api/core/bitstreams/420590d1-3010-4eab-a585-6fa3eff46f9e/content",
+			"source": "crossref",
+			"abstract": "Motivated by the fast‐growing need to compute centrality indices on large, yet very sparse, networks, new algorithms for betweenness are introduced in this paper. They require O(n + m) space and run in O(nm) and O(nm + n2 log n) time on unweighted and weighted networks, respectively, where m is the number of links. Experimental evidence is provided that this substantially increases the range of networks for which centrality analysis is feasible. The betweenness centrality index is essential in the analysis of social networks, but costly to compute. Currently, the fastest known algorithms require Θ(n³) time and Θ(n²) space, where n is the number of actors in the network.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"betweenness centrality",
+				"sparse networks",
+				"weighted networks",
+				"unweighted networks",
+				"computational complexity",
+				"social network analysis",
+				"large-scale networks"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": true
 		},
@@ -18374,6 +18446,39 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "Fre1977a",
+			"type": "article",
+			"title": "A Set of Measures of Centrality Based on Betweenness",
+			"authors": [
+				"Freeman, Linton C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1977,
+			"journal": "Sociometry",
+			"volume": "40",
+			"number": "1",
+			"pages": "35--41",
+			"issn": "0038-0431",
+			"doi": "10.2307/3033543",
+			"url": "https://doi.org/10.2307/3033543",
+			"openalex": "W1971937094",
+			"source": "crossref",
+			"abstract": "A family of new measures of point and graph centrality based on early intuitions of Bavelas (1948) is introduced. These measures define centrality in terms of the degree to which a point falls on the shortest path between others and there fore has a potential for control of communication. They may be used to index centrality in any large or small network of symmetrical relations, whether connected or unconnected.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"network centrality",
+				"betweenness centrality",
+				"graph centrality",
+				"shortest path",
+				"network analysis"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "Fre2026a",
@@ -40372,6 +40477,42 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "PCL2006a",
+			"type": "article",
+			"title": "The Network Analysis of Urban Streets: A Primal Approach",
+			"authors": [
+				"Porta, Sergio",
+				"Crucitti, Paolo",
+				"Latora, Vito"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2006,
+			"journal": "Environment and Planning B: Planning and Design",
+			"volume": "33",
+			"number": "5",
+			"pages": "705--725",
+			"issn": "0265-8135",
+			"doi": "10.1068/b32045",
+			"url": "https://doi.org/10.1068/b32045",
+			"openalex": "W2153154621",
+			"source": "crossref",
+			"abstract": "The network metaphor in the analysis of urban and territorial cases has a long tradition, especially in transportation or land-use planning and economic geography. More recently, urban design has brought its contribution by means of the ‘space syntax’ methodology. All these approaches-though under different terms like ‘accessibility’, ‘proximity’, ‘integration’ ‘connectivity’, ‘cost’, or ‘effort’-focus on the idea that some places (or streets) are more important than others because they are more central. The study of centrality in complex systems, however, originated in other scientific areas, namely in structural sociology, well before its use in urban studies; moreover, as a structural property of the system, centrality has never been extensively investigated metrically in geographic networks as it has been topologically in a wide range of other relational networks such as social, biological, or technological ones. After a previous work on some structural properties of the primal graph representation of urban street networks, in this paper we provide an in-depth investigation of centrality in the primal approach as compared with the dual one. We introduce multiple centrality assessment (MCA), a methodology for geographic network analysis, which is defined and implemented on four 1-square-mile urban street systems. MCA provides a different perspective from space syntax in that: (1) it is based on primal, rather than dual, street graphs; (2) it works within a metric, rather than topological, framework; (3) it investigates a plurality of peer centrality indices rather than a single index. We show that, in the MCA primal approach, much more than in the dual approach, some centrality indices nicely capture the ‘skeleton’ of the urban structure that impacts so much on spatial cognition and collective behaviours. Moreover, the distributions of centrality in self-organized cities are different from those in planned cities.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"urban road networks",
+				"centrality",
+				"dual graph",
+				"urban structure",
+				"planned cities",
+				"spatial cognition"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "PCMV2015a",
