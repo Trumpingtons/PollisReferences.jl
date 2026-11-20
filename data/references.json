@@ -40437,6 +40437,33 @@
 			"open_access": true
 		},
 		{
+			"key": "OSN2026a",
+			"type": "misc",
+			"title": "The OpenSky REST API",
+			"authors": [
+				"The OpenSky Network"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://openskynetwork.github.io/opensky-api/rest.html",
+			"abstract": "Documentation of the REST API of the OpenSky Network: the state vectors of the aircraft its receivers see, for the whole network or a bounding box, with the transponder address, callsign, position, altitudes, velocity, track, vertical rate, position source and category of each; the flights in a time interval, of an aircraft, and arriving at or departing from an airport, with the estimated airports of departure and arrival; and the track of an aircraft as waypoints. It sets out the OAuth2 client credentials flow of authentication, the time limits of anonymous and authenticated users, and the daily credits of each kind of request by tier.",
+			"abstract_source": "manual",
+			"keywords": [
+				"OpenSky Network",
+				"ADS-B",
+				"state vectors",
+				"flights",
+				"tracks",
+				"API"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "OSV2008a",
 			"type": "article",
 			"title": "Optimal and Approximate Q-value Functions for Decentralized POMDPs",
