@@ -15825,6 +15825,147 @@
 			"open_access": true
 		},
 		{
+			"key": "EEA2019a",
+			"type": "misc",
+			"title": "CORINE Land Cover 2018 (vector), Europe, 6-yearly - version 2020_20u1, May 2020",
+			"authors": [
+				"European Environment Agency"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2019,
+			"publisher": "European Environment Agency",
+			"doi": "10.2909/71c95a07-e296-44fc-b22b-415f42acfdf0",
+			"url": "https://doi.org/10.2909/71c95a07-e296-44fc-b22b-415f42acfdf0",
+			"abstract": "Corine Land Cover 2018 (CLC2018) is one of the Corine Land Cover (CLC) datasets produced within the frame the Copernicus Land Monitoring Service referring to land cover / land use status of year 2018. CLC service has a long-time heritage (formerly known as \"CORINE Land Cover Programme\"), coordinated by the European Environment Agency (EEA). It provides consistent and thematically detailed information on land cover and land cover changes across Europe. CLC datasets are based on the classification of satellite images produced by the national teams of the participating countries - the EEA members and cooperating countries (EEA39). National CLC inventories are then further integrated into a seamless land cover map of Europe. The resulting European database relies on standard methodology and nomenclature with following base parameters: 44 classes in the hierarchical 3-level CLC nomenclature; minimum mapping unit (MMU) for status layers is 25 hectares; minimum width of linear elements is 100 metres. Change layers have higher resolution, i.e. minimum mapping unit (MMU) is 5 hectares for Land Cover Changes (LCC), and the minimum width of linear elements is 100 metres. The CLC service delivers important data sets supporting the implementation of key priority areas of the Environment Action Programmes of the European Union as e.g. protecting ecosystems, halting the loss of biological diversity, tracking the impacts of climate change, monitoring urban land take, assessing developments in agriculture or dealing with water resources directives. CLC belongs to the Pan-European component of the Copernicus Land Monitoring Service (https://land.copernicus.eu/), part of the European Copernicus Programme coordinated by the European Environment Agency, providing environmental information from a combination of air- and space-based observation systems and in-situ monitoring. Additional information about CLC product description including mapping guides can be found at https://land.copernicus.eu/user-corner/technical-library/. CLC class descriptions can be found at https://land.copernicus.eu/user-corner/technical-library/corine-land-cover-nomenclature-guidelines/html/.",
+			"abstract_source": "datacite",
+			"keywords": [
+				"CORINE Land Cover",
+				"land cover",
+				"land use",
+				"Copernicus",
+				"land monitoring",
+				"satellite image interpretation"
+			],
+			"keywords_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "EEA2020a",
+			"type": "misc",
+			"title": "Imperviousness Density 2018 (raster 10 m), Europe, 3-yearly, Aug. 2020",
+			"authors": [
+				"European Environment Agency"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "European Environment Agency",
+			"doi": "10.2909/3bf542bd-eebd-4d73-b53c-a0243f2ed862",
+			"url": "https://doi.org/10.2909/3bf542bd-eebd-4d73-b53c-a0243f2ed862",
+			"abstract": "The High Resolution Layer on Imperviousness Density 2018 is a thematic product showing the sealing density in the range from 0-100% for the period 2018 (including data from 2017-2019) for the EEA-38 area and the United Kingdom. The production of the high resolution imperviousness layers is coordinated by EEA in the frame of the EU Copernicus programme. The high resolution imperviousness products capture the percentage and change of soil sealing. Built-up areas are characterized by the substitution of the original (semi-) natural land cover or water surface with an artificial, often impervious cover. These artificial surfaces are usually maintained over long periods of time. A series of high resolution imperviousness datasets (for the 2006, 2009, 2012, 2015 and 2018 reference years) with all artificially sealed areas was produced using automatic derivation based on calibrated Normalized Difference Vegetation Index (NDVI). This series of imperviousness layers constitutes the main status layers. They are per-pixel estimates of impermeable cover of soil (soil sealing) and are mapped as the degree of imperviousness (0-100%). Imperviousness change layers were produced as a difference between the reference years (2006-2009, 2009-2012, 2012-2015, 2015-2018 and additionally 2006-2012, to fully match the CORINE Land Cover production cycle) and are presented 1) as degree of imperviousness change (-100% -- +100%), in 20m and 100m pixel size, and 2) a classified (categorical) 20m change product. Data is provided as 10 meter rasters (fully conformant with the EEA reference grid) in 100 x 100 km tiles grouped according to the EEA38 countries and the United Kingdom.",
+			"abstract_source": "datacite",
+			"keywords": [
+				"imperviousness",
+				"soil sealing",
+				"sealing density",
+				"High Resolution Layer",
+				"Copernicus",
+				"land cover"
+			],
+			"keywords_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "EEA2020b",
+			"type": "misc",
+			"title": "Tree Cover Density 2018 (raster 10 m), Europe, 3-yearly, Sep. 2020",
+			"authors": [
+				"European Environment Agency"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "European Environment Agency",
+			"doi": "10.2909/486f77da-d605-423e-93a9-680760ab6791",
+			"url": "https://doi.org/10.2909/486f77da-d605-423e-93a9-680760ab6791",
+			"abstract": "This metadata refers to the HRL Forest 2018 primary status layer Tree Cover Density (TCD). The TCD raster product provides information on the proportional crown coverage per pixel at 10m spatial resolution and ranges from 0% (all non-tree covered areas) to 100%, whereby Tree Cover Density is defined as the \"vertical projection of tree crowns to a horizontal earth’s surface“. The production of the High Resolution Forest layers was coordinated by the European Environment Agency (EEA) in the frame of the EU Copernicus programme. The HRL Forest product consists of 3 types of (status) products and additional change products. The status products are available for 2012, 2015, and 2018 reference years: 1. Tree cover density (TCD) (level of tree cover density in a range from 0-100%) 2. Dominant leaf type (DLT) (broadleaved or coniferous majority) 3. Forest type product (FTY). The forest type product allows to get as close as possible to the FAO forest definition. In its original (10m (2018) / 20m (2012, 2015)) resolution it consists of two products: a dominant leaf type product that has a MMU of 0.5 ha, as well as a 10% tree cover density threshold applied, and 2) a support layer that maps (now only available on demand), based on the dominant leaf type product, trees under agricultural use and in urban context (derived from CLC and imperviousness 2009 data). For the final 100 m product trees under agricultural use and urban context from the support layer are removed. NEW for 2018: the 10m 2018 reference year FTY product now also has the agricultural/urban trees removed. In the past this was done only for the 100m product, now it is consistently applied for both the 10m and the 100m FTY products. This dataset is provided as 10 meter rasters (fully conformant with the EEA reference grid) in 100 x 100 km tiles grouped according to the EEA38 countries and the United Kingdom.",
+			"abstract_source": "datacite",
+			"keywords": [
+				"tree cover density",
+				"forest",
+				"High Resolution Layer",
+				"Copernicus",
+				"land cover"
+			],
+			"keywords_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "EEA2020c",
+			"type": "misc",
+			"title": "Grassland 2018 (raster 10 m), Europe, 3-yearly, Aug. 2020",
+			"authors": [
+				"European Environment Agency"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "European Environment Agency",
+			"doi": "10.2909/60639d5b-9164-4135-ae93-fb4132bb6d83",
+			"url": "https://doi.org/10.2909/60639d5b-9164-4135-ae93-fb4132bb6d83",
+			"abstract": "The High Resolution Layer (HRL) Grassland 2018 raster product provides a basic land cover classification with 2 thematic classes (grassland / non-grassland) at 10m spatial resolution, covering the EEA38 area and the United Kingdom. The production of the High Resolution grassland layers was coordinated by the European Environment Agency (EEA) in the frame of the EU Copernicus programme. This is the main High Resolution grassland product. This grassy and non-woody vegetation baseline product includes all kinds of grasslands: managed grassland, semi-natural grassland and natural grassy vegetation. It is a binary status layer for the 2015 reference year mapping grassland and all non-grassland areas in 20m and (aggregated) 100m pixel size and, for the 2018 reference year, in 10m and (aggregated) 100m pixel size. The dataset for this product is provided as 10 meter rasters in 100 x 100 km tiles (fully conformant with EEA reference grid) grouped according to the EEA38 countries and the United Kingdom.",
+			"abstract_source": "datacite",
+			"keywords": [
+				"grassland",
+				"High Resolution Layer",
+				"Copernicus",
+				"land cover"
+			],
+			"keywords_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "EEA2020d",
+			"type": "misc",
+			"title": "Water and Wetness 2018 (raster 10 m), Europe, 3-yearly - version 2, Nov. 2020",
+			"authors": [
+				"European Environment Agency"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "European Environment Agency",
+			"doi": "10.2909/7992f641-bf77-47b7-b0c1-74fc832b78b1",
+			"url": "https://doi.org/10.2909/7992f641-bf77-47b7-b0c1-74fc832b78b1",
+			"abstract": "The Copernicus High Resolution Water and Wetness (WAW) 2018 layer is a thematic product showing the occurrence of water and wet surfaces over the period from 2012 to 2018 for the EEA38 area and the United Kingdom. Two products are available: - The main Water and Wetness (WAW) product, with defined classes of (1) permanent water, (2) temporary water, (3) permanent wetness and (4) temporary wetness. - The additional expert product: Water and Wetness Probability Index (WWPI). The products show the occurrence of water and indicate the degree of wetness in a physical sense, assessed independently of the actual vegetation cover and are thus not limited to a specific land cover class and their relative frequencies. The production of the High Resolution Water and Wetness layers was coordinated by the European Environment Agency (EEA) in the frame of the EU Copernicus programme. The dataset is provided as 10 meter rasters in 100 x 100 km tiles grouped according to the EEA38 countries and the United Kingdom (fully conformant with the EEA reference grid).",
+			"abstract_source": "datacite",
+			"keywords": [
+				"water and wetness",
+				"wetness",
+				"High Resolution Layer",
+				"Copernicus",
+				"land cover"
+			],
+			"keywords_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "EG1987a",
 			"type": "article",
 			"title": "Co-Integration and Error Correction: Representation, Estimation, and Testing",
@@ -16280,6 +16421,32 @@
 			"source": "arxiv",
 			"retrieved": "2026-11-19",
 			"checked": false
+		},
+		{
+			"key": "EOX2026a",
+			"type": "misc",
+			"title": "EOxCloudless: Sentinel-2 Cloudless Mosaics",
+			"authors": [
+				"EOX IT Services GmbH"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://cloudless.eox.at",
+			"abstract": "EOxCloudless is global, cloud-free satellite imagery derived from Copernicus Sentinel-2 data, processed annually to provide the most recent data. The yearly mosaics, from 2016 on, are served as WMTS and WMS layers in Web Mercator and in longitude and latitude, each layer naming the Sentinel-2 data of its year in its attribution.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Sentinel-2",
+				"cloud-free mosaic",
+				"satellite imagery",
+				"WMTS",
+				"Copernicus"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "EPCEU2003a",
@@ -16975,6 +17142,33 @@
 			"keywords_source": "github",
 			"source": "manual",
 			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Esr2026a",
+			"type": "misc",
+			"title": "ArcGIS REST APIs: Map Services and Image Services",
+			"authors": [
+				"Esri"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://developers.arcgis.com/rest/services-reference/enterprise/",
+			"abstract": "The ArcGIS REST APIs give access to the services of an ArcGIS Server. The export operation of a map service returns a map image of a given extent, size and set of layers, streamed directly to the client when the image format is requested. The query operation of a layer returns a feature set with the fields requested and, for layers, the geometry of each feature. The export Image operation of an image service returns an image of the service's pixels for a given extent, size and spatial reference, and its identify operation returns the processed pixel values at a given location.",
+			"abstract_source": "manual",
+			"keywords": [
+				"ArcGIS REST API",
+				"map service",
+				"image service",
+				"export",
+				"query",
+				"identify"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": true
 		},
@@ -18067,6 +18261,46 @@
 			"open_access": true,
 			"abstract": "Clouds are a pervasive and unavoidable issue in satellite-borne optical imagery. Accurate, well-documented, and automated cloud detection algorithms are necessary to effectively leverage large collections of remotely sensed data. The Landsat project is uniquely suited for comparative validation of cloud assessment algorithms because the modular architecture of the Landsat ground system allows for quick evaluation of new code, and because Landsat has the most comprehensive manual truth masks of any current satellite data archive. Currently, the Landsat Level-1 Product Generation System (LPGS) uses separate algorithms for determining clouds, cirrus clouds, and snow and/or ice probability on a per-pixel basis. With more bands onboard the Landsat 8 Operational Land Imager (OLI)/Thermal Infrared Sensor (TIRS) satellite, and a greater number of cloud masking algorithms, the U.S. Geological Survey (USGS) is replacing the current cloud masking workflow with a more robust algorithm that is capable of working across multiple Landsat sensors with minimal modification. Because of the inherent error from stray light and intermittent data availability of TIRS, these algorithms need to operate both with and without thermal data. In this study, we created a workflow to evaluate cloud and cloud shadow masking algorithms using cloud validation masks manually derived from both Landsat 7 Enhanced Thematic Mapper Plus (ETM+) and Landsat 8 OLI/TIRS data. We created a new validation dataset consisting of 96 Landsat 8 scenes, representing different biomes and proportions of cloud cover. We evaluated algorithm performance by overall accuracy, omission error, and commission error for both cloud and cloud shadow. We found that CFMask, C code based on the Function of Mask (Fmask) algorithm, and its confidence bands have the best overall accuracy among the many algorithms tested using our validation data. The Artificial Thermal-Automated Cloud Cover Algorithm (AT-ACCA) is the most accurate nonthermal-based algorithm. We give preference to CFMask for operational cloud and cloud shadow detection, as it is derived from a priori knowledge of physical phenomena and is operable without geographic restriction, making it useful for current and future land imaging missions without having to be retrained in a machine-learning environment.",
 			"abstract_source": "europepmc"
+		},
+		{
+			"key": "FSHJ2016a",
+			"type": "book",
+			"title": "European Landscape Dynamics: CORINE Land Cover Data",
+			"authors": [
+				"Feranec, Jan",
+				"Soukup, Tomas",
+				"Hazeu, Gerard",
+				"Jaffrain, Gabriel"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"publisher": "CRC Press",
+			"address": "Boca Raton, FL",
+			"isbn": "9781482244687",
+			"note": "Edited volume",
+			"doi": "10.1201/9781315372860",
+			"url": "https://doi.org/10.1201/9781315372860",
+			"openalex": "W2510369113",
+			"abstract": "Four unique pan-European CORINE Land Cover datasets—CLC1990, CLC2000, CLC2006, and CLC2012— and three datasets concerning changes between 1990 and 2012 have presented the first-ever opportunity to observe the European landscape by means of land cover and its change. This book brings together all these datasets to demonstrate the methods of identification, analysis and assessment of the European land cover and its changes that took place during the intervals of 1990–2000, 2000–2006, and 2006–2012. It provides examples in which CLC data plays a role in offering solutions to European environmental problems such as the monitoring of urban dynamics, land fragmentation, ecosystems mapping and assessment, and high nature value farmland characteristics. Existing environmental problems require new approaches, and European Landscape Dynamics: CORINE Land Cover Data indicates a set of outlooks for CLC data generation that produce more detailed levels of analysis and bottom-up approaches while addressing the relationship of CLC data to the Infrastructure for Spatial Information in Europe (INSPIRE). It also discusses the future of CLC data generation. A valuable resource of up-to-date information, it is useful to professionals such as scientists, territorial planners, and environmentalists as well as students of geosciences and all those who are interested in cognition of the European landscape, its changes and development.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"CORINE Land Cover",
+				"land cover change",
+				"European landscapes",
+				"land cover datasets",
+				"urban dynamics",
+				"land fragmentation",
+				"ecosystem mapping",
+				"high nature value farmland",
+				"INSPIRE",
+				"environmental monitoring"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "FSK2005a",
@@ -32883,6 +33117,45 @@
 			"open_access": false
 		},
 		{
+			"key": "LSC2016a",
+			"type": "article",
+			"title": "Monitoring Urban Areas with Sentinel-2A Data: Application to the Update of the Copernicus High Resolution Layer Imperviousness Degree",
+			"authors": [
+				"Lefebvre, Antoine",
+				"Sannier, Christophe",
+				"Corpetti, Thomas"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Remote Sensing",
+			"volume": "8",
+			"number": "7",
+			"pages": "606",
+			"issn": "2072-4292",
+			"doi": "10.3390/rs8070606",
+			"url": "https://doi.org/10.3390/rs8070606",
+			"openalex": "W2501814412",
+			"oa_url": "https://doi.org/10.3390/rs8070606",
+			"abstract": "Monitoring with high resolution land cover and especially of urban areas is a key task that is more and more required in a number of applications (urban planning, health monitoring, ecology, etc.). At the moment, some operational products, such as the “Copernicus High Resolution Imperviousness Layer”, are available to assess this information, but the frequency of updates is still limited despite the fact that more and more very high resolution data are acquired. In particular, the recent launch of the Sentinel-2A satellite in June 2015 makes available data with a minimum spatial resolution of 10 m, 13 spectral bands, wide acquisition coverage and short time revisits, which opens a large scale of new applications. In this work, we propose to exploit the benefit of Sentinel-2 images to monitor urban areas and to update Copernicus Land services, in particular the High Resolution Layer imperviousness. The approach relies on independent image classification (using already available Landsat images and new Sentinel-2 images) that are fused using the Dempster–Shafer theory. Experiments are performed on two urban areas: a large European city, Prague, in the Czech Republic, and a mid-sized one, Rennes, in France. Results, validated with a Kappa index over 0.9, illustrate the great interest of Sentinel-2 in operational projects, such as Copernicus products, and since such an approach can be conducted on very large areas, such as the European or global scale. Though classification and data fusion are not new, our process is original in the way it optimally combines uncertainties issued from classifications to generate more confident and precise imperviousness maps. The choice of imperviousness comes from the fact that it is a typical application where research meets the needs of an operational production. Moreover, the methodology presented in this paper can be used in any other land cover classification task using regular acquisitions issued, for example, from Sentinel-2.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Sentinel-2A",
+				"land cover classification",
+				"Dempster-Shafer theory",
+				"image fusion",
+				"uncertainty fusion",
+				"Landsat",
+				"Prague",
+				"Rennes"
+			],
+			"keywords_source": "openalex",
+			"source": "crossref",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "LSKG2005a",
 			"type": "article",
 			"title": "Superspreading and the effect of individual variation on disease emergence",
@@ -39826,6 +40099,63 @@
 			"keywords_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-18",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "OGC2006a",
+			"type": "misc",
+			"title": "OpenGIS Web Map Service (WMS) Implementation Specification, Version 1.3.0",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2006,
+			"number": "OGC 06-042",
+			"note": "Editor: Jeff de La Beaujardiere",
+			"url": "https://portal.ogc.org/files/?artifact_id=14416",
+			"abstract": "This standard provides a simple HTTP interface for requesting geo-registered map images from one or more distributed geospatial databases. A WMS request defines the geographic layer(s) and area of interest to be processed. The response to the request is one or more geo-registered map images (returned as JPEG, PNG, etc) that can be displayed in a browser application.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Web Map Service",
+				"WMS",
+				"GetMap",
+				"GetCapabilities",
+				"GetFeatureInfo",
+				"OGC standard"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "OGC2010a",
+			"type": "misc",
+			"title": "OpenGIS Web Map Tile Service Implementation Standard, Version 1.0.0",
+			"authors": [
+				"Open Geospatial Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2010,
+			"number": "OGC 07-057r7",
+			"note": "Editors: Joan Masó, Keith Pomakis and Núria Julià",
+			"url": "https://portal.ogc.org/files/?artifact_id=35326",
+			"abstract": "This implementation standard provides a standard based solution to serve digital maps using predefined image tiles. The WMTS standard complements the existing Web Map Service standard of the OGC. The WMTS standard offers a standardized approach to declaring the images which a client can request from a server, enabling a single type of client to be developed for all servers.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Web Map Tile Service",
+				"WMTS",
+				"tile matrix set",
+				"map tiles",
+				"OGC standard"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-20",
 			"checked": false,
 			"open_access": true
 		},
