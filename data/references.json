@@ -21880,6 +21880,40 @@
 			"open_access": true
 		},
 		{
+			"key": "GSSS1999a",
+			"type": "article",
+			"title": "Assessment and comparison of prognostic classification schemes for survival data",
+			"authors": [
+				"Graf, Erika",
+				"Schmoor, Claudia",
+				"Sauerbrei, Willi",
+				"Schumacher, Martin"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1999,
+			"journal": "Statistics in Medicine",
+			"volume": "18",
+			"number": "17-18",
+			"pages": "2529-2545",
+			"issn": "0277-6715",
+			"doi": "10.1002/(sici)1097-0258(19990915/30)18:17/18<2529::aid-sim274>3.0.co;2-5",
+			"url": "https://doi.org/10.1002/(sici)1097-0258(19990915/30)18:17/18<2529::aid-sim274>3.0.co;2-5",
+			"openalex": "W1986546598",
+			"source": "crossref",
+			"abstract": "Prognostic classification schemes have often been used in medical applications, but rarely subjected to a rigorous examination of their adequacy. For survival data, the statistical methodology to assess such schemes consists mainly of a range of ad hoc approaches, and there is an alarming lack of commonly accepted standards in this field. We review these methods and develop measures of inaccuracy which may be calculated in a validation study in order to assess the usefulness of estimated patient-specific survival probabilities associated with a prognostic classification scheme. These measures are meaningful even when the estimated probabilities are misspecified, and asymptotically they are not affected by random censorship. In addition, they can be used to derive R(2)-type measures of explained residual variation. A breast cancer study will serve for illustration throughout the paper.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"survival data",
+				"random censoring",
+				"breast cancer prognosis"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "GSTC2022a",
 			"type": "article",
 			"title": "The harm of class imbalance corrections for risk prediction models: illustration and simulation using logistic regression",
@@ -23760,6 +23794,43 @@
 			"open_access": true
 		},
 		{
+			"key": "HCPLR1982a",
+			"type": "article",
+			"title": "Evaluating the Yield of Medical Tests",
+			"authors": [
+				"Harrell, Frank E.",
+				"Califf, R. M.",
+				"Pryor, D. B.",
+				"Lee, K. L.",
+				"Rosati, R. A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1982,
+			"journal": "JAMA: The Journal of the American Medical Association",
+			"volume": "247",
+			"number": "18",
+			"pages": "2543",
+			"issn": "0098-7484",
+			"doi": "10.1001/jama.1982.03320430047030",
+			"url": "https://doi.org/10.1001/jama.1982.03320430047030",
+			"openalex": "W2084139018",
+			"source": "crossref",
+			"abstract": "A method is presented for evaluating the amount of information a medical test provides about individual patients. Emphasis is placed on the role of a test in the evaluation of patients with a chronic disease. In this context, the yield of a test is best interpreted by analyzing the prognostic information it furnishes. Information from the history, physical examination, and routine procedures should be used in assessing the yield of a new test. As an example, the method is applied to the use of the treadmill exercise test in evaluating the prognosis of patients with suspected coronary artery disease. The treadmill test is shown to provide surprisingly little prognostic information beyond that obtained from basic clinical measurements.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"prognostic value",
+				"treadmill exercise testing",
+				"coronary artery disease",
+				"clinical history and physical examination",
+				"diagnostic testing"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "HD2022a",
 			"type": "article",
 			"title": "TimeseriesSurrogates.jl: a Julia package for generating surrogate data",
@@ -24188,6 +24259,48 @@
 			"source": "manual",
 			"retrieved": "2026-10-31",
 			"checked": true
+		},
+		{
+			"key": "HHDG2020a",
+			"type": "article",
+			"title": "Effective Ways to Build and Evaluate Individual Survival Distributions",
+			"authors": [
+				"Haider, Humza",
+				"Hoehn, Bret",
+				"Davis, Sarah",
+				"Greiner, Russell"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "Journal of Machine Learning Research",
+			"volume": "21",
+			"number": "85",
+			"pages": "1-63",
+			"url": "https://jmlr.org/papers/v21/18-772.html",
+			"arxiv": "1811.11347",
+			"openalex": "W2902482795",
+			"oa_url": "https://jmlr.org/papers/volume21/18-772/18-772.pdf",
+			"source": "manual",
+			"abstract": "An accurate model of a patient's individual survival distribution can help determine the appropriate treatment for terminal patients. Unfortunately, risk scores (e.g., from Cox Proportional Hazard models) do not provide survival probabilities, single-time probability models (e.g., the Gail model, predicting 5 year probability) only provide for a single time point, and standard Kaplan-Meier survival curves provide only population averages for a large class of patients meaning they are not specific to individual patients. This motivates an alternative class of tools that can learn a model which provides an individual survival distribution which gives survival probabilities across all times - such as extensions to the Cox model, Accelerated Failure Time, an extension to Random Survival Forests, and Multi-Task Logistic Regression. This paper first motivates such \"individual survival distribution\" (ISD) models, and explains how they differ from standard models. It then discusses ways to evaluate such models - namely Concordance, 1-Calibration, Brier score, and various versions of L1-loss - and then motivates and defines a novel approach \"D-Calibration\", which determines whether a model's probability estimates are meaningful. We also discuss how these measures differ, and use them to evaluate several ISD prediction tools, over a range of survival datasets.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"survival probability prediction",
+				"dying patients",
+				"model evaluation",
+				"Brier score",
+				"concordance index",
+				"L1 loss",
+				"random survival forest",
+				"accelerated failure time model",
+				"Cox proportional hazards model",
+				"Gail model",
+				"outcome prediction"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "HHY1996a",
@@ -27400,6 +27513,41 @@
 			"checked": true,
 			"open_access": true,
 			"legacy_key": "householder1958"
+		},
+		{
+			"key": "Hou2000a",
+			"type": "article",
+			"title": "Validation, calibration, revision and combination of prognostic survival models",
+			"authors": [
+				"van Houwelingen, Hans C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2000,
+			"journal": "Statistics in Medicine",
+			"volume": "19",
+			"number": "24",
+			"pages": "3401-3415",
+			"issn": "0277-6715",
+			"doi": "10.1002/1097-0258(20001230)19:24<3401::aid-sim554>3.0.co;2-2",
+			"url": "https://doi.org/10.1002/1097-0258(20001230)19:24<3401::aid-sim554>3.0.co;2-2",
+			"openalex": "W2004864119",
+			"source": "crossref",
+			"abstract": "The problem of assessing the validity and value of prognostic survival models presented in the literature for a particular population for which some data has been collected is discussed. Methods are sketched to perform validation through 'calibration', that is by embedding the literature model in a larger calibration model. This general approach is exemplified for x-year survival probabilities, Cox regression and general non-proportional hazards models. Some comments are made on basic structural changes to the model, described as 'revision'. Finally, general methods are discussed to combine models from different sources. The methods are illustrated with a model for non-Hodgkin's lymphoma validated on a Dutch data set.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"model validation",
+				"calibration",
+				"model revision",
+				"model combination",
+				"Cox proportional hazards model",
+				"non-Hodgkin lymphoma",
+				"external validation"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "How1960a",
@@ -49315,6 +49463,46 @@
 			"open_access": true
 		},
 		{
+			"key": "SKBBL2021a",
+			"type": "article",
+			"title": "mlr3proba: an R package for machine learning in survival analysis",
+			"authors": [
+				"Sonabend, Raphael",
+				"Király, Franz J.",
+				"Bender, Andreas",
+				"Bischl, Bernd",
+				"Lang, Michel"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "Bioinformatics",
+			"volume": "37",
+			"number": "17",
+			"pages": "2789-2791",
+			"issn": "1367-4803",
+			"doi": "10.1093/bioinformatics/btab039",
+			"url": "https://doi.org/10.1093/bioinformatics/btab039",
+			"openalex": "W3111736660",
+			"oa_url": "https://academic.oup.com/bioinformatics/article-pdf/37/17/2789/40342469/btab039.pdf",
+			"source": "crossref",
+			"abstract": "SUMMARY: As machine learning has become increasingly popular over the last few decades, so too has the number of machine-learning interfaces for implementing these models. Whilst many R libraries exist for machine learning, very few offer extended support for survival analysis. This is problematic considering its importance in fields like medicine, bioinformatics, economics, engineering and more. mlr3proba provides a comprehensive machine-learning interface for survival analysis and connects with mlr3's general model tuning and benchmarking facilities to provide a systematic infrastructure for survival modelling and evaluation. AVAILABILITY AND IMPLEMENTATION: mlr3proba is available under an LGPL-3 licence on CRAN and at https://github.com/mlr-org/mlr3proba, with further documentation at https://mlr3book.mlr-org.com/survival.html.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"survival analysis",
+				"machine learning",
+				"R package",
+				"mlr3",
+				"model calibration",
+				"model benchmarking",
+				"survival models"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "SKBBT...2018a",
 			"type": "incollection",
 			"title": "Modeling Relational Data with Graph Convolutional Networks",
@@ -54403,6 +54591,48 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "UCPDW2011a",
+			"type": "article",
+			"title": "On the C-statistics for evaluating overall adequacy of risk prediction procedures with censored survival data",
+			"authors": [
+				"Uno, Hajime",
+				"Cai, Tianxi",
+				"Pencina, Michael J.",
+				"D'Agostino, Ralph B.",
+				"Wei, L. J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2011,
+			"journal": "Statistics in Medicine",
+			"volume": "30",
+			"number": "10",
+			"pages": "1105-1117",
+			"issn": "0277-6715",
+			"doi": "10.1002/sim.4154",
+			"url": "https://doi.org/10.1002/sim.4154",
+			"openalex": "W2120579447",
+			"oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sim.4154",
+			"source": "crossref",
+			"abstract": "For modern evidence-based medicine, a well thought-out risk scoring system for predicting the occurrence of a clinical event plays an important role in selecting prevention and treatment strategies. Such an index system is often established based on the subject's 'baseline' genetic or clinical markers via a working parametric or semi-parametric model. To evaluate the adequacy of such a system, C-statistics are routinely used in the medical literature to quantify the capacity of the estimated risk score in discriminating among subjects with different event times. The C-statistic provides a global assessment of a fitted survival model for the continuous event time rather than focussing on the prediction of bit-year survival for a fixed time. When the event time is possibly censored, however, the population parameters corresponding to the commonly used C-statistics may depend on the study-specific censoring distribution. In this article, we present a simple C-statistic without this shortcoming. The new procedure consistently estimates a conventional concordance measure which is free of censoring. We provide a large sample approximation to the distribution of this estimator for making inferences about the concordance measure. Results from numerical studies suggest that the new procedure performs well in finite sample.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"concordance index",
+				"concordance measures",
+				"risk prediction",
+				"censored survival data",
+				"risk scoring",
+				"time-to-event prediction",
+				"censoring distribution",
+				"large sample approximation",
+				"risk discrimination"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "UMZHD...2014a",
@@ -74202,6 +74432,72 @@
 			"count": 2189,
 			"source": "openalex",
 			"date": "2026-11-18"
+		},
+		{
+			"key": "GSSS1999a",
+			"count": 13,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "GSSS1999a",
+			"count": 1366,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "HCPLR1982a",
+			"count": 3601,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "HCPLR1982a",
+			"count": 4097,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "HHDG2020a",
+			"count": 171,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "Hou2000a",
+			"count": 13,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "Hou2000a",
+			"count": 306,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "SKBBL2021a",
+			"count": 100,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "SKBBL2021a",
+			"count": 158,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "UCPDW2011a",
+			"count": 1495,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "UCPDW2011a",
+			"count": 1830,
+			"source": "openalex",
+			"date": "2026-11-21"
 		}
 	]
 }
