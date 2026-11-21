@@ -57659,6 +57659,43 @@
 			"open_access": false
 		},
 		{
+			"key": "Woo2003a",
+			"type": "article",
+			"title": "Thin Plate Regression Splines",
+			"authors": [
+				"Wood, Simon N."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2003,
+			"journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+			"volume": "65",
+			"number": "1",
+			"pages": "95-114",
+			"issn": "1369-7412",
+			"doi": "10.1111/1467-9868.00374",
+			"url": "https://doi.org/10.1111/1467-9868.00374",
+			"openalex": "W2140308441",
+			"source": "crossref",
+			"abstract": "Summary I discuss the production of low rank smoothers for d ≥ 1 dimensional data, which can be fitted by regression or penalized regression methods. The smoothers are constructed by a simple transformation and truncation of the basis that arises from the solution of the thin plate spline smoothing problem and are optimal in the sense that the truncation is designed to result in the minimum possible perturbation of the thin plate spline smoothing problem given the dimension of the basis used to construct the smoother. By making use of Lanczos iteration the basis change and truncation are computationally efficient. The smoothers allow the use of approximate thin plate spline models with large data sets, avoid the problems that are associated with ‘knot placement’ that usually complicate modelling with regression splines or penalized regression splines, provide a sensible way of modelling interaction terms in generalized additive models, provide low rank approximations to generalized smoothing spline models, appropriate for use with large data sets, provide a means for incorporating smooth functions of more than one variable into non-linear models and improve the computational efficiency of penalized likelihood models incorporating thin plate splines. Given that the approach produces spline-like models with a sparse basis, it also provides a natural way of incorporating unpenalized spline-like terms in linear and generalized linear models, and these can be treated just like any other model terms from the point of view of model selection, inference and diagnostics.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"basis truncation",
+				"Lanczos iteration",
+				"penalized regression",
+				"generalized additive models",
+				"interaction terms",
+				"nonlinear models",
+				"penalized likelihood",
+				"knot placement",
+				"model selection"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Woo2009a",
 			"type": "book",
 			"title": "An Introduction to MultiAgent Systems",
@@ -57674,6 +57711,45 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Woo2011a",
+			"type": "article",
+			"title": "Fast Stable Restricted Maximum Likelihood and Marginal Likelihood Estimation of Semiparametric Generalized Linear Models",
+			"authors": [
+				"Wood, Simon N."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2011,
+			"journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+			"volume": "73",
+			"number": "1",
+			"pages": "3-36",
+			"issn": "1369-7412",
+			"doi": "10.1111/j.1467-9868.2010.00749.x",
+			"url": "https://doi.org/10.1111/j.1467-9868.2010.00749.x",
+			"openalex": "W2119160928",
+			"source": "crossref",
+			"abstract": "Summary Recent work by Reiss and Ogden provides a theoretical basis for sometimes preferring restricted maximum likelihood (REML) to generalized cross-validation (GCV) for smoothing parameter selection in semiparametric regression. However, existing REML or marginal likelihood (ML) based methods for semiparametric generalized linear models (GLMs) use iterative REML or ML estimation of the smoothing parameters of working linear approximations to the GLM. Such indirect schemes need not converge and fail to do so in a non-negligible proportion of practical analyses. By contrast, very reliable prediction error criteria smoothing parameter selection methods are available, based on direct optimization of GCV, or related criteria, for the GLM itself. Since such methods directly optimize properly defined functions of the smoothing parameters, they have much more reliable convergence properties. The paper develops the first such method for REML or ML estimation of smoothing parameters. A Laplace approximation is used to obtain an approximate REML or ML for any GLM, which is suitable for efficient direct optimization. This REML or ML criterion requires that Newton–Raphson iteration, rather than Fisher scoring, be used for GLM fitting, and a computationally stable approach to this is proposed. The REML or ML criterion itself is optimized by a Newton method, with the derivatives required obtained by a mixture of implicit differentiation and direct methods. The method will cope with numerical rank deficiency in the fitted model and in fact provides a slight improvement in numerical robustness on the earlier method of Wood for prediction error criteria based smoothness selection. Simulation results suggest that the new REML and ML methods offer some improvement in mean-square error performance relative to GCV or Akaike’s information criterion in most cases, without the small number of severe undersmoothing failures to which Akaike’s information criterion and GCV are prone. This is achieved at the same computational cost as GCV or Akaike’s information criterion. The new approach also eliminates the convergence failures of previous REML- or ML-based approaches for penalized GLMs and usually has lower computational cost than these alternatives. Example applications are presented in adaptive smoothing, scalar on function regression and generalized additive model selection.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"restricted maximum likelihood",
+				"marginal likelihood",
+				"bandwidth selection",
+				"Laplace approximation",
+				"Newton's method",
+				"Fisher scoring",
+				"generalized cross-validation",
+				"Akaike information criterion",
+				"adaptive smoothing",
+				"scalar-on-function regression",
+				"convergence stability"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Woo2019a",
@@ -74496,6 +74572,30 @@
 		{
 			"key": "UCPDW2011a",
 			"count": 1830,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "Woo2003a",
+			"count": 2124,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "Woo2003a",
+			"count": 2927,
+			"source": "openalex",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "Woo2011a",
+			"count": 6965,
+			"source": "crossref",
+			"date": "2026-11-21"
+		},
+		{
+			"key": "Woo2011a",
+			"count": 8854,
 			"source": "openalex",
 			"date": "2026-11-21"
 		}
