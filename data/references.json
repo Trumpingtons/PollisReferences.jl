@@ -23034,6 +23034,179 @@
 			"open_access": false
 		},
 		{
+			"key": "Goo2026a",
+			"type": "misc",
+			"title": "Maps JavaScript API Documentation",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://developers.google.com/maps/documentation/javascript",
+			"abstract": "The Maps JavaScript API of Google Maps Platform draws interactive Google maps in web pages. It is loaded with an API key by a script tag or an inline bootstrap loader, and its libraries with importLibrary. A map has one of four basic map types, roadmap, satellite, hybrid (satellite with labels) and terrain, set by mapTypeId. The Data layer draws GeoJSON points, lines and polygons on a map, styled with setStyle by a fixed style or a function of each feature's properties, with click events on the features. A global function gm_authFailure is called when authentication fails.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"web maps",
+				"JavaScript",
+				"map types",
+				"GeoJSON",
+				"Data layer"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
+			"key": "Goo2026b",
+			"type": "misc",
+			"title": "3D Maps in Maps JavaScript",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://developers.google.com/maps/documentation/javascript/3d/overview",
+			"abstract": "3D Maps in Maps JavaScript provide the Map3DElement, the HTML element gmp-map-3d of the maps3d library, which renders Google's photorealistic 3D aerial imagery of cities, terrain and landmarks in SATELLITE mode, or in HYBRID mode with base map labels, and a styled 3D base map in ROADMAP mode; the mode must be set for the map to start rendering. The camera is set by the centre, a latitude, longitude and altitude, the range from the camera to the centre in metres, the tilt and the heading in degrees. flyCameraTo moves the camera to another view and flyCameraAround orbits it around a centre for a given duration. Markers, polylines, polygons and glTF models can be added as elements of their own.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"3D maps",
+				"photorealistic 3D",
+				"camera",
+				"JavaScript"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
+			"key": "Goo2026c",
+			"type": "misc",
+			"title": "Get a Maps Demo Key and Use It with Google Maps Platform",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://developers.google.com/maps/demo-key",
+			"abstract": "The Maps Demo Key is a no-cost API key for prototyping with Google Maps Platform without billing information, intended for testing and prototyping only and not for production use, under the Maps Demo Project Terms of Service. It requires a personal Google Account; Google Workspace accounts are not eligible, nor are prohibited territories. It supports a limited set of features, among them map rendering with the Maps JavaScript API (2D and 3D maps with satellite and terrain views), markers and events, map styling and drawing tools, and some web service APIs. Usage is limited daily and paused until the following day when the limit is reached, with no charges.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"API key",
+				"Maps Demo Key",
+				"quotas",
+				"prototyping"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
+			"key": "Goo2026d",
+			"type": "misc",
+			"title": "Google Maps Platform in AI Studio",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://developers.google.com/maps/ai/ai-studio",
+			"abstract": "Google AI Studio can create a Maps Demo Key for location-aware prototypes without a Google Cloud billing account. The page compares the Maps Demo Key, with a subset of the APIs and daily limits of 100 calls per day per API, with a standard Google Cloud API key on a billed project, with production quotas and the whole Google Maps Platform API portfolio. Maps Demo Keys are governed by the Maps Demo Project Terms of Service.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"Maps Demo Key",
+				"quotas",
+				"AI Studio"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
+			"key": "Goo2026e",
+			"type": "misc",
+			"title": "Google Maps Platform Terms of Service",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://cloud.google.com/maps-platform/terms",
+			"abstract": "The terms under which customers use Google Maps Platform. Customers must display the attribution Google provides, including logos and copyright notices. They must not scrape, export or bulk download Google Maps Content, nor cache it except as the service specific terms allow; must not create content from it, such as tracing roads or buildings from satellite imagery, or use it to train, test, validate or fine-tune machine learning and artificial intelligence models; must not re-create Google products; and must not use the Google Maps Core Services with or near a non-Google map in an application, for example by showing Street View imagery and non-Google maps on the same screen, or by linking a Google map to non-Google maps content or a non-Google map.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"terms of service",
+				"attribution",
+				"caching",
+				"licensing"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
+			"key": "Goo2026f",
+			"type": "misc",
+			"title": "Maps Demo Project Terms of Service",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://cloud.google.com/terms/maps-platform/demo-project-terms",
+			"abstract": "The terms of the Maps Demo Project, an API and usage-limited project of Google Maps Platform that lets eligible users evaluate its products without a billing account. Only a subset of the APIs is available; usage is limited, Google may adjust the limits at any time, and the service stops once the limit is reached until it resets or the project is upgraded. The project is intended solely for evaluation and testing, and production use is strictly prohibited. Google may suspend or end access at any time, and the project's creator is responsible for all activity under it.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"terms of service",
+				"Maps Demo Key",
+				"evaluation"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
+			"key": "Goo2026g",
+			"type": "misc",
+			"title": "Maps JavaScript API Usage and Billing",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://developers.google.com/maps/documentation/javascript/usage-and-billing",
+			"abstract": "How the Maps JavaScript API counts and bills its use. Requests generate calls to different SKUs by their type: map loads trigger the Dynamic Maps SKU, billed per load, and panoramas the Dynamic Street View SKU, billed per panorama. Quotas apply to 2D and 3D map loads alike, per minute for a project and per IP address.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Maps",
+				"billing",
+				"quotas",
+				"map loads"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false
+		},
+		{
 			"key": "Gra1969a",
 			"type": "article",
 			"title": "Investigating Causal Relations by Econometric Models and Cross-spectral Methods",
