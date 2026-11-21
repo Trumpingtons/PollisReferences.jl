@@ -39022,6 +39022,34 @@
 			"open_access": false
 		},
 		{
+			"key": "Map2023a",
+			"type": "misc",
+			"title": "MapillaryJS: Interactive, Extendable Street Imagery Map Experiences in the Browser",
+			"authors": [
+				"Mapillary"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2023,
+			"url": "https://github.com/mapillary/mapillary-js",
+			"note": "Version 4.1.2",
+			"abstract": "MapillaryJS is a client-side JavaScript library for interactive, extendable street imagery map experiences on the web. It takes spatial, semantic, and texture data and renders it using WebGL. MapillaryJS can be customized with camera controls, user interactivity, and data providers and it can be augmented with geospatial rendering, animation, and content placement.",
+			"abstract_source": "github",
+			"keywords": [
+				"mapillary",
+				"street-imagery",
+				"viewer",
+				"webgl",
+				"geospatial",
+				"typescript"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-21",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Map2026a",
 			"type": "misc",
 			"title": "Mapillary API Documentation",
