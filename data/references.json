@@ -5652,6 +5652,44 @@
 			"open_access": true
 		},
 		{
+			"key": "BMTCB...2025a",
+			"type": "article",
+			"title": "Cliopatria - A geospatial database of world-wide political entities from 3400BCE to 2024CE",
+			"authors": [
+				"Bennett, James S.",
+				"Mutch, Erin",
+				"Tollefson, Andrew",
+				"Chalstrey, Ed",
+				"Benam, Majid",
+				"Cioni, Enrico",
+				"Reddish, Jenny",
+				"Zsambok, Jakob",
+				"Levine, Jill",
+				"Cook, C. Justin",
+				"Francois, Pieter",
+				"Hoyer, Daniel",
+				"Turchin, Peter"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"journal": "Scientific Data",
+			"volume": "12",
+			"number": "1",
+			"pages": "247",
+			"issn": "2052-4463",
+			"doi": "10.1038/s41597-025-04516-9",
+			"url": "https://doi.org/10.1038/s41597-025-04516-9",
+			"openalex": "W4407414158",
+			"oa_url": "https://www.nature.com/articles/s41597-025-04516-9.pdf",
+			"abstract": "The scientific understanding of the complex dynamics of global history – from the rise and spread of states to their declines and falls, from their peaceful interactions with economic or diplomatic exchanges to violent confrontations – requires, at its core, a consistent and explicit encoding of historical political entities, their locations, extents and durations. Numerous attempts have been made to produce digital geographical compendia of polities with different time depths and resolutions. Most have been limited in scope and many of the more comprehensive geospatial datasets must either be licensed or are stored in proprietary formats, making access for scholarly analysis difficult. To address these issues we have developed Cliopatria, a comprehensive open-source geospatial dataset of worldwide states from 3400BCE to 2024CE. Presently it comprises over 1600 political entities sampled at varying timesteps and spatial scales. Here, we discuss its construction, its scope, and its current limitations.",
+			"abstract_source": "crossref",
+			"source": "crossref",
+			"retrieved": "2026-11-22",
+			"checked": true,
+			"open_access": true
+		},
+		{
 			"key": "BN1981a",
 			"type": "article",
 			"title": "A new approach to decomposition of economic time series into permanent and transitory components with particular attention to measurement of the ‘business cycle’",
@@ -43166,6 +43204,24 @@
 			"open_access": true
 		},
 		{
+			"key": "Our2026b",
+			"type": "misc",
+			"title": "Historical boundaries of world countries and cultural regions (historical-basemaps)",
+			"authors": [
+				"Ourednik, André"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/aourednik/historical-basemaps",
+			"abstract": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale",
+			"abstract_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "PB1995a",
 			"type": "article",
 			"title": "Approximations to the Log-Likelihood Function in the Nonlinear Mixed-Effects Model",
@@ -49755,6 +49811,37 @@
 			"source": "crossref",
 			"retrieved": "2026-10-23",
 			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "SGRWC...2022a",
+			"type": "article",
+			"title": "Mapping the International System, 1886-2019: The CShapes 2.0 Dataset",
+			"authors": [
+				"Schvitz, Guy",
+				"Girardin, Luc",
+				"Rüegger, Seraina",
+				"Weidmann, Nils B.",
+				"Cederman, Lars-Erik",
+				"Gleditsch, Kristian Skrede"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2022,
+			"journal": "Journal of Conflict Resolution",
+			"volume": "66",
+			"number": "1",
+			"pages": "144-161",
+			"issn": "0022-0027",
+			"doi": "10.1177/00220027211013563",
+			"url": "https://doi.org/10.1177/00220027211013563",
+			"openalex": "W3159132863",
+			"oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/00220027211013563",
+			"abstract": "This article introduces CShapes 2.0, a GIS dataset that maps the borders of states and dependent territories from 1886 through 2019. Our dataset builds on the previous CShapes dataset and improves it in two ways. First, it extends temporal coverage from 1946 back to the year 1886, which followed the Berlin Conference on the partition of Africa. Second, the new dataset is no longer limited to independent states, but also maps the borders of colonies and other dependencies, thereby providing near complete global coverage of political units throughout recent history. This article explains the coding procedure, provides a preview of the dataset and presents three illustrative applications.",
+			"abstract_source": "crossref",
+			"source": "crossref",
+			"retrieved": "2026-11-22",
+			"checked": true,
 			"open_access": true
 		},
 		{
@@ -72077,6 +72164,18 @@
 			"date": "2026-10-23"
 		},
 		{
+			"key": "SGRWC...2022a",
+			"count": 46,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "SGRWC...2022a",
+			"count": 93,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
 			"key": "SHMGS...2016a",
 			"count": 11987,
 			"source": "crossref",
@@ -75783,6 +75882,18 @@
 			"count": 553,
 			"source": "openalex",
 			"date": "2026-11-18"
+		},
+		{
+			"key": "BMTCB...2025a",
+			"count": 2,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "BMTCB...2025a",
+			"count": 4,
+			"source": "openalex",
+			"date": "2026-11-22"
 		},
 		{
 			"key": "Boe2017a",
