@@ -4810,6 +4810,38 @@
 			"checked": true
 		},
 		{
+			"key": "BK1979a",
+			"type": "article",
+			"title": "A physically based, variable contributing area model of basin hydrology",
+			"authors": [
+				"Beven, K. J.",
+				"Kirkby, M. J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1979,
+			"journal": "Hydrological Sciences Bulletin",
+			"volume": "24",
+			"issue": "1",
+			"pages": "43-69",
+			"issn": "0303-6936",
+			"doi": "10.1080/02626667909491834",
+			"url": "https://doi.org/10.1080/02626667909491834",
+			"openalex": "W1981646498",
+			"source": "crossref",
+			"abstract": "A hydrological forecasting model is presented that attempts to combine the important distributed effects of channel network topology and dynamic contributing areas with the advantages of simple lumped parameter basin models. Quick response flow is predicted from a storage/contributing area relationship derived analytically from the topographic structure of a unit within a basin. Average soil water response is represented by a constant leakage infiltration store and an exponential subsurface water store. A simple non-linear routing procedure related to the link frequency distribution of the channel network completes the model and allows distinct basin sub-units, such as headwater and sideslope areas to be modelled separately. The model parameters are physically based in the sense that they may be determined directly by measurement and the model may be used at ungauged sites. Procedures for applying the model and tests with data from the Crimple Beck basin are described. Using only measured and estimated parameter values, without optimization, the model makes satisfactory predictions of basin response. The modular form of the model structure should allow application over a range of small and medium sized basins while retaining the possibility of including more complex model components when suitable data are available.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"river basin hydrology",
+				"ungauged sites",
+				"physically based hydrological model"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "BK1980a",
 			"type": "article",
 			"title": "The Solution of Linear Difference Models under Rational Expectations",
@@ -5295,6 +5327,41 @@
 			"source": "crossref",
 			"retrieved": "2026-11-02",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "BLM2014a",
+			"type": "article",
+			"title": "Priority-flood: An optimal depression-filling and watershed-labeling algorithm for digital elevation models",
+			"authors": [
+				"Barnes, Richard",
+				"Lehman, Clarence",
+				"Mulla, David"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2014,
+			"journal": "Computers & Geosciences",
+			"volume": "62",
+			"pages": "117-127",
+			"issn": "0098-3004",
+			"doi": "10.1016/j.cageo.2013.04.024",
+			"url": "https://doi.org/10.1016/j.cageo.2013.04.024",
+			"openalex": "W2094887943",
+			"source": "crossref",
+			"abstract": "Depressions (or pits) are areas within a digital elevation model that are surrounded by higher terrain, with no outlet to lower areas. Filling them so they are level, as fluid would fill them if the terrain was impermeable, is often necessary in preprocessing DEMs. The depression-filling algorithm presented here - called Priority-Flood - unifies and improves the work of a number of previous authors who have published similar algorithms. The algorithm operates by flooding DEMs inwards from their edges using a priority queue to determine the next cell to be flooded. The resultant DEM has no depressions or digital dams: every cell is guaranteed to drain. The algorithm is optimal for both integer and floating-point data, working in O(n) and O(nlog\"2n) time, respectively. It is shown that by using a plain queue to fill depressions once they have been found, an O(mlog\"2m) time-complexity can be achieved, where m does not exceed the number of cells n. This is the lowest time complexity of any known floating-point depression-filling algorithm. In testing, this improved variation of the algorithm performed up to 37% faster than the original. Additionally, a parallel version of an older, but widely used, depression-filling algorithm required six parallel processors to achieve a run-time on par with what the newer algorithm's improved variation took on a single processor. The Priority-Flood Algorithm is simple to understand and implement: the included pseudocode is only 20 lines and the included C++ reference implementation is under a hundred lines. The algorithm can work on irregular meshes as well as 4-, 6-, 8-, and n-connected grids. It can also be adapted to label watersheds and determine flow directions through either incremental elevation changes or depression carving. In the case of incremental elevation changes, the algorithm includes safety checks not present in prior works.",
+			"abstract_source": "semanticscholar",
+			"keywords": [
+				"digital elevation model",
+				"priority queues",
+				"time complexity",
+				"parallel algorithms",
+				"flow direction determination",
+				"irregular meshes"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -25510,6 +25577,44 @@
 			"open_access": true
 		},
 		{
+			"key": "HR2009a",
+			"type": "book",
+			"title": "Geomorphometry: Concepts, Software, Applications",
+			"authors": [
+				"Hengl, Tomislav",
+				"Reuter, Hannes I."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2009,
+			"publisher": "Elsevier",
+			"address": "Amsterdam",
+			"series": "Developments in Soil Science",
+			"volume": "33",
+			"note": "Edited volume",
+			"isbn": "9780123743459",
+			"doi": "10.1016/S0166-2481(08)X0001-7",
+			"url": "https://doi.org/10.1016/S0166-2481(08)X0001-7",
+			"openalex": "W1600740555",
+			"source": "crossref",
+			"keywords": [
+				"terrain analysis",
+				"digital elevation model",
+				"land surface parameters",
+				"landform mapping",
+				"soil classification",
+				"soil fertility",
+				"soil porosity",
+				"soil structure",
+				"natural hazards",
+				"topographic analysis"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "HR2013a",
 			"type": "article",
 			"title": "Borg: An Auto-Adaptive Many-Objective Evolutionary Computing Framework",
@@ -27462,6 +27567,40 @@
 			"open_access": false
 		},
 		{
+			"key": "Hor1981a",
+			"type": "article",
+			"title": "Hill shading and the reflectance map",
+			"authors": [
+				"Horn, Berthold K. P."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1981,
+			"journal": "Proceedings of the IEEE",
+			"volume": "69",
+			"issue": "1",
+			"pages": "14-47",
+			"issn": "0018-9219",
+			"doi": "10.1109/proc.1981.11918",
+			"url": "https://doi.org/10.1109/proc.1981.11918",
+			"openalex": "W2032075694",
+			"source": "crossref",
+			"abstract": "Shaded overlays for maps give the user an immediate appreciation for the surface topography since they appeal to an important visual depth cue. A brief review of the history of manual methods is followed by a discussion of a number of methods that have been proposed for the automatic generation of shaded overlays. These techniques are compared using the reflectance map as a common representation for the dependence of tone or gray level on the orientation of surface elements.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"hill shading",
+				"reflectance map",
+				"surface topography",
+				"surface orientation",
+				"gray level",
+				"map visualization"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Hot1933a",
 			"type": "article",
 			"title": "Analysis of a Complex of Statistical Variables into Principal Components",
@@ -27945,6 +28084,47 @@
 			"open_access": true,
 			"abstract_source": "manual",
 			"keywords_source": "manual"
+		},
+		{
+			"key": "IMLM2023a",
+			"type": "article",
+			"title": "MultiscaleDTM: An open‐source R package for multiscale geomorphometric analysis",
+			"authors": [
+				"Ilich, Alexander R.",
+				"Misiuk, Benjamin",
+				"Lecours, Vincent",
+				"Murawski, Steven A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"journal": "Transactions in GIS",
+			"volume": "27",
+			"issue": "4",
+			"pages": "1164-1204",
+			"issn": "1361-1682",
+			"doi": "10.1111/tgis.13067",
+			"url": "https://doi.org/10.1111/tgis.13067",
+			"openalex": "W4378574680",
+			"source": "crossref",
+			"abstract": "Digital terrain models (DTMs) are datasets containing altitude values above or below a reference level, such as a reference ellipsoid or a tidal datum over geographic space, often in the form of a regularly gridded raster. They can be used to calculate terrain attributes that describe the shape and characteristics of topographic surfaces. Calculating these terrain attributes often requires multiple software packages that can be expensive and specialized. We have created a free, open‐source R package, MultiscaleDTM , that allows for the calculation of members from each of the five major thematic groups of terrain attributes: slope, aspect, curvature, relative position, and roughness, from a regularly gridded DTM. Furthermore, these attributes can be calculated at multiple spatial scales of analysis, a key feature that is missing from many other packages. Here, we demonstrate the functionality of the package and provide a simulation exploring the relationship between slope and roughness. When roughness measures do not account for slope, these attributes exhibit a strong positive correlation. To minimize this correlation, we propose a new roughness measure called adjusted standard deviation. In most scenarios tested, this measure produced the lowest rank correlation with slope out of all the roughness measures tested. Lastly, the simulation shows that some existing roughness measures from the literature that are supposed to be independent of slope can actually exhibit a strong inverse relationship with the slope in some cases.",
+			"abstract_source": "crossref",
+			"keywords": [
+				"digital terrain model",
+				"terrain analysis",
+				"terrain attributes",
+				"multiscale analysis",
+				"slope",
+				"roughness measure",
+				"curvature",
+				"aspect",
+				"relative position",
+				"open-source R package"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "INSEE2026a",
@@ -35817,6 +35997,39 @@
 			"open_access": true
 		},
 		{
+			"key": "Lin2016a",
+			"type": "article",
+			"title": "Whitebox GAT: A case study in geomorphometric analysis",
+			"authors": [
+				"Lindsay, John B."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Computers & Geosciences",
+			"volume": "95",
+			"pages": "75-84",
+			"issn": "0098-3004",
+			"doi": "10.1016/j.cageo.2016.07.003",
+			"url": "https://doi.org/10.1016/j.cageo.2016.07.003",
+			"openalex": "W2472391669",
+			"source": "crossref",
+			"keywords": [
+				"open source GIS",
+				"terrain analysis",
+				"airborne laser scanning",
+				"ground point filtering",
+				"stream network extraction",
+				"sub-basin delineation",
+				"headwater catchments",
+				"software extensibility"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "Lit1988a",
 			"type": "article",
 			"title": "A Test of Missing Completely at Random for Multivariate Data with Missing Values",
@@ -36995,6 +37208,48 @@
 			"open_access": true
 		},
 		{
+			"key": "MEJ2020a",
+			"type": "article",
+			"title": "A comprehensive system of definitions of land surface (topographic) curvatures, with implications for their application in geoscience modelling and prediction",
+			"authors": [
+				"Minár, Jozef",
+				"Evans, Ian S.",
+				"Jenčo, Marián"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "Earth-Science Reviews",
+			"volume": "211",
+			"pages": "103414",
+			"issn": "0012-8252",
+			"doi": "10.1016/j.earscirev.2020.103414",
+			"url": "https://doi.org/10.1016/j.earscirev.2020.103414",
+			"openalex": "W3095679457",
+			"source": "crossref",
+			"abstract": "Current use of land surface curvatures (LSCs) is in a confused state as a large gap has opened up between applications and theoretical work. LSCs exercise important control on changes of gravity potential energy and the equilibrium of the surface, and they are increasingly used in geosciences but they are not consistently defined. This paper offers a comprehensive theoretical framework for definition, classification and interpretation of LSCs. Systematization of known and newly derived relationships between LSCs is followed by extension of the traditional scheme for interpretation. A new comprehensive system of LSCs starts with the basic trio: profile, plan and twisting curvatures, and includes their slope-dependent sub-forms, combinations and imitations. Analysis of their influence on changes of gravitational potential energy available for mass flows is crucial for their understanding, and leads to a new interpretation of difference curvature. The systematic evaluation of LSCs as expressions of slope disequilibrium offers a further interpretation: zero values of LSCs can be considered as important theoretical attractors of landform development. LSCs are increasingly employed for analyses of landslide, flood, snow avalanche, forest fire, soil erosion, mass balance, ground water, digital soil mapping, individual landform identification and land surface segmentation, modelling of landscape development, classification of LIDAR data and visualization of terrain features. Important improvement of LSC use in all these spheres is possible. They are mostly computed in geographical information systems with limited capabilities: the performance of ArcGIS, SAGA, GRASS, LandSerf, Surfer and MICRODEM is compared here. The important interrelations of DEM resolution, accuracy and generalization are demonstrated in relation to the nested hierarchy of land forms and processes. The best interpretable LSCs, and challenges of future progress, are specified at the close of the paper.",
+			"abstract_source": "semanticscholar",
+			"keywords": [
+				"topographic curvature",
+				"profile curvature",
+				"plan curvature",
+				"gravitational potential energy",
+				"mass flow",
+				"landform development",
+				"DEM resolution",
+				"landslide analysis",
+				"avalanches",
+				"soil erosion",
+				"landscape modeling",
+				"LiDAR classification",
+				"terrain visualization"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "MF2000a",
 			"type": "article",
 			"title": "Estimation of Tail-Related Risk Measures for Heteroscedastic Financial Time Series",
@@ -37175,6 +37430,45 @@
 			"checked": false,
 			"open_access": true,
 			"pages": "1-42"
+		},
+		{
+			"key": "MGL1991a",
+			"type": "article",
+			"title": "Digital terrain modelling: A review of hydrological, geomorphological, and biological applications",
+			"authors": [
+				"Moore, I. D.",
+				"Grayson, R. B.",
+				"Ladson, A. R."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1991,
+			"journal": "Hydrological Processes",
+			"volume": "5",
+			"issue": "1",
+			"pages": "3-30",
+			"issn": "0885-6087",
+			"doi": "10.1002/hyp.3360050103",
+			"url": "https://doi.org/10.1002/hyp.3360050103",
+			"openalex": "W2143296882",
+			"source": "crossref",
+			"abstract": "The topography of a catchment has a major impact on the hydrological, geomorphological, and biological processes active in the landscape. The spatial distribution of topographic attributes can often be used as an indirect measure of the spatial variability of these processes and allows them to be mapped using relatively simple techniques. Many geographic information systems are being developed that store topographic information as the primary data for analysing water resource and biological problems. Furthermore, topography can be used to develop more physically realistic structures for hydrologic and water quality models that directly account for the impact of topography on the hydrology. Digital elevation models are the primary data used in the analysis of catchment topography. We describe elevation data sources, digital elevation model structures, and the analysis of digital elevation data for hydrological, geomorphological, and biological applications. Some hydrologic models that make use of digital representations of topography are also considered.",
+			"abstract_source": "crossref",
+			"keywords": [
+				"digital terrain modeling",
+				"digital elevation model",
+				"catchment topography",
+				"topographic attributes",
+				"hydrological modeling",
+				"geomorphology",
+				"landscape ecology",
+				"water quality modeling",
+				"physically based hydrologic model"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "MGLRS...2010a",
@@ -39526,6 +39820,34 @@
 			"source": "manual",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Mar1992a",
+			"type": "techreport",
+			"title": "Multidirectional, oblique-weighted, shaded-relief image of the Island of Hawaii",
+			"authors": [
+				"Mark, Robert K."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1992,
+			"doi": "10.3133/ofr92422",
+			"url": "https://doi.org/10.3133/ofr92422",
+			"openalex": "W135252013",
+			"source": "crossref",
+			"keywords": [
+				"Hawaii Island",
+				"shaded relief",
+				"oblique view",
+				"topography",
+				"satellite imagery"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false,
+			"publisher": "U.S. Geological Survey",
+			"institution": "U.S. Geological Survey Open-File Report 92-422"
 		},
 		{
 			"key": "Mar2015a",
@@ -43852,6 +44174,45 @@
 			"open_access": true
 		},
 		{
+			"key": "PS2026a",
+			"type": "article",
+			"title": "Geomorphometry.jl: Analyzing and visualizing the shape of the Earth in Julia.",
+			"authors": [
+				"Pronk, Maarten",
+				"Schouten, Rafael"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"journal": "Journal of Open Source Software",
+			"volume": "11",
+			"issue": "122",
+			"pages": "10395",
+			"issn": "2475-9066",
+			"doi": "10.21105/joss.10395",
+			"url": "https://doi.org/10.21105/joss.10395",
+			"openalex": "W7165674640",
+			"source": "crossref",
+			"abstract": "Digital elevation models (DEMs) are fundamental datasets in the earth sciences, used in applications from flood risk assessment to habitat mapping and climate modelling. Analysing the shape of the Earth's surface-the domain of geomorphometry-requires algorithms for deriving terrain attributes (slope, aspect, curvature), classifying landforms, routing water flows, and visualising terrain.Geomorphometry.jl is a Julia (Bezanson et al., 2017) package that provides efficient, composable, and extendable implementations of these algorithms, designed to work with plain matrices as well as geospatial data types from the Julia ecosystem.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"terrain analysis",
+				"digital elevation model",
+				"terrain attributes",
+				"slope",
+				"aspect",
+				"curvature",
+				"landform classification",
+				"terrain visualization",
+				"Julia",
+				"geospatial data"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "PSKB2023a",
 			"type": "inproceedings",
 			"title": "Do Users Write More Insecure Code with AI Assistants?",
@@ -45581,6 +45942,39 @@
 			"open_access": true,
 			"abstract": "We present the R package MSTest, which implements hypothesis testing procedures to identify the number of regimes in Markov switching models. These models have wide-ranging applications in economics, finance, and numerous other fields. The MSTest package includes the Monte Carlo likelihood ratio test procedures proposed by Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). Additionally, the package enables users to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes, using the expectation-maximization (EM) algorithm or maximum likelihood estimation (MLE). We demonstrate the functionality of the MSTest package through both simulation experiments and an application to U.S. GNP growth data.",
 			"abstract_source": "arxiv"
+		},
+		{
+			"key": "RDE1999a",
+			"type": "article",
+			"title": "A Terrain Ruggedness Index That Quantifies Topographic Heterogeneity",
+			"authors": [
+				"Riley, Shawn J.",
+				"DeGloria, Stephen D.",
+				"Elliot, Robert"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1999,
+			"journal": "Intermountain Journal of Sciences",
+			"volume": "5",
+			"issue": "1-4",
+			"pages": "23-27",
+			"openalex": "W7220037522",
+			"source": "openalex",
+			"abstract": "Terrain is an important feature of the structural niche occupied by terrestrial species. However, most researchers refer to terrain only in qualitative terms that precludes testing hypotheses about the actual importance of terrain. We present an easily calculated terrain ruggedness index (TRI) that provides an objective quantitative measure of topographic heterogeneity. Our model computes TRI values for each grid cell of a digital elevation model using a \"DOCELL\" command in an Arc/ Info geographical information system that calculates the sum change in elevation between a grid cell and its eight neighbor grid cells. T he concept and algorithm we present can be used at any scale relevant to the species of concern and question being asked for which elevation data exist.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"terrain ruggedness index",
+				"topographic heterogeneity",
+				"digital elevation model",
+				"elevation change",
+				"terrestrial organisms",
+				"habitat structure"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "RG1978a",
@@ -54157,6 +54551,38 @@
 			"open_access": false
 		},
 		{
+			"key": "Tar1997a",
+			"type": "article",
+			"title": "A new method for the determination of flow directions and upslope areas in grid digital elevation models",
+			"authors": [
+				"Tarboton, David G."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1997,
+			"journal": "Water Resources Research",
+			"volume": "33",
+			"issue": "2",
+			"pages": "309-319",
+			"issn": "0043-1397",
+			"doi": "10.1029/96wr03137",
+			"url": "https://doi.org/10.1029/96wr03137",
+			"openalex": "W2119534769",
+			"source": "crossref",
+			"abstract": "A new procedure for the representation of flow directions and calculation of upslope areas using rectangular grid digital elevation models is presented. The procedure is based on representing flow direction as a single angle taken as the steepest downward slope on the eight triangular facets centered at each grid point. Upslope area is then calculated by proportioning flow between two downslope pixels according to how close this flow direction is to the direct angle to the downslope pixel. This procedure offers improvements over prior procedures that have restricted flow to eight possible directions (introducing grid bia) or proportioned flow according to slope (introducing unrealistic dispersion). The new procedure is more robust than prior procedures based on fitting local planes while retaining a simple grid based structure. Detailed algorithms are presented and results are demonstrated through test examples and application to digital elevation data sets.",
+			"abstract_source": "crossref",
+			"keywords": [
+				"flow direction",
+				"digital elevation model",
+				"triangular facets",
+				"grid bias"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "Tas2000a",
 			"type": "article",
 			"title": "Out-of-sample tests of forecasting accuracy: an analysis and review",
@@ -55990,6 +56416,46 @@
 			"open_access": false
 		},
 		{
+			"key": "WB2019a",
+			"type": "misc",
+			"title": "whitebox: 'WhiteboxTools' R Frontend",
+			"authors": [
+				"Wu, Qiusheng",
+				"Brown, Andrew"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"doi": "10.32614/cran.package.whitebox",
+			"url": "https://doi.org/10.32614/cran.package.whitebox",
+			"openalex": "W4399635675",
+			"source": "crossref",
+			"abstract": "An R frontend for the 'WhiteboxTools' library, which is an advanced geospatial data analysis platform developed by Prof. John Lindsay at the University of Guelph's Geomorphometry and Hydrogeomatics Research Group. 'WhiteboxTools' can be used to perform common geographical information systems (GIS) analysis operations, such as cost-distance analysis, distance buffering, and raster reclassification. Remote sensing and image processing tasks include image enhancement (e.g. panchromatic sharpening, contrast adjustments), image mosaicing, numerous filtering operations, simple classification (k-means), and common image transformations. 'WhiteboxTools' also contains advanced tooling for spatial hydrological analysis (e.g. flow-accumulation, watershed delineation, stream network analysis, sink removal), terrain analysis (e.g. common terrain indices such as slope, curvatures, wetness index, hillshading; hypsometric analysis; multi-scale topographic position analysis), and LiDAR data processing. Suggested citation: Lindsay (2016) <doi:10.1016/j.cageo.2016.07.003>.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"geospatial analysis",
+				"raster analysis",
+				"cost-distance analysis",
+				"image enhancement",
+				"image stitching",
+				"image filtering",
+				"image classification",
+				"K-means classification",
+				"flow accumulation",
+				"watershed delineation",
+				"terrain analysis",
+				"terrain indices",
+				"hypsometric analysis",
+				"remote sensing"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true,
+			"publisher": "The R Foundation",
+			"note": "R package version 2.4.3"
+		},
+		{
 			"key": "WB2024a",
 			"type": "misc",
 			"title": "World Bank Indicators API Documentation",
@@ -56694,6 +57160,45 @@
 			"retrieved": "2026-11-06",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "WOBGG2007a",
+			"type": "article",
+			"title": "Multiscale Terrain Analysis of Multibeam Bathymetry Data for Habitat Mapping on the Continental Slope",
+			"authors": [
+				"Wilson, Margaret F. J.",
+				"O'Connell, Brian",
+				"Brown, Colin",
+				"Guinan, Janine C.",
+				"Grehan, Anthony J."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2007,
+			"journal": "Marine Geodesy",
+			"volume": "30",
+			"issue": "1-2",
+			"pages": "3-35",
+			"issn": "0149-0419",
+			"doi": "10.1080/01490410701295962",
+			"url": "https://doi.org/10.1080/01490410701295962",
+			"openalex": "W1990082322",
+			"source": "crossref",
+			"abstract": "Multibeam surveys can provide detailed bathymetry data for the continental slope from which quantitative descriptors of the seabed terrain (e.g., slope) may be obtained. We illustrate the value of these descriptors for benthic habitat mapping, and highlight the advantages of multiscale analysis. We examine the application of these descriptors as predictor variables for species distribution models, which are particularly valuable in the deep sea where opportunities to directly survey the benthic fauna remain limited. Our initial models are encouraging and suggest that wider adoption of these methods may assist the delivery of ecologically relevant information to marine resource managers.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"multibeam bathymetry",
+				"continental slope",
+				"benthic habitat mapping",
+				"multiscale analysis",
+				"species distribution modeling",
+				"deep-sea benthos",
+				"marine resource management"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "WPS2016a",
@@ -59161,6 +59666,43 @@
 			"retrieved": "2026-11-13",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "ZT1987a",
+			"type": "article",
+			"title": "Quantitative analysis of land surface topography",
+			"authors": [
+				"Zevenbergen, Lyle W.",
+				"Thorne, Colin R."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1987,
+			"journal": "Earth Surface Processes and Landforms",
+			"volume": "12",
+			"issue": "1",
+			"pages": "47-56",
+			"issn": "0197-9337",
+			"doi": "10.1002/esp.3290120107",
+			"url": "https://doi.org/10.1002/esp.3290120107",
+			"openalex": "W1983513512",
+			"source": "crossref",
+			"abstract": "Land surface topography significantly affects the processes of runoff and erosion. A system which determines slope, aspect, and curvature in both the down‐slope and across‐slope directions is developed for an altitude matrix. Also, the upslope drainage area and maximum drainage distance are determined for every point within the altitude matrix. A FORTRAN 66 program performs the analysis.",
+			"abstract_source": "crossref",
+			"keywords": [
+				"land surface topography",
+				"slope",
+				"aspect",
+				"curvature",
+				"drainage area",
+				"runoff",
+				"erosion",
+				"digital terrain analysis"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "ZT1999a",
@@ -74734,6 +75276,180 @@
 		{
 			"key": "ZVDDB...2022a",
 			"count": 1405,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "PS2026a",
+			"count": 1,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "PS2026a",
+			"count": 1,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Hor1981a",
+			"count": 1005,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Hor1981a",
+			"count": 1575,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "ZT1987a",
+			"count": 1364,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "ZT1987a",
+			"count": 1902,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "MEJ2020a",
+			"count": 126,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "MEJ2020a",
+			"count": 148,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "WOBGG2007a",
+			"count": 902,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "WOBGG2007a",
+			"count": 1146,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Tar1997a",
+			"count": 2021,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Tar1997a",
+			"count": 2969,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "BLM2014a",
+			"count": 226,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "BLM2014a",
+			"count": 302,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "BK1979a",
+			"count": 6397,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "BK1979a",
+			"count": 8980,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "MGL1991a",
+			"count": 2961,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "MGL1991a",
+			"count": 4194,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Mar1992a",
+			"count": 31,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Mar1992a",
+			"count": 53,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "IMLM2023a",
+			"count": 58,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "IMLM2023a",
+			"count": 57,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Lin2016a",
+			"count": 429,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Lin2016a",
+			"count": 543,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "WB2019a",
+			"count": 13,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "WB2019a",
+			"count": 28,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "RDE1999a",
+			"count": 2216,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "HR2009a",
+			"count": 1,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "HR2009a",
+			"count": 599,
 			"source": "openalex",
 			"date": "2026-11-22"
 		}
