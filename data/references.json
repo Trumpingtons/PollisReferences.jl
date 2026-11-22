@@ -23713,6 +23713,32 @@
 			"keywords_source": "pdf"
 		},
 		{
+			"key": "HBBCD2020a",
+			"type": "misc",
+			"title": "terra: Spatial Data Analysis",
+			"authors": [
+				"Hijmans, Robert J.",
+				"Brown, Andrew",
+				"Barbosa, A. Márcia",
+				"Cordano, Emanuele",
+				"Dyba, Krzysztof"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "The R Foundation",
+			"note": "R package version 1.9-60",
+			"doi": "10.32614/cran.package.terra",
+			"url": "https://doi.org/10.32614/cran.package.terra",
+			"abstract": "Methods for spatial data analysis with vector (points, lines, polygons) and raster (grid) data. Methods for vector data include geometric operations such as intersect and buffer. Raster methods include local, focal, global, zonal and geometric operations. The predict and interpolate methods facilitate the use of regression type (interpolation, machine learning) models for spatial prediction, including with satellite remote sensing data. Processing of very large files is supported. See the manual and tutorials on <https://rspatial.org/> to get started.",
+			"abstract_source": "crossref",
+			"source": "crossref",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true,
+			"openalex": "W4399637217"
+		},
+		{
 			"key": "HBBZM...2021a",
 			"type": "inproceedings",
 			"title": "Measuring Massive Multitask Language Understanding",
@@ -51960,6 +51986,24 @@
 			"retrieved": "2026-11-18"
 		},
 		{
+			"key": "Sch2026c",
+			"type": "misc",
+			"title": "Stencils.jl: Static Stencil mapping for Julia",
+			"authors": [
+				"Schouten, Rafael"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/rafaqz/Stencils.jl",
+			"abstract": "Static Stencil mapping for Julia",
+			"abstract_source": "github",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-22"
+		},
+		{
 			"key": "Seg1997a",
 			"type": "article",
 			"title": "Why the impact factor of journals should not be used for evaluating research",
@@ -54490,6 +54534,31 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "Tom1990a",
+			"type": "book",
+			"title": "Geographic Information Systems and Cartographic Modeling",
+			"authors": [
+				"Tomlin, C. Dana"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1990,
+			"publisher": "Prentice Hall",
+			"address": "Englewood Cliffs, NJ",
+			"isbn": "9780133509274",
+			"openalex": "W1544752055",
+			"keywords": [
+				"Cartography",
+				"Data processing",
+				"Geographic information systems"
+			],
+			"keywords_source": "openlibrary",
+			"source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "Tsi2011a",
@@ -59168,6 +59237,51 @@
 			"retrieved": "2026-10-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "ZVDDB...2022a",
+			"type": "misc",
+			"title": "ESA WorldCover 10 m 2021 v200",
+			"authors": [
+				"Zanaga, Daniele",
+				"Van De Kerchove, Ruben",
+				"Daems, Dirk",
+				"De Keersmaecker, Wanda",
+				"Brockmann, Carsten",
+				"Kirches, Grit",
+				"Wevers, Jan",
+				"Cartus, Oliver",
+				"Santoro, Maurizio",
+				"Fritz, Steffen",
+				"Lesiv, Myroslava",
+				"Herold, Martin",
+				"Tsendbazar, Nandin-Erdene",
+				"Xu, Panpan",
+				"Ramoino, Fabrizio",
+				"Arino, Olivier"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2022,
+			"publisher": "Zenodo",
+			"doi": "10.5281/zenodo.7254221",
+			"url": "https://doi.org/10.5281/zenodo.7254221",
+			"abstract": "The European Space Agency (ESA) WorldCover 10 m 2021 product provides a global land cover map for 2021 at 10 m resolution based on Sentinel-1 and Sentinel-2 data. The WorldCover product comes with 11 land cover classes, aligned with UN-FAO's Land Cover Classification System, and has been generated in the framework of the ESA WorldCover project. The ESA WorldCover 10m 2021 v200 product updates the existing ESA WorldCover 10m 2020 v100 product to 2021 but is produced using an improved algorithm version (v200) compared to the 2020 map. Consequently, since the WorldCover maps for 2020 and 2021 were generated with different algorithm versions (v100 and v200, respectively), changes between the maps should be treated with caution, as they include both real changes in land cover and changes due to the algorithms used.",
+			"abstract_source": "datacite",
+			"keywords": [
+				"Land cover",
+				"Land use",
+				"Sentinel-1",
+				"Sentinel-2",
+				"Remote sensing",
+				"European Space Agency"
+			],
+			"keywords_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true,
+			"openalex": "W4393636991"
 		},
 		{
 			"key": "ZW2020a",
@@ -74598,6 +74712,30 @@
 			"count": 8854,
 			"source": "openalex",
 			"date": "2026-11-21"
+		},
+		{
+			"key": "HBBCD2020a",
+			"count": 478,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "HBBCD2020a",
+			"count": 996,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "Tom1990a",
+			"count": 1206,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "ZVDDB...2022a",
+			"count": 1405,
+			"source": "openalex",
+			"date": "2026-11-22"
 		}
 	]
 }
