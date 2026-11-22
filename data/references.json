@@ -60404,6 +60404,323 @@
 			"retrieved": "2026-11-22",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "TP2012a",
+			"type": "article",
+			"title": "Automatic Detection of Pit Structures in Airborne Laser Scanning Data",
+			"authors": [
+				"Trier, Øivind Due",
+				"Pilø, Lars Holger"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2012,
+			"journal": "Archaeological Prospection",
+			"volume": "19",
+			"issue": "2",
+			"pages": "103-121",
+			"issn": "1075-2196",
+			"doi": "10.1002/arp.1421",
+			"url": "https://doi.org/10.1002/arp.1421",
+			"openalex": "W2152482502",
+			"source": "crossref",
+			"abstract": "This paper describes a new method for the automatic detection of pit structures in airborne laser scanning data collected with at least five emitted pulses per square metre. Oppland County, Norway, has a large number of ancient iron production sites and hunting systems. Today, these are manifested as pits in the ground. The iron production sites were used 1400–700 yr ago, and consist of charcoal burning pits, often located in groups of four around a central oven, which also occasionally can be located as a small mound. The hunting systems were used 2000–500 yr ago, and consisted of concealed pitfall traps and wooden fences, located on deer trekking routes. The fences are gone, but the pits remain. Many of the iron production sites and hunting systems are located in forested areas. The current, traditional mapping of these is relatively poor, with many individual pits missing, and poor positional accuracy of the ones that are mapped. This means that overlays of cultural heritage sites cannot be trusted when planning new highways, residential areas, cabins, etc. Experience suggests that automatic detection is clearly superior to visual inspection of the lidar data in finding small pits or pits that are not easily visible. However, visual inspection is better at finding additional information as human interpretation based on archaeological knowledge can be applied. Combining these two methods secures a very good basis for subsequent field survey. In conclusion, we demonstrate that automatic detection of hunting systems and iron extraction sites in lidar data is a valuable tool in combination with visual inspection of the lidar data, prior to field survey. Provided that the point density of the lidar data is high enough, the field survey can be accomplished ten times faster compared with the traditional approach without lidar data. Copyright © 2012 John Wiley & Sons, Ltd.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"pit detection",
+				"airborne laser scanning",
+				"LiDAR",
+				"archaeological site detection",
+				"pitfall traps",
+				"cultural heritage mapping"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "FHBCK2016a",
+			"type": "article",
+			"title": "Automated feature extraction for prospection and analysis of monumental earthworks from aerial LiDAR in the Kingdom of Tonga",
+			"authors": [
+				"Freeland, Travis",
+				"Heung, Brandon",
+				"Burley, David V.",
+				"Clark, Geoffrey",
+				"Knudby, Anders"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Journal of Archaeological Science",
+			"volume": "69",
+			"pages": "64-74",
+			"issn": "0305-4403",
+			"doi": "10.1016/j.jas.2016.04.011",
+			"url": "https://doi.org/10.1016/j.jas.2016.04.011",
+			"openalex": "W2339652516",
+			"source": "crossref",
+			"keywords": [
+				"automatic feature extraction",
+				"airborne laser scanning",
+				"earth mounds",
+				"Tongatapu",
+				"Tonga",
+				"object-based image analysis"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": false
+		},
+		{
+			"key": "DSL2019a",
+			"type": "article",
+			"title": "Automated mound detection using lidar and object-based image analysis in Beaufort County, South Carolina",
+			"authors": [
+				"Davis, Dylan S.",
+				"Sanger, Matthew C.",
+				"Lipo, Carl P."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"journal": "Southeastern Archaeology",
+			"volume": "38",
+			"issue": "1",
+			"pages": "23-37",
+			"issn": "0734-578X",
+			"doi": "10.1080/0734578X.2018.1482186",
+			"url": "https://doi.org/10.1080/0734578X.2018.1482186",
+			"openalex": "W2807045604",
+			"source": "crossref",
+			"abstract": "The study of precontact anthropogenic mounded features—earthen mounds, shell heaps, and shell rings—in the American Southeast is stymied by the spotty distribution of systematic surveys across the region. Many extant, yet unidentified, archaeological mound features continue to evade detection due to the heavily forested canopies that occupy large areas of the region, making pedestrian surveys difficult and preventing aerial observation. Object-based image analysis (OBIA) is a tool for analyzing light and radar (lidar) data and offers an inexpensive opportunity to address this challenge. Using publicly available lidar data from Beaufort County, South Carolina, and an OBIA approach that incorporates morphometric classification and statistical template matching, we systematically identify over 160 previously undetected mound features. This result improves our overall knowledge of settlement patterns by providing systematic knowledge about past landscapes.",
+			"abstract_source": "semanticscholar",
+			"keywords": [
+				"earth mounds",
+				"shell heaps",
+				"shell rings",
+				"LiDAR",
+				"object-based image analysis",
+				"morphometric classification"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "DLS2019a",
+			"type": "article",
+			"title": "A comparison of automated object extraction methods for mound and shell-ring identification in coastal South Carolina",
+			"authors": [
+				"Davis, Dylan S.",
+				"Lipo, Carl P.",
+				"Sanger, Matthew C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"journal": "Journal of Archaeological Science: Reports",
+			"volume": "23",
+			"pages": "166-177",
+			"issn": "2352-409X",
+			"doi": "10.1016/j.jasrep.2018.10.035",
+			"url": "https://doi.org/10.1016/j.jasrep.2018.10.035",
+			"openalex": "W2898318323",
+			"source": "crossref",
+			"abstract": "One persistent archaeological challenge is the generation of systematic documentation for the extant archaeological record at the scale of landscapes. Often our information for landscapes is the result of haphazard and patchy surveys that stem from opportunistic and historic efforts. Consequently, overall knowledge of some regions is the product of ad hoc survey area delineation, degree of accessibility, effective ground visibility, and the fraction of areas that have survived destruction from development. These factors subsequently contribute unknown biases to our understanding of chronology, settlements patterns, interaction, and exchange. Aerial remote sensing offers one potential solution for improving our knowledge of landscapes. With sensors that include LiDAR, remote sensing can identify archaeological features that are otherwise obscured by vegetation. Object-based image analyses (OBIA) of remote sensing data hold particular promise to facilitate regional analyses thorough the automation of archaeological feature recognition. Here, we explore four OBIA algorithms for artificial mound feature detection using LiDAR from Beaufort County, South Carolina: multiresolution segmentation, inverse depression analysis, template matching, and a newly designed algorithm that combines elements of segmentation and template matching. While no single algorithm proved to be consistently superior to the others, a combination of methods is shown to be the most effective for detecting archaeological features.",
+			"abstract_source": "semanticscholar",
+			"keywords": [
+				"archaeological feature detection",
+				"artificial mounds",
+				"shell rings",
+				"object-based image analysis",
+				"LiDAR",
+				"multi-scale segmentation"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "WSCJD...2021a",
+			"type": "article",
+			"title": "Deep High-Resolution Representation Learning for Visual Recognition",
+			"authors": [
+				"Wang, Jingdong",
+				"Sun, Ke",
+				"Cheng, Tianheng",
+				"Jiang, Borui",
+				"Deng, Chaorui",
+				"Zhao, Yang",
+				"Liu, Dong",
+				"Mu, Yadong",
+				"Tan, Mingkui",
+				"Wang, Xinggang",
+				"Liu, Wenyu",
+				"Xiao, Bin"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2021,
+			"journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+			"volume": "43",
+			"issue": "10",
+			"pages": "3349-3364",
+			"issn": "0162-8828",
+			"doi": "10.1109/TPAMI.2020.2983686",
+			"url": "https://doi.org/10.1109/TPAMI.2020.2983686",
+			"openalex": "W3014641072",
+			"source": "crossref",
+			"abstract": "High-resolution representations are essential for position-sensitive vision problems, such as human pose estimation, semantic segmentation, and object detection. Existing state-of-the-art frameworks first encode the input image as a low-resolution representation through a subnetwork that is formed by connecting high-to-low resolution convolutions in series (e.g., ResNet, VGGNet), and then recover the high-resolution representation from the encoded low-resolution representation. Instead, our proposed network, named as High-Resolution Network (HRNet), maintains high-resolution representations through the whole process. There are two key characteristics: (i) Connect the high-to-low resolution convolution streams in parallel and (ii) repeatedly exchange the information across resolutions. The benefit is that the resulting representation is semantically richer and spatially more precise. We show the superiority of the proposed HRNet in a wide range of applications, including human pose estimation, semantic segmentation, and object detection, suggesting that the HRNet is a stronger backbone for computer vision problems. All the codes are available at https://github.com/HRNet.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"HRNet",
+				"human pose estimation",
+				"semantic segmentation",
+				"object detection",
+				"backbone networks"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "DKPKS...2023a",
+			"type": "article",
+			"title": "AiTLAS: Artificial Intelligence Toolbox for Earth Observation",
+			"authors": [
+				"Dimitrovski, Ivica",
+				"Kitanovski, Ivan",
+				"Panov, Panče",
+				"Kostovska, Ana",
+				"Simidjievski, Nikola",
+				"Kocev, Dragi"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2023,
+			"journal": "Remote Sensing",
+			"volume": "15",
+			"issue": "9",
+			"pages": "2343",
+			"issn": "2072-4292",
+			"doi": "10.3390/rs15092343",
+			"url": "https://doi.org/10.3390/rs15092343",
+			"openalex": "W4367310933",
+			"source": "crossref",
+			"abstract": "We propose AiTLAS—an open-source, state-of-the-art toolbox for exploratory and predictive analysis of satellite imagery. It implements a range of deep-learning architectures and models tailored for the EO tasks illustrated in this case. The versatility and applicability of the toolbox are showcased in a variety of EO tasks, including image scene classification, semantic image segmentation, object detection, and crop type prediction. These use cases demonstrate the potential of the toolbox to support the complete data analysis pipeline starting from data preparation and understanding, through learning novel models or fine-tuning existing ones, using models for making predictions on unseen images, and up to analysis and understanding of the predictions and the predictive performance yielded by the models. AiTLAS brings the AI and EO communities together by facilitating the use of EO data in the AI community and accelerating the uptake of (advanced) machine-learning methods and approaches by EO experts. It achieves this by providing: (1) user-friendly, accessible, and interoperable resources for data analysis through easily configurable and readily usable pipelines; (2) standardized, verifiable, and reusable data handling, wrangling, and pre-processing approaches for constructing AI-ready data; (3) modular and configurable modeling approaches and (pre-trained) models; and (4) standardized and reproducible benchmark protocols including data and models.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"satellite imagery",
+				"Earth observation",
+				"image classification",
+				"semantic segmentation",
+				"object detection",
+				"AI-ready data"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "KKCKC...2025a",
+			"type": "misc",
+			"title": "ADAF machine learning model weights",
+			"authors": [
+				"Kostovska, Ana",
+				"Kocev, Dragi",
+				"Čož, Nejc",
+				"Kokalj, Žiga",
+				"Curran, Susan",
+				"Corns, Anthony"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"note": "Dataset, version 1.0.0",
+			"doi": "10.5281/zenodo.15848663",
+			"url": "https://doi.org/10.5281/zenodo.15848663",
+			"abstract": "This dataset contains pretrained deep learning model weights for the ADAF (Automatic Detection of Archaeological Features) tool. Models are provided in PyTorch format and are compatible with the AiTLAS Python framework. They support both object detection (Faster R-CNN) and semantic segmentation (HRNet) tasks across four archaeological classes: all archaeology (AO), barrows, enclosures, and ringforts. These models were trained on expert-annotated airborne laser scanning (ALS) data from Ireland and are intended for use with the ADAF application. For installation and usage instructions, refer to the ADAF GitHub repository: https://github.com/EarthObservation/adaf .",
+			"abstract_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Wig2019a",
+			"type": "misc",
+			"title": "PyTorch Image Models",
+			"authors": [
+				"Wightman, Ross"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"doi": "10.5281/zenodo.4414861",
+			"url": "https://github.com/huggingface/pytorch-image-models",
+			"abstract": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+			"abstract_source": "github",
+			"keywords": [
+				"pytorch",
+				"pretrained-models",
+				"image-classification",
+				"imagenet"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "FMLC2026a",
+			"type": "misc",
+			"title": "NNlib.jl: neural network primitives with multiple backends",
+			"authors": [
+				"FluxML Contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/FluxML/NNlib.jl",
+			"abstract": "Neural Network primitives with multiple backends",
+			"abstract_source": "github",
+			"keywords": [
+				"deep-learning",
+				"julia",
+				"machine-learning"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "PJC2026a",
+			"type": "misc",
+			"title": "Pickle.jl: loading and saving objects in Python's Pickle format",
+			"authors": [
+				"Pickle.jl Contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/chengchingwen/Pickle.jl",
+			"abstract": "An experimental package for loading and saving object in Python Pickle format.",
+			"abstract_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-22",
+			"checked": false,
+			"open_access": true
 		}
 	],
 	"counts": [
@@ -75842,6 +76159,78 @@
 		{
 			"key": "YSP2002a",
 			"count": 603,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "TP2012a",
+			"count": 59,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "TP2012a",
+			"count": 78,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "FHBCK2016a",
+			"count": 113,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "FHBCK2016a",
+			"count": 141,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "DSL2019a",
+			"count": 64,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "DSL2019a",
+			"count": 86,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "DLS2019a",
+			"count": 20,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "DLS2019a",
+			"count": 53,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "WSCJD...2021a",
+			"count": 4352,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "WSCJD...2021a",
+			"count": 6078,
+			"source": "openalex",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "DKPKS...2023a",
+			"count": 15,
+			"source": "crossref",
+			"date": "2026-11-22"
+		},
+		{
+			"key": "DKPKS...2023a",
+			"count": 22,
 			"source": "openalex",
 			"date": "2026-11-22"
 		}
