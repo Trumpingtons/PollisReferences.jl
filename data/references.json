@@ -61614,6 +61614,94 @@
 			"retrieved": "2026-11-23",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "ETBBB...2025a",
+			"type": "misc",
+			"title": "Pleiades Datasets 4.1",
+			"authors": [
+				"Elliott, Tom",
+				"Talbert, Richard",
+				"Bagnall, Roger",
+				"Becker, Jeffrey",
+				"Bond, Sarah",
+				"Gillies, Sean",
+				"Holman, Lindsay",
+				"Horne, Ryan",
+				"Moss, Gabe",
+				"Rabinowitz, Adam",
+				"Robinson, Elizabeth",
+				"Turner, Brian",
+				"Institute for the Study of the Ancient World (NYU)"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"version": "4.1",
+			"publisher": "Zenodo",
+			"doi": "10.5281/zenodo.1193921",
+			"url": "https://doi.org/10.5281/zenodo.1193921",
+			"note": "Dataset",
+			"abstract": "This is a package of data derived from the Pleiades gazetteer of ancient places. It is used for archival and redistribution purposes and is likely to be less up-to-date than the live data at https://pleiades.stoa.org. Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research. Pleiades is a continuously published scholarly reference work for the 21st century. We embrace the new paradigm of citizen humanities, encouraging contributions from any knowledgeable person and doing so in a context of pervasive peer review. Pleiades welcomes your contribution, no matter how small, and we have a number of useful tasks suitable for volunteers of every interest. Please report problems and make feature requests via the main Pleiades Gazetteer Issue Tracker. Content is governed by the copyrights of the individual contributors responsible for its creation. Some rights are reserved. All content is distributed under the terms of a Creative Commons Attribution license (cc-by). In order to facilitate reproducibility and to comply with license terms, we encourage use and citation of numbered releases for scholarly work that will be published in static form.",
+			"abstract_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Goo2026h",
+			"type": "misc",
+			"title": "Import Map Features from a File",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://support.google.com/mymaps/answer/3024836",
+			"note": "My Maps Help",
+			"abstract": "My Maps imports map features, such as lines, shapes and places, into a layer of a map from a file: CSV, TSV, KML, KMZ, GPX, XLSX, a Google Sheet, or photos in Google Drive or Google Photos. Unzipped KML and KMZ files can be up to 5 MB and other files up to 40 MB, and a file should not have more than 2,000 rows. A spreadsheet needs a row of titles and a column of latitude and longitude, addresses, place names or WKT geometry, the last in a column named WKT. A layer is imported from the legend of the map, with Add layer and then Import.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google My Maps",
+				"KML",
+				"KMZ",
+				"CSV",
+				"import",
+				"web maps"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false
+		},
+		{
+			"key": "Goo2026i",
+			"type": "misc",
+			"title": "Import Data into Google Earth",
+			"authors": [
+				"Google"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://support.google.com/earth/answer/7365595",
+			"note": "Google Earth Help",
+			"abstract": "Google Earth imports a user's own geospatial data into a cloud-based map project from KML and KMZ, GeoJSON, a zipped Shapefile, and, experimentally, CSV and Google Sheets. Data can be imported as map features, editable placemarks, paths and polygons, up to 10,000 features and 250,000 vertices per import; as data layers, read-only but filtered and styled by column values, for larger datasets, counted against the Google Earth storage quota; or as local KML and KMZ files, opened from the device and visible only there.",
+			"abstract_source": "manual",
+			"keywords": [
+				"Google Earth",
+				"KML",
+				"KMZ",
+				"GeoJSON",
+				"import",
+				"data layers"
+			],
+			"keywords_source": "manual",
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false
 		}
 	],
 	"counts": [
