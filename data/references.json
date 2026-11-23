@@ -675,6 +675,72 @@
 			"open_access": true
 		},
 		{
+			"key": "ACSSW2020a",
+			"type": "misc",
+			"title": "IIIF Presentation API 3.0",
+			"authors": [
+				"Appleby, Michael",
+				"Crane, Tom",
+				"Sanderson, Robert",
+				"Stroop, Jon",
+				"Warner, Simeon"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "IIIF Consortium",
+			"note": "Version 3.0.0",
+			"url": "https://iiif.io/api/presentation/3.0/",
+			"abstract": "The specification of the IIIF Presentation API, version 3.0, published by the IIIF Consortium. Its objective is to provide the information necessary to allow a rich, online viewing environment for compound digital objects to be presented to a human user, often with the IIIF Image API. A Manifest describes one object with Canvases that hold its images; its label is a short textual surrogate for the resource that a human reads, its metadata an ordered list of label and value pairs for display, with no descriptive semantics to be inferred, and its navDate a date that clients may use for navigation in a date-based interface such as a calendar or timeline, given as an XSD dateTime.",
+			"keywords": [
+				"IIIF",
+				"Presentation API",
+				"manifest",
+				"navDate",
+				"metadata",
+				"digital collections"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "ACSSW2020b",
+			"type": "misc",
+			"title": "IIIF Image API 3.0",
+			"authors": [
+				"Appleby, Michael",
+				"Crane, Tom",
+				"Sanderson, Robert",
+				"Stroop, Jon",
+				"Warner, Simeon"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "IIIF Consortium",
+			"note": "Version 3.0.0",
+			"url": "https://iiif.io/api/image/3.0/",
+			"abstract": "The specification of the IIIF Image API, version 3.0, published by the IIIF Consortium. It specifies a web service that returns an image in response to a standard HTTP or HTTPS request whose URI names the region, size, rotation, quality and format of the image wanted, and an image information document (info.json) that gives the image's width and height, its tiles and sizes, and the functions the server supports. The API also covers the CORS headers that let a web page read the images.",
+			"keywords": [
+				"IIIF",
+				"Image API",
+				"image server",
+				"tiles",
+				"region",
+				"size"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "AD2006a",
 			"type": "article",
 			"title": "Mesh Adaptive Direct Search Algorithms for Constrained Optimization",
@@ -1255,6 +1321,33 @@
 			"open_access": false
 		},
 		{
+			"key": "All2026a",
+			"type": "misc",
+			"title": "Allmaps: curating, georeferencing and exploring IIIF maps",
+			"authors": [
+				"Allmaps"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://allmaps.org",
+			"abstract": "Allmaps is a set of open-source tools for curating, georeferencing and exploring collections of digitized maps shared through IIIF by libraries, archives and museums. With Allmaps Editor any map from an institution that supports IIIF can be georeferenced, without GIS infrastructure or generated XYZ tiles: the ground control points and the mask of each map are saved as a Georeference Annotation. The Allmaps API (api.allmaps.org) lists the georeferenced maps that intersect a point or a box, or lie within a box, with their area and scale, as annotations or as GeoJSON, and the Allmaps Tile Server (allmaps.xyz) serves each map warped onto web map tiles.",
+			"keywords": [
+				"Allmaps",
+				"georeferencing",
+				"IIIF",
+				"historical maps",
+				"tile server",
+				"annotations"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "ALSSS2015a",
 			"type": "article",
 			"title": "Identification of Patient Zero in Static and Temporal Networks: Robustness and Limitations",
@@ -1431,6 +1524,64 @@
 			"retrieved": "2026-11-19",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "ANIGN2025a",
+			"type": "misc",
+			"title": "Carte de Cassini – exemplaire du Roi",
+			"authors": [
+				"Archives nationales",
+				"Institut national de l'information géographique et forestière"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2025,
+			"note": "Dataset, Licence Ouverte / Open License",
+			"url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/ARCHIVES-NATIONALES_CASSINI-ROI",
+			"abstract": "The general map of France known as the map of Cassini, made by the Cassini family of cartographers between 1756 and 1815: about 180 sheets, the first map of the kingdom that is both general and detailed, showing France within its borders of the time, without Nice, Savoy and Corsica and with towns now in Belgium, Luxembourg or Germany. This copy, commissioned by the King, was scanned at 400 dpi by the Archives nationales, then cut, assembled and georeferenced by IGN, and is served as tiles by the Géoplateforme. Some areas are missing where sheets were lost or damaged. It is public information that may be reused freely and at no cost, for any purpose including commercial, under the Licence Ouverte, provided the integrity of the data is respected and every redistribution names the source given in the metadata.",
+			"keywords": [
+				"Cassini",
+				"France",
+				"historical maps",
+				"eighteenth century",
+				"georeferencing",
+				"IGN"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
+			"key": "ANIGN2025b",
+			"type": "misc",
+			"title": "Carte de Cassini – exemplaire dit « de Marie-Antoinette »",
+			"authors": [
+				"Archives nationales",
+				"Institut national de l'information géographique et forestière"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2025,
+			"note": "Dataset, Licence Ouverte / Open License",
+			"url": "https://cartes.gouv.fr/rechercher-une-donnee/dataset/BNF_CASSINI-MARIE-ANTOINETTE",
+			"abstract": "The map of Cassini, made between 1756 and 1815, in the copy said to have been made for Queen Marie-Antoinette: nearly 180 sheets scanned at 400 dpi by the Bibliothèque nationale de France, then cut, assembled and georeferenced by IGN, and served as tiles by the Géoplateforme. It covers France within its borders of the time, except some areas where sheets were lost or damaged. It is public information that may be reused freely and at no cost, for any purpose including commercial, under the Licence Ouverte, provided the integrity of the data is respected and every redistribution names the source given in the metadata.",
+			"keywords": [
+				"Cassini",
+				"France",
+				"historical maps",
+				"Bibliothèque nationale de France",
+				"georeferencing",
+				"IGN"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "ANMC2017a",
@@ -28006,6 +28157,34 @@
 			"open_access": false
 		},
 		{
+			"key": "IGN2026a",
+			"type": "misc",
+			"title": "API Géoplateforme – Diffusion d'images tuilées WMTS",
+			"authors": [
+				"Institut national de l'information géographique et forestière"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetCapabilities",
+			"abstract": "The WMTS service of IGN's Géoplateforme, which serves precomputed images as tiles in predefined formats, reference systems and zoom levels, following the OGC WMTS 1.0.0 standard, under the general terms of use of cartes.gouv.fr. Its layers include the maps of Cassini, the map of the état-major (1820-1866) and that of the surroundings of Paris (1818-1824), IGN's map of 1950 at 1:50,000, historical aerial photographs of 1950-1965, 1965-1980 and 1980-1995, and today's Plan IGN and aerial photographs, each with its tile matrix set and the zoom levels it covers.",
+			"keywords": [
+				"IGN",
+				"Géoplateforme",
+				"WMTS",
+				"tiles",
+				"France",
+				"aerial photographs",
+				"état-major"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "IGR2024a",
 			"type": "inproceedings",
 			"title": "Hybrid Symbolic-Numeric and Numerically-Assisted Symbolic Integration",
@@ -28038,6 +28217,32 @@
 				"ACM CCS: Computing methodologies → Symbolic calculus algorithms; Hybrid symbolic-numeric methods; Algebraic algorithms"
 			],
 			"classifications_source": "pdf"
+		},
+		{
+			"key": "IIIFC2023a",
+			"type": "misc",
+			"title": "Georeference Extension",
+			"authors": [
+				"International Image Interoperability Framework Consortium"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2023,
+			"url": "https://iiif.io/api/extension/georef/",
+			"abstract": "An extension of the IIIF APIs, produced by the IIIF Maps Community Group and the IIIF Maps Technical Specification Group and first published on 15 May 2023, that describes how to store the metadata needed to georeference a IIIF resource in a Georeference Annotation. Georeferencing maps the internal coordinates of an image to geographic coordinates; the annotation targets a Canvas or Image Service, with a region called a map, and its body is a GeoJSON Feature Collection of ground control points, each linking resource coordinates to geographic coordinates, with an optional transformation, such as a polynomial or thin plate spline, that clients may use. Georeference Annotations convert images such as digitized maps and aerial photographs into geospatial assets.",
+			"keywords": [
+				"IIIF",
+				"georeferencing",
+				"annotations",
+				"ground control points",
+				"historical maps"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "IISN2018a",
@@ -37447,6 +37652,36 @@
 			"open_access": false
 		},
 		{
+			"key": "Mer1569a",
+			"type": "misc",
+			"title": "Nova et aucta orbis terrae descriptio ad usum navigantium emendate accomodata",
+			"authors": [
+				"Mercator, Gerhard"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 1569,
+			"publisher": "e-rara, Universitätsbibliothek Basel",
+			"doi": "10.3931/e-rara-25290",
+			"note": "Digitised map, Public Domain Mark 1.0",
+			"url": "https://doi.org/10.3931/e-rara-25290",
+			"abstract": "Gerhard Mercator's world map, printed at Duisburg in 1569: one map on 18 sheets, a copperplate engraving of 135 x 212 cm, at about 1:20,000,000, from 180° west to 180° east and from 90° north to 90° south. The digitised copy is that of the University Library of Basel (UBH Kartenslg AA 3-5), online in e-rara, the platform for digitized rare books from Swiss institutions, since 24 June 2014, with the sheets joined into one image and marked with the Public Domain Mark 1.0.",
+			"keywords": [
+				"Mercator",
+				"world map",
+				"1569",
+				"e-rara",
+				"University Library of Basel",
+				"IIIF"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "MF2000a",
 			"type": "article",
 			"title": "Estimation of Tail-Related Risk Measures for Heteroscedastic Financial Time Series",
@@ -42705,6 +42940,32 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": true
+		},
+		{
+			"key": "ON2026a",
+			"type": "misc",
+			"title": "Tabula Peutingeriana (Cod. 324)",
+			"authors": [
+				"Österreichische Nationalbibliothek"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://data.onb.ac.at/dtl/2764184",
+			"abstract": "The record and full digitisation of the Tabula Peutingeriana at the Austrian National Library, Cod. 324: a manuscript map in Latin dated 1200-1220, 340 x 6745 mm, originally a roll and now in 11 segments in passe-partout. Conrad Celtis bequeathed it to Konrad Peutinger. The library's IIIF manifest gives an image of the front and of the back of each segment, and asks that reuse name the Austrian National Library.",
+			"keywords": [
+				"Tabula Peutingeriana",
+				"Roman roads",
+				"manuscript map",
+				"Austrian National Library",
+				"IIIF"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "ONS2026a",
@@ -56865,6 +57126,32 @@
 			"retrieved": "2026-10-30",
 			"checked": true,
 			"open_access": true
+		},
+		{
+			"key": "WC2026a",
+			"type": "misc",
+			"title": "Commons:When to use the PD-Art tag",
+			"authors": [
+				"Wikimedia Commons"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-Art_tag",
+			"abstract": "The policy of Wikimedia Commons on the PD-Art tag, which an uploader of a photograph taken by somebody else may use to assert that the photograph can have no independent copyright, as it is a faithful reproduction of an old, public domain, two-dimensional work of art. The tag can be used on any such photograph regardless of the source country, following a poll in July 2008; scans and photocopies have the PD-scan tag instead. A photograph whose framing, lighting or point of view involve artistic choices is not covered.",
+			"keywords": [
+				"Wikimedia Commons",
+				"public domain",
+				"PD-Art",
+				"reproductions",
+				"copyright"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
 		},
 		{
 			"key": "WD1992a",
