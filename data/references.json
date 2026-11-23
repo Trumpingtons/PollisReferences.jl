@@ -60886,6 +60886,101 @@
 			"retrieved": "2026-11-23",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "OCGLG...2020a",
+			"type": "article",
+			"title": "Automated detection of archaeological mounds using machine-learning classification of multisensor and multitemporal satellite data",
+			"authors": [
+				"Orengo, Hector A.",
+				"Conesa, Francesc C.",
+				"Garcia-Molsosa, Arnau",
+				"Lobo, Agustín",
+				"Green, Adam S.",
+				"Madella, Marco",
+				"Petrie, Cameron A."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"journal": "Proceedings of the National Academy of Sciences",
+			"volume": "117",
+			"issue": "31",
+			"pages": "18240-18250",
+			"issn": "0027-8424",
+			"doi": "10.1073/pnas.2005583117",
+			"url": "https://doi.org/10.1073/pnas.2005583117",
+			"openalex": "W3044773400",
+			"source": "crossref",
+			"abstract": "Significance This paper illustrates the potential of machine learning-based classification of multisensor, multitemporal satellite data for the remote detection and mapping of archaeological mounded settlements in arid environments. Our research integrates multitemporal synthetic-aperture radar and multispectral bands to produce a highly accurate probability field of mound signatures. The results largely expand the known concentration of Indus settlements in the Cholistan Desert in Pakistan ( ca . 3300 to 1500 BC), with the detection of hundreds of new sites deeper in the desert than previously suspected including several large-sized (>30 ha) urban centers. These distribution patterns have major implications regarding the influence of climate change and desertification in the collapse of the largest of the Old-World Bronze Age civilizations.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Indus Valley civilization",
+				"Cholistan Desert",
+				"synthetic aperture radar",
+				"multispectral satellite imagery",
+				"multi-temporal satellite imagery",
+				"machine learning classification",
+				"arid regions",
+				"desertification",
+				"remote sensing of archaeological sites"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "JAIC2026a",
+			"type": "misc",
+			"title": "DecisionTree.jl: Julia implementation of Decision Tree (CART) and Random Forest algorithms",
+			"authors": [
+				"JuliaAI Contributors"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://github.com/JuliaAI/DecisionTree.jl",
+			"abstract": "Julia implementation of Decision Tree (CART) and Random Forest algorithms",
+			"abstract_source": "github",
+			"keywords": [
+				"classification",
+				"decision-tree",
+				"julia",
+				"machine-learning",
+				"random-forests",
+				"regression"
+			],
+			"keywords_source": "github",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-23"
+		},
+		{
+			"key": "E2026a",
+			"type": "misc",
+			"title": "Earth Search: Sentinel-2 Level-2A",
+			"authors": [
+				"Element 84"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://element84.com/earth-search/",
+			"note": "Dataset, updated continuously",
+			"abstract": "Global Sentinel-2 data from the Multispectral Instrument (MSI) onboard Sentinel-2",
+			"abstract_source": "publisher",
+			"keywords": [
+				"sentinel",
+				"earth observation",
+				"esa"
+			],
+			"keywords_source": "publisher",
+			"source": "manual",
+			"checked": false,
+			"open_access": true,
+			"retrieved": "2026-11-23"
 		}
 	],
 	"counts": [
@@ -76444,6 +76539,18 @@
 		{
 			"key": "LDGHH...2017a",
 			"count": 36512,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "OCGLG...2020a",
+			"count": 168,
+			"source": "crossref",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "OCGLG...2020a",
+			"count": 202,
 			"source": "openalex",
 			"date": "2026-11-23"
 		}
