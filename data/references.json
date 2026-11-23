@@ -61233,6 +61233,100 @@
 			"checked": false,
 			"open_access": true,
 			"retrieved": "2026-11-23"
+		},
+		{
+			"key": "TL2019a",
+			"type": "inproceedings",
+			"title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+			"authors": [
+				"Tan, Mingxing",
+				"Le, Quoc V."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2019,
+			"booktitle": "Proceedings of the 36th International Conference on Machine Learning",
+			"series": "Proceedings of Machine Learning Research",
+			"volume": "97",
+			"pages": "6105-6114",
+			"url": "https://proceedings.mlr.press/v97/tan19a.html",
+			"openalex": "W2946948417",
+			"source": "openalex",
+			"abstract": "Convolutional Neural Networks (ConvNets) are commonly developed at a fixed resource budget, and then scaled up for better accuracy if more resources are available. In this paper, we systematically study model scaling and identify that carefully balancing network depth, width, and resolution can lead to better performance. Based on this observation, we propose a new scaling method that uniformly scales all dimensions of depth/width/resolution using a simple yet highly effective compound coefficient. We demonstrate the effectiveness of this method on scaling up MobileNets and ResNet. To go even further, we use neural architecture search to design a new baseline network and scale it up to obtain a family of models, called EfficientNets, which achieve much better accuracy and efficiency than previous ConvNets. In particular, our EfficientNet-B7 achieves state-of-the-art 84.3% top-1 accuracy on ImageNet, while being 8.4x smaller and 6.1x faster on inference than the best existing ConvNet. Our EfficientNets also transfer well and achieve state-of-the-art accuracy on CIFAR-100 (91.7%), Flowers (98.8%), and 3 other transfer learning datasets, with an order of magnitude fewer parameters. Source code is at https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"EfficientNet",
+				"model scaling",
+				"convolutional neural networks",
+				"compound scaling",
+				"MobileNet",
+				"ResNet"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Ros2025a",
+			"type": "misc",
+			"title": "Enki: AI for Archaeology – Datasets for Automatic Site Recognition",
+			"authors": [
+				"Rosati, Paolo"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"publisher": "Zenodo",
+			"doi": "10.5281/zenodo.14950564",
+			"url": "https://doi.org/10.5281/zenodo.14950564",
+			"note": "Dataset",
+			"abstract": "Enki: AI for Archaeology – Datasets for Automatic Site Recognition Artificial intelligence meets archaeology with Enki, a deep learning supervised system designed to support the discovery of hidden archaeological sites. This first version of Enki dataset, released under the CC-BY-SA 4.0 license, enables the exploration and analysis of satellite and aerial images to identify potential traces of possible ancient settlements. Available Datasets We have released three high-quality datasets for training, validating, and testing automatic recognition models: ✅ Normalized_Tell_combined_350 (Training Set) • 21,654 images • Resolution: 350×350 px • Size: 1.70 GB ✅ Val_norm (Validation Set) • 1,290 images • Resolution: 350×350 px • Size: 287 MB ✅ Test_2025_02_05 (Test Set) • 1,459 images • Resolution: 3023×3023 px • Size: 12.05 GB These datasets have been specifically designed to optimize the training of computer vision models specializing in the identification of tells, anthropogenic settlements, and other archaeological structures that are invisible to the naked eye.",
+			"abstract_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Ros2025b",
+			"type": "misc",
+			"title": "Enki: AI-Assistant for Archaeological Discoveries",
+			"authors": [
+				"Rosati, Paolo"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"url": "https://github.com/archeorosati/enki",
+			"note": "Software and trained model",
+			"abstract": "Enki: AI-Powered Archaeological Discovery 🚀 Unveiling the Past with AI Enki is an open-source deep learning framework for detecting archaeological sites using computer vision and remote sensing. Trained on a solid image datasets, it enables large-scale automated site recognition. Open research, CC-BY-SA 4.0.",
+			"abstract_source": "github",
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "Ped2007a",
+			"type": "misc",
+			"title": "ANE Site Placemarks for Google Earth",
+			"authors": [
+				"Pedersen, Olof"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2007,
+			"publisher": "Zenodo",
+			"doi": "10.5281/zenodo.6384045",
+			"url": "https://doi.org/10.5281/zenodo.6384045",
+			"note": "Dataset",
+			"abstract": "ANE.kmz is a set of site placemarks for Google Earth of a selection of the most important archaeological sites in the Ancient Near East. ANE.kmz works with Google Earth Pro, which first has to be downloaded for free. When opened inside Google Earth Pro, ANE.kmz gives, to the left, an alphabetic list of ancient sites and, to the right, on the satellite images the same sites marked. For the moment, there are some 2500 sites with modern names; among them some 400 have ancient names. Additions of more sites are planned. Ancient names are written without parenthesis. Modern names are within parenthesis. Most sites have been identified on the satellite images. ANE Waters.kmz is an experimental set of provisional water placemarks for Google Earth covering Mesopotamia up to modern time. ANE Picture.jpg is just illustrating the appearence of ANE.kmz before zooming in and is not for use. The development started in 2007 with support from Uppsala University, the Urban Mind Project at Mistra, and the Excellence Cluster Topoi at Freie Universität Berlin. Early versions were hosted by Uppsala University servers.",
+			"abstract_source": "datacite",
+			"source": "datacite",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
 		}
 	],
 	"counts": [
