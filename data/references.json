@@ -3016,6 +3016,50 @@
 			"open_access": true
 		},
 		{
+			"key": "BBZ2013a",
+			"type": "article",
+			"title": "From Baghdad to London: Unraveling Urban Development in Europe, the Middle East, and North Africa, 800–1800",
+			"authors": [
+				"Bosker, Maarten",
+				"Buringh, Eltjo",
+				"van Zanden, Jan Luiten"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2013,
+			"journal": "The Review of Economics and Statistics",
+			"volume": "95",
+			"number": "4",
+			"pages": "1418-1437",
+			"issn": "0034-6535",
+			"doi": "10.1162/REST_a_00284",
+			"url": "https://doi.org/10.1162/REST_a_00284",
+			"source": "crossref",
+			"openalex": "W2129366450",
+			"abstract": "This paper empirically investigates why, between 800 and 1800, the urban center of gravity moved from the Islamic world to Europe. Using a large new city-specific data set covering Europe, the Middle East, and North Africa, we unravel the role of geography and institutions in determining long-run city development in the two regions. We find that the main reasons for the Islamic world's stagnation and Europe's long-term success are specific to each region: any significant positive interaction between cities in the two regions hampered by their different main religious orientation. Together, the long-term consequences of a different choice of main transport mode (camel versus ship) and the development of forms of local participative government in Europe that made cities less dependent on the state explain why Europe's urban development eventually outpaced that in the Islamic world.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"urban development",
+				"long-run economic growth",
+				"Islamic world",
+				"Europe",
+				"Middle East",
+				"North Africa",
+				"development geography",
+				"institutions",
+				"religious orientation",
+				"transport modes",
+				"camel transport",
+				"carriage of goods by sea",
+				"participatory government",
+				"state dependence"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": false
+		},
+		{
 			"key": "BC1964a",
 			"type": "article",
 			"title": "An Analysis of Transformations",
@@ -7061,6 +7105,40 @@
 			"source": "manual",
 			"retrieved": "2026-11-03",
 			"checked": true,
+			"open_access": true
+		},
+		{
+			"key": "Bur2020a",
+			"type": "misc",
+			"title": "European urban population, 700 - 2000",
+			"authors": [
+				"Buringh, Eltjo"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2020,
+			"publisher": "DANS Data Station Social Sciences and Humanities",
+			"doi": "10.17026/dans-xzy-u62q",
+			"url": "https://doi.org/10.17026/dans-xzy-u62q",
+			"note": "Dataset, version 1.1, CC0 1.0",
+			"source": "datacite",
+			"openalex": "W6943940935",
+			"abstract": "This dataset contains estimates of the urban population (in thousands of inhabitants) between the years 700 and 2000 in 2,262 European settlements. It is based on previous historical demographic sources that have been critically assessed and systematically complemented with new population estimates for additional time windows, deriving from either quantitative sources or proxies. Missing data are covered by city-specific imputations. It contains European cities with more than 100,000 inhabitants. Furthermore medieval first and second nature geographical data for all cities have been added, as well as their historical names.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"urban population",
+				"historical demography",
+				"European cities",
+				"medieval towns",
+				"population estimates",
+				"historical geography",
+				"city names",
+				"urbanization",
+				"settlement history"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
 			"open_access": true
 		},
 		{
@@ -19925,6 +20003,49 @@
 			"open_access": true
 		},
 		{
+			"key": "GBDS2017a",
+			"type": "article",
+			"title": "Anthropogenic land use estimates for the Holocene – HYDE 3.2",
+			"authors": [
+				"Klein Goldewijk, Kees",
+				"Beusen, Arthur",
+				"Doelman, Jonathan",
+				"Stehfest, Elke"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2017,
+			"journal": "Earth System Science Data",
+			"volume": "9",
+			"number": "2",
+			"pages": "927-953",
+			"issn": "1866-3516",
+			"doi": "10.5194/essd-9-927-2017",
+			"url": "https://doi.org/10.5194/essd-9-927-2017",
+			"source": "crossref",
+			"openalex": "W2560200117",
+			"abstract": "This paper presents an update and extension of HYDE, the History Database of the Global Environment (HYDE version 3.2). HYDE is an internally consistent combination of historical population estimates and allocation algorithms with time-dependent weighting maps for land use. Categories include cropland, with new distinctions for irrigated and rain-fed crops (other than rice) and irrigated and rain-fed rice. Grazing lands are also provided, divided into more intensively used pasture and less intensively used rangeland, and further specified with respect to conversion of natural vegetation to facilitate global change modellers. Population is represented by maps of total, urban, rural population, population density and built-up area. The period covered is 10 000 before Common Era (BCE) to 2015 Common Era (CE). All data can be downloaded from https://doi.org/10.17026/dans-25g-gez3. We estimate that global population increased from 4.4 million people (we also estimate a lower range < 0.01 and an upper range of 8.9 million) in 10 000 BCE to 7.257 billion in 2015 CE, resulting in a global population density increase from 0.03 persons (or capita, in short cap) km−2 (range 0–0.07) to almost 56 cap km−2 respectively. The urban built-up area evolved from almost zero to roughly 58 Mha in 2015 CE, still only less than 0.5 % of the total land surface of the globe. Cropland occupied approximately less than 1 % of the global land area (13 037 Mha, excluding Antarctica) for a long time period until 1 CE, quite similar to the grazing land area. In the following centuries the share of global cropland slowly grew to 2.2 % in 1700 CE (ca. 293 Mha, uncertainty range 220–367 Mha), 4.4 % in 1850 CE (578 Mha, range 522–637 Mha) and 12.2 % in 2015 CE (ca. 1591 Mha, range 1572–1604 Mha). Cropland can be further divided into rain-fed and irrigated land, and these categories can be further separated into rice and non-rice. Rain-fed croplands were much more common, with 2.2 % in 1700 CE (289 Mha, range 217–361 Mha), 4.2 % (549 Mha, range 496–606 Mha) in 1850 CE and 10.1 % (1316 Mha, range 1298–1325 Mha) in 2015 CE, while irrigated croplands used less than 0.05 % (4.3 Mha, range 3.1–5.5 Mha), 0.2 % (28 Mha, range 25–31 Mha) and 2.1 % (277 Mha, range 273–278 Mha) in 1700, 1850 and 2015 CE, respectively. We estimate the irrigated rice area (paddy) to be 0.1 % (13 Mha, range 9–16 Mha) in 1700 CE, 0.2 % (28 Mha, range 26–31 Mha) in 1850 CE and 0.9 % (118 Mha, range 117–120 Mha) in 2015 CE. The estimates for land used for grazing are much more uncertain. We estimate that the share of grazing land grew from 5.1 % in 1700 CE (667 Mha, range 507–820 Mha) to 9.6 % in 1850 CE (1192 Mha, range 1068–1304 Mha) and 24.9 % in 2015 CE (3241 Mha, range 3211–3270 Mha). To aid the modelling community we have divided land used for grazing into more intensively used pasture, less intensively used converted rangeland and less or unmanaged natural unconverted rangeland. Pasture occupied 1.1 % in 1700 CE (145 Mha, range 79–175 Mha), 1.9 % in 1850 CE (253 Mha, range 218–287 Mha) and 6.0 % (787 Mha, range 779–795 Mha) in 2015 CE, while rangelands usually occupied more space due to their occurrence in more arid regions and thus lower yields to sustain livestock. We estimate converted rangeland at 0.6 % in 1700 CE (82 Mha range 66–93 Mha), 1 % in 1850 CE (129 Mha range 118–136 Mha) and 2.4 % in 2015 CE (310 Mha range 306–312 Mha), while the unconverted natural rangelands occupied approximately 3.4 % in 1700 CE (437 Mha, range 334–533 Mha), 6.2 % in 1850 CE (810 Mha, range 733–881 Mha) and 16.5 % in 2015 CE (2145 Mha, range 2126–2164 Mha).",
+			"abstract_source": "openalex",
+			"keywords": [
+				"anthropogenic land use",
+				"Holocene",
+				"cropland",
+				"irrigated rice",
+				"rainfed rice",
+				"pasture",
+				"rangeland",
+				"population density",
+				"urban built-up area",
+				"historical population estimates",
+				"land allocation",
+				"global environmental history"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
 			"key": "GBH2024a",
 			"type": "article",
 			"title": "Auditing Geospatial Datasets for Biases: Using Global Building Datasets for Disaster Risk Management",
@@ -21356,6 +21477,44 @@
 			"retrieved": "2026-11-18",
 			"checked": false,
 			"open_access": false
+		},
+		{
+			"key": "Gol2025a",
+			"type": "misc",
+			"title": "HYDE data for the Global Carbon Budget (2025)",
+			"authors": [
+				"Klein Goldewijk, Kees"
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2025,
+			"publisher": "Utrecht University",
+			"doi": "10.24416/UU01-F45D44",
+			"url": "https://doi.org/10.24416/UU01-F45D44",
+			"note": "Dataset, HYDE 3.5, version 1.0, CC BY 4.0",
+			"source": "datacite",
+			"openalex": "W6888950917",
+			"abstract": "This HYDE version 3.5 replaces former HYDE 3.4 version. This database presents an update and expansion of the History Database of the Global Environment (HYDE, v 3.5). HYDE is and internally consistent combination of updated historical population estimates and land use. Categories include cropland, with a new distinction into irrigated and rain fed crops (other than rice) and irrigated and rain fed rice. Also grazing lands are provided, divided into more intensively used pasture, converted rangeland and non-converted natural (less intensively used) rangeland. Population is represented by maps of total, urban, rural population and population density as well as built-up area. The period covered is 10,000 BCE to 2024 CE. Spatial resolution is 5 arc minutes (approx. 85 km2 at the equator), the files are in Arcmap asciigrid format. Major updates include: • Radiocarbon data from the IMSET project (Marc Vander Linden, pers.comm.) providing new estimates for EurAsia of the onset of agriculture (timing and location, gridded maps) • Implementation of new archaeological expertise from the ArchaeoGlobe Project (Stephens et al, 2019), onset of agriculture (timing and location per region, outside EurAsia) • Use of satellite information on land cover from the European Space Agency (ESA) consortium for the spatial land use allocation on a yearly basis from 1992 – 2018. • Use of different remote sensing imagery (MODIS) and statistics (MapBiomas version C9) for Brazil for the 1985-2023 period, and for Indonesia (MB 3.0) for the 2000-2023 period, China for the 1900-2019 period. • Update FAO data from 1961-2022 (2023-2025 extrapolated) • Extension of the database to year 2025 • More input on sub-national level for cropland and grazing land • netCDF added as output format",
+			"abstract_source": "openalex",
+			"keywords": [
+				"Hyde",
+				"land use",
+				"cropland",
+				"rice",
+				"pasture",
+				"rangeland",
+				"population density",
+				"built-up areas",
+				"carbon-14",
+				"archaeological data",
+				"land cover",
+				"cropland expansion",
+				"global carbon budget"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "GOV2022a",
@@ -40723,6 +40882,32 @@
 			"open_access": true
 		},
 		{
+			"key": "NASA2026a",
+			"type": "misc",
+			"title": "Earthdata Login: User Token Management",
+			"authors": [
+				"National Aeronautics and Space Administration"
+			],
+			"author_kind": "organisation",
+			"authors_complete": true,
+			"year": 2026,
+			"url": "https://urs.earthdata.nasa.gov/documentation/for_users/user_token",
+			"abstract": "The documentation of the user tokens of NASA's Earthdata Login: a user generates and manages tokens in the Earthdata Login profile or with the User Tokens API, whose methods create a token, list the tokens of an account, revoke a token, retrieve a token or create one when none exists (find_or_create_token), and renew a token, each authorised with the account's username and password in an HTTP Basic header. A user token is valid for 60 days, an account holds at most two valid tokens at a time, and an application sends the token as a Bearer token.",
+			"keywords": [
+				"NASA",
+				"Earthdata Login",
+				"user token",
+				"authentication",
+				"download"
+			],
+			"source": "manual",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract_source": "manual",
+			"keywords_source": "manual"
+		},
+		{
 			"key": "NASEM2019a",
 			"type": "book",
 			"title": "Reproducibility and Replicability in Science",
@@ -47194,6 +47379,73 @@
 			"retrieved": "2026-11-02",
 			"checked": true,
 			"open_access": false
+		},
+		{
+			"key": "RRS2016a",
+			"type": "article",
+			"title": "Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000",
+			"authors": [
+				"Reba, Meredith",
+				"Reitsma, Femke",
+				"Seto, Karen C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2016,
+			"journal": "Scientific Data",
+			"volume": "3",
+			"number": "1",
+			"pages": "160034",
+			"issn": "2052-4463",
+			"doi": "10.1038/sdata.2016.34",
+			"url": "https://doi.org/10.1038/sdata.2016.34",
+			"source": "crossref",
+			"openalex": "W2416708489",
+			"abstract": "How were cities distributed globally in the past? How many people lived in these cities? How did cities influence their local and regional environments? In order to understand the current era of urbanization, we must understand long-term historical urbanization trends and patterns. However, to date there is no comprehensive record of spatially explicit, historic, city-level population data at the global scale. Here, we developed the first spatially explicit dataset of urban settlements from 3700 BC to AD 2000, by digitizing, transcribing, and geocoding historical, archaeological, and census-based urban population data previously published in tabular form by Chandler and Modelski. The dataset creation process also required data cleaning and harmonization procedures to make the data internally consistent. Additionally, we created a reliability ranking for each geocoded location to assess the geographic uncertainty of each data point. The dataset provides the first spatially explicit archive of the location and size of urban populations over the last 6,000 years and can contribute to an improved understanding of contemporary and historical urbanization trends.",
+			"abstract_source": "openalex",
+			"keywords": [
+				"historical urbanization",
+				"urban population",
+				"urban settlement",
+				"geocoding",
+				"data harmonization",
+				"global cities"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true
+		},
+		{
+			"key": "RRS2018a",
+			"type": "misc",
+			"title": "Historical Urban Population: 3700 BC - AD 2000",
+			"authors": [
+				"Reba, Meredith",
+				"Reitsma, Femke",
+				"Seto, Karen C."
+			],
+			"author_kind": "persons",
+			"authors_complete": true,
+			"year": 2018,
+			"publisher": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+			"doi": "10.7927/H4ZG6QBX",
+			"url": "https://doi.org/10.7927/H4ZG6QBX",
+			"note": "Dataset, version 1.00; distributed by NASA Earthdata",
+			"source": "datacite",
+			"openalex": "W6959364871",
+			"keywords": [
+				"urbanization",
+				"demographic history",
+				"cities",
+				"settlement history"
+			],
+			"keywords_source": "openalex",
+			"retrieved": "2026-11-23",
+			"checked": false,
+			"open_access": true,
+			"abstract": "The Historical Urban Population, 3700 BC - AD 2000, originally developed by the Yale School of Forestry & Environmental Studies, is the first spatially explicit global data set containing location and size of urban populations over the last 6,000 years. The data set was created by digitizing, transcribing, and geocoding historical, archaeological, and census-based urban population data. Each data point consists of a city name, latitude, longitude, year, population, and a reliability ranking to assess the geographic uncertainty of each data point. Despite spatial and temporal gaps, no other geocoded data set at this resolution exists. It can therefore be used to investigate long-term historical urbanization trends and patterns, evaluate the current era of urbanization, and build a richer record of urban population through history.",
+			"abstract_source": "publisher"
 		},
 		{
 			"key": "RRS2020a",
@@ -76551,6 +76803,42 @@
 		{
 			"key": "OCGLG...2020a",
 			"count": 202,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "RRS2016a",
+			"count": 161,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "BBZ2013a",
+			"count": 398,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "GBDS2017a",
+			"count": 1466,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "Bur2020a",
+			"count": 3,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "RRS2018a",
+			"count": 5,
+			"source": "openalex",
+			"date": "2026-11-23"
+		},
+		{
+			"key": "Gol2025a",
+			"count": 5,
 			"source": "openalex",
 			"date": "2026-11-23"
 		}
