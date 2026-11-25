@@ -2019,6 +2019,7 @@
 			"url": "https://doi.org/10.1257/000282803321455214",
 			"openalex": "W3121794982",
 			"source": "openalex",
+			"open_access": false,
 			"abstract": "Gravity equations have been widely used to infer trade flow effects of various institutional arrangements. We show that estimated gravity equations do not have a theoretical foundation. This implies both that estimation suffers from omitted variables bias and that comparative statics analysis is unfounded. We develop a method that (i) consistently and efficiently estimates a theoretical gravity equation and (ii) correctly calculates the comparative statics of trade frictions. We apply the method to solve the famous McCallum border puzzle. Applying our method, we find that national borders reduce trade between industrialized countries by moderate amounts of 20–50 percent."
 		},
 		{
@@ -2973,7 +2974,9 @@
 			"abstract_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-25",
-			"checked": false
+			"checked": false,
+			"open_access": true,
+			"oa_url": "https://link.springer.com/content/pdf/10.1007/s10994-009-5152-4.pdf"
 		},
 		{
 			"key": "BBDG2018a",
@@ -10192,6 +10195,7 @@
 			"openalex": "W3014036974",
 			"oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1536867X20909691",
 			"source": "openalex",
+			"open_access": true,
 			"abstract": "In this article, we present ppmlhdfe, a new command for estimation of (pseudo-)Poisson regression models with multiple high-dimensional fixed effects (HDFE). Estimation is implemented using a modified version of the iteratively reweighted least-squares algorithm that allows for fast estimation in the presence of HDFE. Because the code is built around the reghdfe package ( Correia, 2014 , Statistical Software Components S457874, Department of Economics, Boston College), it has similar syntax, supports many of the same functionalities, and benefits from reghdfe‘s fast convergence properties for computing high-dimensional leastsquares problems. Performance is further enhanced by some new techniques we introduce for accelerating HDFE iteratively reweighted least-squares estimation specifically. ppmlhdfe also implements a novel and more robust approach to check for the existence of (pseudo)maximum likelihood estimates."
 		},
 		{
@@ -12753,7 +12757,8 @@
 			"doi": "10.1016/0304-4076(90)90014-K",
 			"url": "https://doi.org/10.1016/0304-4076(90)90014-K",
 			"openalex": "W1972707698",
-			"source": "openalex"
+			"source": "openalex",
+			"open_access": false
 		},
 		{
 			"key": "CT2004a",
@@ -14086,7 +14091,8 @@
 			"abstract_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-24",
-			"checked": false
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "DDT2019a",
@@ -18529,6 +18535,7 @@
 			"url": "https://doi.org/10.1111/j.1467-9787.1982.tb00744.x",
 			"openalex": "W1993723510",
 			"source": "openalex",
+			"open_access": false,
 			"abstract": "\"In this paper, [the authors] suggest an alternative method for fitting the gravity model. In this method, the interaction variable is treated as the outcome of a discrete probability process, whose mean is a function of the size and distance variables. This treatment seems appropriate when the dependent variable represents a count of the number of items (people, vehicles, shipments) moving from one place to another. It would seem to have special advantages where there are some pairs of places between which few items move. The argument will be illustrated with reference to data on the numbers of migrants moving in 1970-1971 between pairs of the 126 labor market areas defined for Great Britain....\""
 		},
 		{
@@ -23721,7 +23728,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026b",
@@ -23746,7 +23754,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026c",
@@ -23771,7 +23780,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026d",
@@ -23795,7 +23805,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026e",
@@ -23820,7 +23831,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026f",
@@ -23844,7 +23856,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026g",
@@ -23868,7 +23881,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-21",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Gra1969a",
@@ -32108,7 +32122,9 @@
 			"abstract_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-24",
-			"checked": false
+			"checked": false,
+			"open_access": true,
+			"oa_url": "https://arxiv.org/pdf/1805.08974"
 		},
 		{
 			"key": "KSSSU2017a",
@@ -35273,6 +35289,7 @@
 			"url": "https://doi.org/10.1111/j.1467-9787.2008.00573.x",
 			"openalex": "W2018474251",
 			"source": "openalex",
+			"open_access": false,
 			"abstract": "ABSTRACT Standard spatial autoregressive models rely on spatial weight structures constructed to model dependence among n regions. Ways of parsimoniously modeling the connectivity among the sample of N = n 2 origin‐destination (OD) pairs that arise in a closed system of interregional flows has remained a stumbling block. We overcome this problem by proposing spatial weight structures that model dependence among the N OD pairs in a fashion consistent with standard spatial autoregressive models. This results in a family of spatial OD models introduced here that represent an extension of the spatial regression models described in Anselin (1988) ."
 		},
 		{
@@ -40600,7 +40617,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-20",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Mar1952a",
@@ -44123,6 +44141,7 @@
 			"openalex": "W2559994852",
 			"oa_url": "http://openjournals.wu.ac.at/ojs/index.php/region/article/download/175/122",
 			"source": "openalex",
+			"open_access": true,
 			"abstract": "This primer provides a practical guide to get started with spatial interaction modeling using the SpInt module in the python spatial analysis library (PySAL)."
 		},
 		{
@@ -45547,7 +45566,8 @@
 			"abstract_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-24",
-			"checked": false
+			"checked": false,
+			"open_access": false
 		},
 		{
 			"key": "PZHZ2022a",
@@ -50011,7 +50031,9 @@
 			"abstract_source": "openalex",
 			"source": "crossref",
 			"retrieved": "2026-11-24",
-			"checked": false
+			"checked": false,
+			"open_access": true,
+			"oa_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-149178"
 		},
 		{
 			"key": "SATSE...2025a",
@@ -52822,6 +52844,7 @@
 			"openalex": "W2100130392",
 			"oa_url": "https://direct.mit.edu/rest/article-pdf/88/4/641/1982805/rest.88.4.641.pdf",
 			"source": "openalex",
+			"open_access": true,
 			"abstract": "Abstract Although economists have long been aware of Jensen's inequality, many econometric applications have neglected an important implication of it: under heteroskedasticity, the parameters of log-linearized models estimated by OLS lead to biased estimates of the true elasticities. We explain why this problem arises and propose an appropriate estimator. Our criticism of conventional practices and the proposed solution extend to a broad range of applications where log-linearized equations are estimated. We develop the argument using one particular illustration, the gravity equation for trade. We find significant differences between estimates obtained with the proposed estimator and those obtained with the traditional method."
 		},
 		{
@@ -59488,6 +59511,7 @@
 			"url": "https://doi.org/10.1068/a030001",
 			"openalex": "W2100963312",
 			"source": "openalex",
+			"open_access": false,
 			"abstract": "This paper shows that the gravity model is not a single model but that there is a whole family of spatial interaction models. The properties of this family are outlined in some detail. Basic concepts of such models can be developed in a variety of ways, and these are illustrated. The paper then outlines a number of other theoretical developments, and is particularly concerned with the disaggregation of such models, with the incorporation of time variables, and with the relation of spatial interaction, to more general, models. Uses of spatial interaction models are outlined briefly and the final section of the paper draws a number of conclusions and presents a summary."
 		},
 		{
@@ -62528,7 +62552,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-23",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "Goo2026i",
@@ -62555,7 +62580,8 @@
 			"keywords_source": "manual",
 			"source": "manual",
 			"retrieved": "2026-11-23",
-			"checked": false
+			"checked": false,
+			"open_access": true
 		},
 		{
 			"key": "YCBL2014a",
